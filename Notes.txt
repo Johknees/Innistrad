@@ -1,3 +1,8 @@
 Politics - Gamify. Don't rely on roleplaying.
 Gold - make not useless
 Questing paladin - go get loot. Track down legends.
+
+Folder ideas:
+	Encounter scenarios w/link to card (wolf here or ahh it's that guy!)
+	Location ideas w/link to card (unnamed locations - cursed alter etc)
+	Enemy type list w/link to card
