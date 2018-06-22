@@ -17,7 +17,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "You gain 2 life for each card in your graveyard, then shuffle your graveyard into your library.",
-    "flavor": "\"This is the light of Avacyn. Even in her absence she offers us hope.\"\n—Radulf, priest of Avacyn",
+    "flavor": "\"This is the light of Avacyn. Even in her absence she offers us hope.\" -Radulf, priest of Avacyn",
     "artist": "Volkan Baga",
     "number": "1",
     "layout": "normal",
@@ -142,7 +142,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "Creatures you control get +0/+4 until end of turn.",
-    "flavor": "\"It may not look like much, but it's a good old door with strong wards. It'll hold.\"\n—Olgard of the Skiltfolk",
+    "flavor": "\"It may not look like much, but it's a good old door with strong wards. It'll hold.\" -Olgard of the Skiltfolk",
     "artist": "Ryan Pancoast",
     "number": "2",
     "layout": "normal",
@@ -256,7 +256,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Creatures you control get +1/+1 until end of turn.\nFateful hour — If you have 5 or less life, those creatures gain indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy them.)",
+    "text": "Creatures you control get +1/+1 until end of turn. Fateful hour - If you have 5 or less life, those creatures gain indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy them.)",
     "artist": "Karl Kopinski",
     "number": "3",
     "layout": "normal",
@@ -337,7 +337,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Creatures you control get +1/+1 until end of turn.\nFateful hour — If you have 5 or less life, those creatures also are indestructible this turn. (Lethal damage and effects that say \"destroy\" don't destroy them.)",
+    "originalText": "Creatures you control get +1/+1 until end of turn. Fateful hour - If you have 5 or less life, those creatures also are indestructible this turn. (Lethal damage and effects that say \"destroy\" don't destroy them.)",
     "originalType": "Instant",
     "legalities": [
       {
@@ -373,7 +373,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -383,8 +383,8 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Enchant creature\n{1}: Tap enchanted creature.",
-    "flavor": "\"Grab an axe and defend the gate! Your despair is an extravagance we can ill afford.\"\n—Thalia, Knight-Cathar",
+    "text": "Enchant creature {1}: Tap enchanted creature.",
+    "flavor": "\"Grab an axe and defend the gate! Your despair is an extravagance we can ill afford.\" -Thalia, Knight-Cathar",
     "artist": "John Stanko",
     "number": "4",
     "layout": "normal",
@@ -461,8 +461,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Enchant creature\n{1}: Tap enchanted creature.",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature {1}: Tap enchanted creature.",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -497,7 +497,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Enchantment — Aura Curse",
+    "type": "Enchantment - Aura Curse",
     "types": [
       "Enchantment"
     ],
@@ -508,8 +508,8 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Enchant player\nEnchanted player can't cast more than one spell each turn.",
-    "flavor": "\"I do believe your heresy will prove more difficult now that you have more pressing concerns.\"\n—Bishop Argust",
+    "text": "Enchant player Enchanted player can't cast more than one spell each turn.",
+    "flavor": "\"I do believe your heresy will prove more difficult now that you have more pressing concerns.\" -Bishop Argust",
     "artist": "Slawomir Maniak",
     "number": "5",
     "layout": "normal",
@@ -586,8 +586,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Enchant player\nEnchanted player can't cast more than one spell each turn.",
-    "originalType": "Enchantment — Aura Curse",
+    "originalText": "Enchant player Enchanted player can't cast more than one spell each turn.",
+    "originalType": "Enchantment - Aura Curse",
     "legalities": [
       {
         "format": "Commander",
@@ -622,7 +622,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Cleric",
+    "type": "Creature - Human Cleric",
     "types": [
       "Creature"
     ],
@@ -633,7 +633,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nWhen Elgaud Inquisitor dies, create a 1/1 white Spirit creature token with flying.",
+    "text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.) When Elgaud Inquisitor dies, create a 1/1 white Spirit creature token with flying.",
     "flavor": "\"It will take more than steel alone to purge this world of evil.\"",
     "artist": "Slawomir Maniak",
     "number": "6",
@@ -707,8 +707,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nWhen Elgaud Inquisitor dies, put a 1/1 white Spirit creature token with flying onto the battlefield.",
-    "originalType": "Creature — Human Cleric",
+    "originalText": "Lifelink (Damage dealt by this creature also causes you to gain that much life.) When Elgaud Inquisitor dies, put a 1/1 white Spirit creature token with flying onto the battlefield.",
+    "originalType": "Creature - Human Cleric",
     "legalities": [
       {
         "format": "Commander",
@@ -750,7 +750,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Target permanent you control gains protection from the color of your choice until end of turn.\nFateful hour — If you have 5 or less life, instead you and each permanent you control gain protection from the color of your choice until end of turn.",
+    "text": "Target permanent you control gains protection from the color of your choice until end of turn. Fateful hour - If you have 5 or less life, instead you and each permanent you control gain protection from the color of your choice until end of turn.",
     "artist": "Svetlin Velinov",
     "number": "7",
     "layout": "normal",
@@ -835,7 +835,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Target permanent you control gains protection from the color of your choice until end of turn.\nFateful hour — If you have 5 or less life, instead you and each permanent you control gain protection from the color of your choice until end of turn.",
+    "originalText": "Target permanent you control gains protection from the color of your choice until end of turn. Fateful hour - If you have 5 or less life, instead you and each permanent you control gain protection from the color of your choice until end of turn.",
     "originalType": "Instant",
     "legalities": [
       {
@@ -878,7 +878,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Create two 1/1 white Human creature tokens.\nFateful hour — If you have 5 or less life, create five of those tokens instead.",
+    "text": "Create two 1/1 white Human creature tokens. Fateful hour - If you have 5 or less life, create five of those tokens instead.",
     "flavor": "In the memories of those they lost lies the strength needed to defend their city.",
     "artist": "Dan Scott",
     "number": "8",
@@ -952,7 +952,7 @@
       "DKA",
       "DDQ"
     ],
-    "originalText": "Put two 1/1 white Human creature tokens onto the battlefield.\nFateful hour — If you have 5 or less life, put five of those tokens onto the battlefield instead.",
+    "originalText": "Put two 1/1 white Human creature tokens onto the battlefield. Fateful hour - If you have 5 or less life, put five of those tokens onto the battlefield instead.",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -988,7 +988,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Soldier",
+    "type": "Creature - Human Soldier",
     "types": [
       "Creature"
     ],
@@ -999,7 +999,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Fateful hour — As long as you have 5 or less life, other creatures you control get +1/+4.",
+    "text": "Fateful hour - As long as you have 5 or less life, other creatures you control get +1/+4.",
     "flavor": "\"I wish my work could shelter everyone, yet I pray we are never so few that it does.\"",
     "artist": "Karl Kopinski",
     "number": "9",
@@ -1073,8 +1073,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Fateful hour — As long as you have 5 or less life, other creatures you control get +1/+4.",
-    "originalType": "Creature — Human Soldier",
+    "originalText": "Fateful hour - As long as you have 5 or less life, other creatures you control get +1/+4.",
+    "originalType": "Creature - Human Soldier",
     "legalities": [
       {
         "format": "Commander",
@@ -1109,7 +1109,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -1119,7 +1119,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying\nWhen Hollowhenge Spirit enters the battlefield, remove target attacking or blocking creature from combat.",
+    "text": "Flash (You may cast this spell any time you could cast an instant.) Flying When Hollowhenge Spirit enters the battlefield, remove target attacking or blocking creature from combat.",
     "flavor": "Some spirits mourn. Others terrorize.",
     "artist": "Lars Grant-West",
     "number": "10",
@@ -1208,8 +1208,8 @@
       "DKA",
       "CN2"
     ],
-    "originalText": "Flash (You may cast this spell any time you could cast an instant.)\nFlying\nWhen Hollowhenge Spirit enters the battlefield, remove target attacking or blocking creature from combat.",
-    "originalType": "Creature — Spirit",
+    "originalText": "Flash (You may cast this spell any time you could cast an instant.) Flying When Hollowhenge Spirit enters the battlefield, remove target attacking or blocking creature from combat.",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -1251,7 +1251,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Create five 1/1 white Human creature tokens. If Increasing Devotion was cast from a graveyard, create ten of those tokens instead.\nFlashback {7}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Create five 1/1 white Human creature tokens. If Increasing Devotion was cast from a graveyard, create ten of those tokens instead. Flashback {7}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "artist": "Daniel Ljunggren",
     "number": "11",
     "layout": "normal",
@@ -1323,7 +1323,7 @@
       "DKA",
       "DDQ"
     ],
-    "originalText": "Put five 1/1 white Human creature tokens onto the battlefield. If Increasing Devotion was cast from a graveyard, put ten of those tokens onto the battlefield instead.\nFlashback {7}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Put five 1/1 white Human creature tokens onto the battlefield. If Increasing Devotion was cast from a graveyard, put ten of those tokens onto the battlefield instead. Flashback {7}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -1367,7 +1367,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Create two 1/1 white Spirit creature tokens with flying.\nFlashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Create two 1/1 white Spirit creature tokens with flying. Flashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "flavor": "The murdered inhabitants of Hollowhenge impart to the living the terror they felt in death.",
     "artist": "Bud Cook",
     "number": "12",
@@ -1443,7 +1443,7 @@
       "MD1",
       "MM3"
     ],
-    "originalText": "Put two 1/1 white Spirit creature tokens with flying onto the battlefield.\nFlashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Put two 1/1 white Spirit creature tokens with flying onto the battlefield. Flashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -1484,7 +1484,7 @@
       "B",
       "W"
     ],
-    "type": "Creature — Human Soldier",
+    "type": "Creature - Human Soldier",
     "types": [
       "Creature"
     ],
@@ -1495,8 +1495,8 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Vigilance\nWhen Loyal Cathar dies, return it to the battlefield transformed under your control at the beginning of the next end step.",
-    "flavor": "\"I trust myself to do my duty, even unto death. It's what comes after that I'm afraid of.\"\n—Constable Visil, to Thalia",
+    "text": "Vigilance When Loyal Cathar dies, return it to the battlefield transformed under your control at the beginning of the next end step.",
+    "flavor": "\"I trust myself to do my duty, even unto death. It's what comes after that I'm afraid of.\" -Constable Visil, to Thalia",
     "artist": "Ryan Pancoast",
     "number": "13a",
     "power": "2",
@@ -1591,8 +1591,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Vigilance\nWhen Loyal Cathar dies, return it to the battlefield transformed under your control at the beginning of the next end step.",
-    "originalType": "Creature — Human Soldier",
+    "originalText": "Vigilance When Loyal Cathar dies, return it to the battlefield transformed under your control at the beginning of the next end step.",
+    "originalType": "Creature - Human Soldier",
     "legalities": [
       {
         "format": "Commander",
@@ -1631,7 +1631,7 @@
       "B",
       "W"
     ],
-    "type": "Creature — Zombie Soldier",
+    "type": "Creature - Zombie Soldier",
     "types": [
       "Creature"
     ],
@@ -1643,7 +1643,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "Unhallowed Cathar can't block.",
-    "flavor": "\"Just fight without fear. Your soul is protected by the hand of Avacyn and will never submit to evil.\"\n—Thalia, to Constable Visil",
+    "flavor": "\"Just fight without fear. Your soul is protected by the hand of Avacyn and will never submit to evil.\" -Thalia, to Constable Visil",
     "artist": "Ryan Pancoast",
     "number": "13b",
     "power": "2",
@@ -1717,7 +1717,7 @@
       "DKA"
     ],
     "originalText": "Unhallowed Cathar can't block.",
-    "originalType": "Creature — Zombie Soldier",
+    "originalType": "Creature - Zombie Soldier",
     "legalities": [
       {
         "format": "Commander",
@@ -1752,7 +1752,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Soldier",
+    "type": "Creature - Human Soldier",
     "types": [
       "Creature"
     ],
@@ -1764,7 +1764,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "Whenever another creature enters the battlefield, untap Midnight Guard.",
-    "flavor": "\"When you're on watch, no noise is harmless and no shadow can be ignored.\"\n—Olgard of the Skiltfolk",
+    "flavor": "\"When you're on watch, no noise is harmless and no shadow can be ignored.\" -Olgard of the Skiltfolk",
     "artist": "Jason A. Engle",
     "number": "14",
     "power": "2",
@@ -1839,7 +1839,7 @@
       "M15"
     ],
     "originalText": "Whenever another creature enters the battlefield, untap Midnight Guard.",
-    "originalType": "Creature — Human Soldier",
+    "originalType": "Creature - Human Soldier",
     "legalities": [
       {
         "format": "Commander",
@@ -1874,7 +1874,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -1884,8 +1884,8 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying\nWhen Niblis of the Mist enters the battlefield, you may tap target creature.",
-    "flavor": "\"Not even a roaring fire could thaw the chill it put in my heart.\"\n—Vonn, geist-trapper",
+    "text": "Flying When Niblis of the Mist enters the battlefield, you may tap target creature.",
+    "flavor": "\"Not even a roaring fire could thaw the chill it put in my heart.\" -Vonn, geist-trapper",
     "artist": "Igor Kieryluk",
     "number": "15",
     "power": "2",
@@ -1958,8 +1958,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Flying\nWhen Niblis of the Mist enters the battlefield, you may tap target creature.",
-    "originalType": "Creature — Spirit",
+    "originalText": "Flying When Niblis of the Mist enters the battlefield, you may tap target creature.",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -1994,7 +1994,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -2004,8 +2004,8 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying\nWhenever Niblis of the Urn attacks, you may tap target creature.",
-    "flavor": "\"I never had the nerve to open that bottle. I'll bet you're wishing right now you hadn't been so curious yourself.\"\n—Old Rutstein",
+    "text": "Flying Whenever Niblis of the Urn attacks, you may tap target creature.",
+    "flavor": "\"I never had the nerve to open that bottle. I'll bet you're wishing right now you hadn't been so curious yourself.\" -Old Rutstein",
     "artist": "Igor Kieryluk",
     "number": "16",
     "power": "1",
@@ -2078,8 +2078,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Flying\nWhenever Niblis of the Urn attacks, you may tap target creature.",
-    "originalType": "Creature — Spirit",
+    "originalText": "Flying Whenever Niblis of the Urn attacks, you may tap target creature.",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -2122,8 +2122,8 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Destroy target enchantment.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
-    "flavor": "\"May angels carry him into the Blessed Sleep with dreams of sunlit days and moonless nights.\"\n—Tomb inscription of Saint Raban",
+    "text": "Destroy target enchantment. Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "flavor": "\"May angels carry him into the Blessed Sleep with dreams of sunlit days and moonless nights.\" -Tomb inscription of Saint Raban",
     "artist": "Cliff Childs",
     "number": "17",
     "layout": "normal",
@@ -2195,7 +2195,7 @@
       "JUD",
       "DKA"
     ],
-    "originalText": "Destroy target enchantment.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Destroy target enchantment. Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Instant",
     "legalities": [
       {
@@ -2235,7 +2235,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Angel",
+    "type": "Creature - Angel",
     "types": [
       "Creature"
     ],
@@ -2245,7 +2245,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying\nWhenever another non-Spirit creature you control dies, create a 1/1 white Spirit creature token with flying.",
+    "text": "Flying Whenever another non-Spirit creature you control dies, create a 1/1 white Spirit creature token with flying.",
     "flavor": "When angels despair, what hope can remain for mortals?",
     "artist": "Eric Deschamps",
     "number": "18",
@@ -2320,8 +2320,8 @@
       "DKA",
       "C14"
     ],
-    "originalText": "Flying\nWhenever another non-Spirit creature you control dies, put a 1/1 white Spirit creature token with flying onto the battlefield.",
-    "originalType": "Creature — Angel",
+    "originalText": "Flying Whenever another non-Spirit creature you control dies, put a 1/1 white Spirit creature token with flying onto the battlefield.",
+    "originalType": "Creature - Angel",
     "legalities": [
       {
         "format": "Commander",
@@ -2356,7 +2356,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Cat",
+    "type": "Creature - Cat",
     "types": [
       "Creature"
     ],
@@ -2439,7 +2439,7 @@
     "printings": [
       "DKA"
     ],
-    "originalType": "Creature — Cat",
+    "originalType": "Creature - Cat",
     "legalities": [
       {
         "format": "Commander",
@@ -2615,7 +2615,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Griffin",
+    "type": "Creature - Griffin",
     "types": [
       "Creature"
     ],
@@ -2700,7 +2700,7 @@
       "DKA"
     ],
     "originalText": "Flying, first strike",
-    "originalType": "Creature — Griffin",
+    "originalType": "Creature - Griffin",
     "legalities": [
       {
         "format": "Commander",
@@ -2743,7 +2743,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "Target creature gets +2/+0 and gains first strike until end of turn.",
-    "flavor": "\"Valor is a currency of the living that serves us well.\"\n—Cosper Lowe of the Silbern Guard",
+    "flavor": "\"Valor is a currency of the living that serves us well.\" -Cosper Lowe of the Silbern Guard",
     "artist": "Jason Felix",
     "number": "22",
     "layout": "normal",
@@ -2970,7 +2970,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Legendary Creature — Human Soldier",
+    "type": "Legendary Creature - Human Soldier",
     "supertypes": [
       "Legendary"
     ],
@@ -2984,7 +2984,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "First strike\nNoncreature spells cost {1} more to cast.",
+    "text": "First strike Noncreature spells cost {1} more to cast.",
     "flavor": "\"Thraben is our home and I will not see it fall to this unhallowed horde.\"",
     "artist": "Jana Schirmer & Johannes Voss",
     "number": "24",
@@ -3070,8 +3070,8 @@
       "pWCQ",
       "A25"
     ],
-    "originalText": "First strike\nNoncreature spells cost {1} more to cast.",
-    "originalType": "Legendary Creature — Human Soldier",
+    "originalText": "First strike Noncreature spells cost {1} more to cast.",
+    "originalType": "Legendary Creature - Human Soldier",
     "legalities": [
       {
         "format": "Commander",
@@ -3106,7 +3106,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Cleric",
+    "type": "Creature - Human Cleric",
     "types": [
       "Creature"
     ],
@@ -3117,7 +3117,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "{T}: Create a 1/1 white Human creature token.\nFateful hour — As long as you have 5 or less life, other creatures you control get +2/+2.",
+    "text": "{T}: Create a 1/1 white Human creature token. Fateful hour - As long as you have 5 or less life, other creatures you control get +2/+2.",
     "flavor": "\"Swarms of the unhallowed claw at Thraben's gates! Do you still deny the end approaches?\"",
     "artist": "John Stanko",
     "number": "25",
@@ -3201,8 +3201,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "{T}: Put a 1/1 white Human creature token onto the battlefield.\nFateful hour — As long as you have 5 or less life, other creatures you control get +2/+2.",
-    "originalType": "Creature — Human Cleric",
+    "originalText": "{T}: Put a 1/1 white Human creature token onto the battlefield. Fateful hour - As long as you have 5 or less life, other creatures you control get +2/+2.",
+    "originalType": "Creature - Human Cleric",
     "legalities": [
       {
         "format": "Commander",
@@ -3237,7 +3237,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Wizard",
+    "type": "Creature - Human Wizard",
     "types": [
       "Creature"
     ],
@@ -3324,7 +3324,7 @@
       "DDQ"
     ],
     "originalText": "{T}: Exile target creature card from a graveyard.",
-    "originalType": "Creature — Human Wizard",
+    "originalType": "Creature - Human Wizard",
     "legalities": [
       {
         "format": "Commander",
@@ -3366,7 +3366,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Target creature can't be blocked this turn.\nFlashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Target creature can't be blocked this turn. Flashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "flavor": "Those who know the alleys and sewers of the Erdwal can disappear like smoke.",
     "artist": "Tomasz Jedruszek",
     "number": "27",
@@ -3438,7 +3438,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Target creature is unblockable this turn.\nFlashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Target creature is unblockable this turn. Flashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -3474,7 +3474,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Human Wizard",
+    "type": "Creature - Human Wizard",
     "types": [
       "Creature"
     ],
@@ -3570,7 +3570,7 @@
       "DKA"
     ],
     "originalText": "{T}: Gain control of target creature with power less than or equal to the number of creatures you control.",
-    "originalType": "Creature — Human Wizard",
+    "originalType": "Creature - Human Wizard",
     "legalities": [
       {
         "format": "Commander",
@@ -3612,8 +3612,8 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Counter target creature spell.\nDraw a card.",
-    "flavor": "\"I can think of worse ways to go. On second thought, maybe not.\"\n—Ludevic, necro-alchemist",
+    "text": "Counter target creature spell. Draw a card.",
+    "flavor": "\"I can think of worse ways to go. On second thought, maybe not.\" -Ludevic, necro-alchemist",
     "artist": "Clint Cearley",
     "number": "29",
     "layout": "normal",
@@ -3695,7 +3695,7 @@
       "DKA",
       "ORI"
     ],
-    "originalText": "Counter target creature spell.\nDraw a card.",
+    "originalText": "Counter target creature spell. Draw a card.",
     "originalType": "Instant",
     "legalities": [
       {
@@ -3731,7 +3731,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -3741,7 +3741,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Enchant creature\nAt the beginning of your upkeep, you may look at the top five cards of your library. If you do, you may put a creature card that shares a creature type with enchanted creature from among them onto the battlefield, then you put the rest of those cards on the bottom of your library in any order.",
+    "text": "Enchant creature At the beginning of your upkeep, you may look at the top five cards of your library. If you do, you may put a creature card that shares a creature type with enchanted creature from among them onto the battlefield, then you put the rest of those cards on the bottom of your library in any order.",
     "artist": "Jason A. Engle",
     "number": "30",
     "layout": "normal",
@@ -3818,8 +3818,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Enchant creature\nAt the beginning of your upkeep, you may look at the top five cards of your library. If you do, you may put a creature card that shares a creature type with enchanted creature from among them onto the battlefield, then you put the rest of those cards on the bottom of your library in any order.",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature At the beginning of your upkeep, you may look at the top five cards of your library. If you do, you may put a creature card that shares a creature type with enchanted creature from among them onto the battlefield, then you put the rest of those cards on the bottom of your library in any order.",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -3854,7 +3854,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -3864,8 +3864,8 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Enchant creature\nEnchanted creature gets -13/-0.",
-    "flavor": "The skifsang, seafarers of Nephalia, craft spells like other sailors craft nets—making them strong enough to snare even the deadliest catch.",
+    "text": "Enchant creature Enchanted creature gets -13/-0.",
+    "flavor": "The skifsang, seafarers of Nephalia, craft spells like other sailors craft nets-making them strong enough to snare even the deadliest catch.",
     "artist": "Nils Hamm",
     "number": "31",
     "layout": "normal",
@@ -3942,8 +3942,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Enchant creature\nEnchanted creature gets -13/-0.",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature Enchanted creature gets -13/-0.",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -3985,7 +3985,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Each player puts the top five cards of their library into their graveyard.\nFlashback {7}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Each player puts the top five cards of their library into their graveyard. Flashback {7}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "flavor": "\"Wait . . . did you fellows hear something?\"",
     "artist": "Terese Nielsen",
     "number": "32",
@@ -4057,7 +4057,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Each player puts the top five cards of his or her library into his or her graveyard.\nFlashback {7}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Each player puts the top five cards of his or her library into his or her graveyard. Flashback {7}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -4222,7 +4222,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Enchantment — Aura Curse",
+    "type": "Enchantment - Aura Curse",
     "types": [
       "Enchantment"
     ],
@@ -4233,7 +4233,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Enchant player\nWhenever enchanted player casts an instant or sorcery spell, each other player may copy that spell and may choose new targets for the copy they control.",
+    "text": "Enchant player Whenever enchanted player casts an instant or sorcery spell, each other player may copy that spell and may choose new targets for the copy they control.",
     "artist": "Slawomir Maniak",
     "number": "34",
     "layout": "normal",
@@ -4254,7 +4254,7 @@
       },
       {
         "date": "2011-01-22",
-        "text": "If the original spell is modal (that is, it says \"Choose one —\" or the like), each copy will have the same mode(s). You can't choose different ones."
+        "text": "If the original spell is modal (that is, it says \"Choose one -\" or the like), each copy will have the same mode(s). You can't choose different ones."
       },
       {
         "date": "2011-01-22",
@@ -4330,8 +4330,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Enchant player\nWhenever enchanted player casts an instant or sorcery spell, each other player may copy that spell and may choose new targets for the copy he or she controls.",
-    "originalType": "Enchantment — Aura Curse",
+    "originalText": "Enchant player Whenever enchanted player casts an instant or sorcery spell, each other player may copy that spell and may choose new targets for the copy he or she controls.",
+    "originalType": "Enchantment - Aura Curse",
     "legalities": [
       {
         "format": "Commander",
@@ -4493,7 +4493,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -4503,7 +4503,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying\nWhen Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists.",
+    "text": "Flying When Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists.",
     "artist": "Nils Hamm",
     "number": "36",
     "power": "3",
@@ -4592,8 +4592,8 @@
       "C13",
       "CMA"
     ],
-    "originalText": "Flying\nWhen Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists.",
-    "originalType": "Creature — Spirit",
+    "originalText": "Flying When Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists.",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -4628,7 +4628,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Zombie Horror",
+    "type": "Creature - Zombie Horror",
     "types": [
       "Creature"
     ],
@@ -4639,7 +4639,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "When Geralf's Mindcrusher enters the battlefield, target player puts the top five cards of their library into their graveyard.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "text": "When Geralf's Mindcrusher enters the battlefield, target player puts the top five cards of their library into their graveyard. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
     "artist": "Steven Belledin",
     "number": "37",
     "power": "5",
@@ -4712,8 +4712,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "When Geralf's Mindcrusher enters the battlefield, target player puts the top five cards of his or her library into his or her graveyard.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Zombie Horror",
+    "originalText": "When Geralf's Mindcrusher enters the battlefield, target player puts the top five cards of his or her library into his or her graveyard. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "originalType": "Creature - Zombie Horror",
     "legalities": [
       {
         "format": "Commander",
@@ -4756,7 +4756,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "Put target creature on top of its owner's library.",
-    "flavor": "\"Beware the seagrafs just off the shore. These waters are filled with hungry geists looking for an easy meal.\"\n—Captain Eberhart",
+    "flavor": "\"Beware the seagrafs just off the shore. These waters are filled with hungry geists looking for an easy meal.\" -Captain Eberhart",
     "artist": "Igor Kieryluk",
     "number": "38",
     "layout": "normal",
@@ -4869,7 +4869,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Human Wizard",
+    "type": "Creature - Human Wizard",
     "types": [
       "Creature"
     ],
@@ -4966,7 +4966,7 @@
       "DDQ"
     ],
     "originalText": "{2}{U}, {T}, Exile a creature card from your graveyard: Put a 2/2 black Zombie creature token onto the battlefield, then put a +1/+1 counter on each Zombie creature you control.",
-    "originalType": "Creature — Human Wizard",
+    "originalType": "Creature - Human Wizard",
     "legalities": [
       {
         "format": "Commander",
@@ -5001,7 +5001,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Zombie Warrior",
+    "type": "Creature - Zombie Warrior",
     "types": [
       "Creature"
     ],
@@ -5012,7 +5012,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "As an additional cost to cast this spell, exile a creature card from your graveyard.\nHeadless Skaab enters the battlefield tapped.",
+    "text": "As an additional cost to cast this spell, exile a creature card from your graveyard. Headless Skaab enters the battlefield tapped.",
     "flavor": "A head is a needless encumbrance when muscle is all that's required.",
     "artist": "Johann Bodin",
     "number": "40",
@@ -5096,8 +5096,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "As an additional cost to cast Headless Skaab, exile a creature card from your graveyard.\nHeadless Skaab enters the battlefield tapped.",
-    "originalType": "Creature — Zombie Warrior",
+    "originalText": "As an additional cost to cast Headless Skaab, exile a creature card from your graveyard. Headless Skaab enters the battlefield tapped.",
+    "originalType": "Creature - Zombie Warrior",
     "legalities": [
       {
         "format": "Commander",
@@ -5139,7 +5139,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Target player puts the top X cards of their library into their graveyard. If Increasing Confusion was cast from a graveyard, that player puts twice that many cards into their graveyard instead.\nFlashback {X}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Target player puts the top X cards of their library into their graveyard. If Increasing Confusion was cast from a graveyard, that player puts twice that many cards into their graveyard instead. Flashback {X}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "artist": "Dan Scott",
     "number": "41",
     "layout": "normal",
@@ -5216,7 +5216,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Target player puts the top X cards of his or her library into his or her graveyard. If Increasing Confusion was cast from a graveyard, that player puts twice that many cards into his or her graveyard instead.\nFlashback {X}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Target player puts the top X cards of his or her library into his or her graveyard. If Increasing Confusion was cast from a graveyard, that player puts twice that many cards into his or her graveyard instead. Flashback {X}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -5260,7 +5260,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Return target instant or sorcery card from your graveyard to your hand.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Return target instant or sorcery card from your graveyard to your hand. Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "artist": "Scott Chou",
     "number": "42",
     "layout": "normal",
@@ -5338,7 +5338,7 @@
       "DKA",
       "C15"
     ],
-    "originalText": "Return target instant or sorcery card from your graveyard to your hand.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Return target instant or sorcery card from your graveyard to your hand. Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -5374,7 +5374,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Bird",
+    "type": "Creature - Bird",
     "types": [
       "Creature"
     ],
@@ -5384,8 +5384,8 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying",
-    "flavor": "\"Keep one eye on the cliff road or you may fall to your death. Keep one eye on the sky or your death may fall on you.\"\n—Manfried Ulmach, Elgaud Master-at-Arms",
+    "text": "Flash (You may cast this spell any time you could cast an instant.) Flying",
+    "flavor": "\"Keep one eye on the cliff road or you may fall to your death. Keep one eye on the sky or your death may fall on you.\" -Manfried Ulmach, Elgaud Master-at-Arms",
     "artist": "Wayne England",
     "number": "43",
     "power": "2",
@@ -5459,8 +5459,8 @@
       "DKA",
       "M14"
     ],
-    "originalText": "Flash (You may cast this spell any time you could cast an instant.)\nFlying",
-    "originalType": "Creature — Bird",
+    "originalText": "Flash (You may cast this spell any time you could cast an instant.) Flying",
+    "originalType": "Creature - Bird",
     "legalities": [
       {
         "format": "Commander",
@@ -5495,7 +5495,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -5505,8 +5505,8 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying\n{U}, {T}: You may tap or untap target creature.",
-    "flavor": "\"Why do the dead remain among us? Where is Flight Alabaster to lead them home? Where is Avacyn?\"\n—Eruth of Lambholt",
+    "text": "Flying {U}, {T}: You may tap or untap target creature.",
+    "flavor": "\"Why do the dead remain among us? Where is Flight Alabaster to lead them home? Where is Avacyn?\" -Eruth of Lambholt",
     "artist": "Igor Kieryluk",
     "number": "44",
     "power": "2",
@@ -5579,8 +5579,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Flying\n{U}, {T}: You may tap or untap target creature.",
-    "originalType": "Creature — Spirit",
+    "originalText": "Flying {U}, {T}: You may tap or untap target creature.",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -5615,7 +5615,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Zombie",
+    "type": "Creature - Zombie",
     "types": [
       "Creature"
     ],
@@ -5625,7 +5625,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "As an additional cost to cast this spell, exile a creature card from your graveyard.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "text": "As an additional cost to cast this spell, exile a creature card from your graveyard. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
     "artist": "Karl Kopinski",
     "number": "45",
     "power": "4",
@@ -5713,8 +5713,8 @@
       "DKA",
       "DDQ"
     ],
-    "originalText": "As an additional cost to cast Relentless Skaabs, exile a creature card from your graveyard.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Zombie",
+    "originalText": "As an additional cost to cast Relentless Skaabs, exile a creature card from your graveyard. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "originalType": "Creature - Zombie",
     "legalities": [
       {
         "format": "Commander",
@@ -5757,7 +5757,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Return target creature you own to your hand.\nFlashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Return target creature you own to your hand. Flashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "flavor": "Nothing's more valuable than perfect timing.",
     "artist": "Matt Stewart",
     "number": "46",
@@ -5835,7 +5835,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Return target creature you own to your hand.\nFlashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Return target creature you own to your hand. Flashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Instant",
     "legalities": [
       {
@@ -5871,7 +5871,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Zombie",
+    "type": "Creature - Zombie",
     "types": [
       "Creature"
     ],
@@ -5959,7 +5959,7 @@
       "EMA"
     ],
     "originalText": "When Screeching Skaab enters the battlefield, put the top two cards of your library into your graveyard.",
-    "originalType": "Creature — Zombie",
+    "originalType": "Creature - Zombie",
     "legalities": [
       {
         "format": "Commander",
@@ -6002,7 +6002,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "Whenever you cast a spell from your graveyard, draw a card.",
-    "flavor": "\"The veil between the living and the dead is so very thin that the whispers of the ancients can finally be heard.\"\n—Amalric of Midvast Hall",
+    "flavor": "\"The veil between the living and the dead is so very thin that the whispers of the ancients can finally be heard.\" -Amalric of Midvast Hall",
     "artist": "Eytan Zana",
     "number": "48",
     "layout": "normal",
@@ -6115,7 +6115,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -6125,7 +6125,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying\nWhenever Shriekgeist deals combat damage to a player, that player puts the top two cards of their library into their graveyard.",
+    "text": "Flying Whenever Shriekgeist deals combat damage to a player, that player puts the top two cards of their library into their graveyard.",
     "flavor": "Wounds of the flesh are easy to heal. Wounds of the mind may never be undone.",
     "artist": "Raymond Swanland",
     "number": "49",
@@ -6200,8 +6200,8 @@
       "DKA",
       "IMA"
     ],
-    "originalText": "Flying\nWhenever Shriekgeist deals combat damage to a player, that player puts the top two cards of his or her library into his or her graveyard.",
-    "originalType": "Creature — Spirit",
+    "originalText": "Flying Whenever Shriekgeist deals combat damage to a player, that player puts the top two cards of his or her library into his or her graveyard.",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -6240,7 +6240,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -6250,7 +6250,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying\nWhen Soul Seizer deals combat damage to a player, you may transform it. If you do, attach it to target creature that player controls.",
+    "text": "Flying When Soul Seizer deals combat damage to a player, you may transform it. If you do, attach it to target creature that player controls.",
     "artist": "Lucas Graciano",
     "number": "50a",
     "power": "1",
@@ -6341,8 +6341,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Flying\nWhen Soul Seizer deals combat damage to a player, you may transform it. If you do, attach it to target creature that player controls.",
-    "originalType": "Creature — Spirit",
+    "originalText": "Flying When Soul Seizer deals combat damage to a player, you may transform it. If you do, attach it to target creature that player controls.",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -6380,7 +6380,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -6390,7 +6390,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Enchant creature\nYou control enchanted creature.",
+    "text": "Enchant creature You control enchanted creature.",
     "flavor": "The body often twists and flails spasmodically as the spirit explores its new home.",
     "artist": "Lucas Graciano",
     "number": "50b",
@@ -6462,8 +6462,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Enchant creature\nYou control enchanted creature.",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature You control enchanted creature.",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -6498,7 +6498,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -6508,7 +6508,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying\nStormbound Geist can block only creatures with flying.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "text": "Flying Stormbound Geist can block only creatures with flying. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
     "artist": "Dan Scott",
     "number": "51",
     "power": "2",
@@ -6581,8 +6581,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Flying\nStormbound Geist can block only creatures with flying.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Spirit",
+    "originalText": "Flying Stormbound Geist can block only creatures with flying. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -6624,8 +6624,8 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Target player puts the top two cards of their library into their graveyard.\nDraw a card.",
-    "flavor": "\"As you inject the viscus vitae into the brain stem, don't let the spastic moaning bother you. It will soon become music to your ears.\"\n—Stitcher Geralf",
+    "text": "Target player puts the top two cards of their library into their graveyard. Draw a card.",
+    "flavor": "\"As you inject the viscus vitae into the brain stem, don't let the spastic moaning bother you. It will soon become music to your ears.\" -Stitcher Geralf",
     "artist": "David Rapoza",
     "number": "52",
     "layout": "normal",
@@ -6708,7 +6708,7 @@
       "DDM",
       "IMA"
     ],
-    "originalText": "Target player puts the top two cards of his or her library into his or her graveyard.\nDraw a card.",
+    "originalText": "Target player puts the top two cards of his or her library into his or her graveyard. Draw a card.",
     "originalType": "Instant",
     "legalities": [
       {
@@ -6744,7 +6744,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -6754,7 +6754,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying\nWhen Tower Geist enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.",
+    "text": "Flying When Tower Geist enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.",
     "flavor": "Jenrik's tower is served by those who once sought to enter it uninvited.",
     "artist": "Izzy",
     "number": "53",
@@ -6836,8 +6836,8 @@
       "ORI",
       "DDQ"
     ],
-    "originalText": "Flying\nWhen Tower Geist enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.",
-    "originalType": "Creature — Spirit",
+    "originalText": "Flying When Tower Geist enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -6872,7 +6872,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Zombie Cat",
+    "type": "Creature - Zombie Cat",
     "types": [
       "Creature"
     ],
@@ -6959,7 +6959,7 @@
       "M15"
     ],
     "originalText": "When Black Cat dies, target opponent discards a card at random.",
-    "originalType": "Creature — Zombie Cat",
+    "originalType": "Creature - Zombie Cat",
     "legalities": [
       {
         "format": "Commander",
@@ -6998,7 +6998,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Human",
+    "type": "Creature - Human",
     "types": [
       "Creature"
     ],
@@ -7093,7 +7093,7 @@
       "DKA"
     ],
     "originalText": "{T}, Tap an untapped Vampire you control: Transform Chosen of Markov.",
-    "originalType": "Creature — Human",
+    "originalType": "Creature - Human",
     "legalities": [
       {
         "format": "Commander",
@@ -7131,7 +7131,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Vampire",
+    "type": "Creature - Vampire",
     "types": [
       "Creature"
     ],
@@ -7214,7 +7214,7 @@
     "printings": [
       "DKA"
     ],
-    "originalType": "Creature — Vampire",
+    "originalType": "Creature - Vampire",
     "legalities": [
       {
         "format": "Commander",
@@ -7249,7 +7249,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Enchantment — Aura Curse",
+    "type": "Enchantment - Aura Curse",
     "types": [
       "Enchantment"
     ],
@@ -7260,7 +7260,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Enchant player\nAt the beginning of your upkeep, you may search your library for a Curse card that doesn't have the same name as a Curse attached to enchanted player, put it onto the battlefield attached to that player, then shuffle your library.",
+    "text": "Enchant player At the beginning of your upkeep, you may search your library for a Curse card that doesn't have the same name as a Curse attached to enchanted player, put it onto the battlefield attached to that player, then shuffle your library.",
     "artist": "Terese Nielsen",
     "number": "56",
     "layout": "normal",
@@ -7337,8 +7337,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Enchant player\nAt the beginning of your upkeep, you may search your library for a Curse card that doesn't have the same name as a Curse attached to enchanted player, put it onto the battlefield attached to that player, then shuffle your library.",
-    "originalType": "Enchantment — Aura Curse",
+    "originalText": "Enchant player At the beginning of your upkeep, you may search your library for a Curse card that doesn't have the same name as a Curse attached to enchanted player, put it onto the battlefield attached to that player, then shuffle your library.",
+    "originalType": "Enchantment - Aura Curse",
     "legalities": [
       {
         "format": "Commander",
@@ -7373,7 +7373,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Enchantment — Aura Curse",
+    "type": "Enchantment - Aura Curse",
     "types": [
       "Enchantment"
     ],
@@ -7384,8 +7384,8 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Enchant player\nAt the beginning of enchanted player's upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to them.",
-    "flavor": "\"May you drink until you drown but never be sated.\"\n—Odila, witch of Morkrut",
+    "text": "Enchant player At the beginning of enchanted player's upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to them.",
+    "flavor": "\"May you drink until you drown but never be sated.\" -Odila, witch of Morkrut",
     "artist": "Christopher Moeller",
     "number": "57",
     "layout": "normal",
@@ -7463,8 +7463,8 @@
       "pWPN",
       "DKA"
     ],
-    "originalText": "Enchant player\nAt the beginning of enchanted player's upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to him or her.",
-    "originalType": "Enchantment — Aura Curse",
+    "originalText": "Enchant player At the beginning of enchanted player's upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to him or her.",
+    "originalType": "Enchantment - Aura Curse",
     "legalities": [
       {
         "format": "Commander",
@@ -7507,7 +7507,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Target creature gains deathtouch until end of turn and must be blocked this turn if able.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Target creature gains deathtouch until end of turn and must be blocked this turn if able. Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "flavor": "What could be more irresistible than death?",
     "artist": "Steve Argyle",
     "number": "58",
@@ -7585,7 +7585,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Target creature gains deathtouch until end of turn and must be blocked this turn if able.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Target creature gains deathtouch until end of turn and must be blocked this turn if able. Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -7750,7 +7750,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Vampire",
+    "type": "Creature - Vampire",
     "types": [
       "Creature"
     ],
@@ -7845,7 +7845,7 @@
       "DKA"
     ],
     "originalText": "Sacrifice a creature: Falkenrath Torturer gains flying until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Torturer.",
-    "originalType": "Creature — Vampire",
+    "originalType": "Creature - Vampire",
     "legalities": [
       {
         "format": "Commander",
@@ -7880,7 +7880,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Zombie",
+    "type": "Creature - Zombie",
     "types": [
       "Creature"
     ],
@@ -7891,7 +7891,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "When Farbog Boneflinger enters the battlefield, target creature gets -2/-2 until end of turn.",
-    "flavor": "\"Here are some bones for you to choke on, dear brother!\"\n—Gisa, to Geralf",
+    "flavor": "\"Here are some bones for you to choke on, dear brother!\" -Gisa, to Geralf",
     "artist": "Tomasz Jedruszek",
     "number": "61",
     "power": "2",
@@ -7972,7 +7972,7 @@
       "CN2"
     ],
     "originalText": "When Farbog Boneflinger enters the battlefield, target creature gets -2/-2 until end of turn.",
-    "originalType": "Creature — Zombie",
+    "originalType": "Creature - Zombie",
     "legalities": [
       {
         "format": "Commander",
@@ -8007,7 +8007,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Vampire Wizard",
+    "type": "Creature - Vampire Wizard",
     "types": [
       "Creature"
     ],
@@ -8018,7 +8018,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying\nWhenever Fiend of the Shadows deals combat damage to a player, that player exiles a card from their hand. You may play that card for as long as it remains exiled.\nSacrifice a Human: Regenerate Fiend of the Shadows.",
+    "text": "Flying Whenever Fiend of the Shadows deals combat damage to a player, that player exiles a card from their hand. You may play that card for as long as it remains exiled. Sacrifice a Human: Regenerate Fiend of the Shadows.",
     "artist": "Igor Kieryluk",
     "number": "62",
     "power": "3",
@@ -8109,8 +8109,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Flying\nWhenever Fiend of the Shadows deals combat damage to a player, that player exiles a card from his or her hand. You may play that card for as long as it remains exiled.\nSacrifice a Human: Regenerate Fiend of the Shadows.",
-    "originalType": "Creature — Vampire Wizard",
+    "originalText": "Flying Whenever Fiend of the Shadows deals combat damage to a player, that player exiles a card from his or her hand. You may play that card for as long as it remains exiled. Sacrifice a Human: Regenerate Fiend of the Shadows.",
+    "originalType": "Creature - Vampire Wizard",
     "legalities": [
       {
         "format": "Commander",
@@ -8145,7 +8145,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Zombie",
+    "type": "Creature - Zombie",
     "types": [
       "Creature"
     ],
@@ -8155,7 +8155,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Geralf's Messenger enters the battlefield tapped.\nWhen Geralf's Messenger enters the battlefield, target opponent loses 2 life.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "text": "Geralf's Messenger enters the battlefield tapped. When Geralf's Messenger enters the battlefield, target opponent loses 2 life. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
     "artist": "Kev Walker",
     "number": "63",
     "power": "3",
@@ -8228,8 +8228,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Geralf's Messenger enters the battlefield tapped.\nWhen Geralf's Messenger enters the battlefield, target opponent loses 2 life.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Zombie",
+    "originalText": "Geralf's Messenger enters the battlefield tapped. When Geralf's Messenger enters the battlefield, target opponent loses 2 life. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "originalType": "Creature - Zombie",
     "legalities": [
       {
         "format": "Commander",
@@ -8264,7 +8264,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Zombie",
+    "type": "Creature - Zombie",
     "types": [
       "Creature"
     ],
@@ -8274,8 +8274,8 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Gravecrawler can't block.\nYou may cast Gravecrawler from your graveyard as long as you control a Zombie.",
-    "flavor": "\"Innistrad's ghoulcallers are talented enough, but let me show you what someone with real power can create.\"\n—Liliana Vess",
+    "text": "Gravecrawler can't block. You may cast Gravecrawler from your graveyard as long as you control a Zombie.",
+    "flavor": "\"Innistrad's ghoulcallers are talented enough, but let me show you what someone with real power can create.\" -Liliana Vess",
     "artist": "Steven Belledin",
     "number": "64",
     "power": "2",
@@ -8360,8 +8360,8 @@
       "DKA",
       "DDQ"
     ],
-    "originalText": "Gravecrawler can't block.\nYou may cast Gravecrawler from your graveyard as long as you control a Zombie.",
-    "originalType": "Creature — Zombie",
+    "originalText": "Gravecrawler can't block. You may cast Gravecrawler from your graveyard as long as you control a Zombie.",
+    "originalType": "Creature - Zombie",
     "legalities": [
       {
         "format": "Commander",
@@ -8403,8 +8403,8 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Put any number of target creature cards from your graveyard on top of your library.\nDraw a card.",
-    "flavor": "\"The Blessed Sleep? Ha! Wake up my lovelies, there's work to be done!\"\n—Gisa, ghoulcaller of Gavony",
+    "text": "Put any number of target creature cards from your graveyard on top of your library. Draw a card.",
+    "flavor": "\"The Blessed Sleep? Ha! Wake up my lovelies, there's work to be done!\" -Gisa, ghoulcaller of Gavony",
     "artist": "Zoltan Boros",
     "number": "65",
     "layout": "normal",
@@ -8494,7 +8494,7 @@
       "DKA",
       "DTK"
     ],
-    "originalText": "Put any number of target creature cards from your graveyard on top of your library.\nDraw a card.",
+    "originalText": "Put any number of target creature cards from your graveyard on top of your library. Draw a card.",
     "originalType": "Instant",
     "legalities": [
       {
@@ -8541,7 +8541,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Target player discards two cards.\nMorbid — If a creature died this turn, instead that player reveals their hand, you choose two cards from it, then that player discards those cards.",
+    "text": "Target player discards two cards. Morbid - If a creature died this turn, instead that player reveals their hand, you choose two cards from it, then that player discards those cards.",
     "artist": "John Stanko",
     "number": "66",
     "layout": "normal",
@@ -8612,7 +8612,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Target player discards two cards.\nMorbid — If a creature died this turn, instead that player reveals his or her hand, you choose two cards from it, then that player discards those cards.",
+    "originalText": "Target player discards two cards. Morbid - If a creature died this turn, instead that player reveals his or her hand, you choose two cards from it, then that player discards those cards.",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -8656,7 +8656,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "Target player draws three cards and loses 3 life.",
-    "flavor": "\"There are always fools who attempt to traverse Kruin Pass before sundown and every time they wind up in a race for their lives.\"\n—Old Rutstein",
+    "flavor": "\"There are always fools who attempt to traverse Kruin Pass before sundown and every time they wind up in a race for their lives.\" -Old Rutstein",
     "artist": "James Paick",
     "number": "67",
     "layout": "normal",
@@ -8763,7 +8763,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Zombie",
+    "type": "Creature - Zombie",
     "types": [
       "Creature"
     ],
@@ -8774,7 +8774,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
-    "flavor": "\"All the dead sleep lightly here, no matter how refined their beds may be.\"\n—Grafdigger Wulmer",
+    "flavor": "\"All the dead sleep lightly here, no matter how refined their beds may be.\" -Grafdigger Wulmer",
     "artist": "Volkan Baga",
     "number": "68",
     "power": "2",
@@ -8848,7 +8848,7 @@
       "DKA"
     ],
     "originalText": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
-    "originalType": "Creature — Zombie",
+    "originalType": "Creature - Zombie",
     "legalities": [
       {
         "format": "Commander",
@@ -8890,7 +8890,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Search your library for a card and put that card into your hand. If Increasing Ambition was cast from a graveyard, instead search your library for two cards and put those cards into your hand. Then shuffle your library.\nFlashback {7}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Search your library for a card and put that card into your hand. If Increasing Ambition was cast from a graveyard, instead search your library for two cards and put those cards into your hand. Then shuffle your library. Flashback {7}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "artist": "Volkan Baga",
     "number": "69",
     "layout": "normal",
@@ -8961,7 +8961,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Search your library for a card and put that card into your hand. If Increasing Ambition was cast from a graveyard, instead search your library for two cards and put those cards into your hand. Then shuffle your library.\nFlashback {7}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Search your library for a card and put that card into your hand. If Increasing Ambition was cast from a graveyard, instead search your library for two cards and put those cards into your hand. Then shuffle your library. Flashback {7}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -8997,7 +8997,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Legendary Creature — Zombie Cleric",
+    "type": "Legendary Creature - Zombie Cleric",
     "supertypes": [
       "Legendary"
     ],
@@ -9011,7 +9011,7 @@
     "rarity": "Mythic Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhenever a Human deals damage to you, destroy it.\nOther non-Human creatures you control get +1/+1 and have undying. (When a creature with undying dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.) Whenever a Human deals damage to you, destroy it. Other non-Human creatures you control get +1/+1 and have undying. (When a creature with undying dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
     "artist": "Chris Rahn",
     "number": "70",
     "power": "5",
@@ -9098,8 +9098,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Intimidate\nWhenever a Human deals damage to you, destroy it.\nOther non-Human creatures you control get +1/+1 and have undying. (When a creature with undying dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Legendary Creature — Zombie Cleric",
+    "originalText": "Intimidate Whenever a Human deals damage to you, destroy it. Other non-Human creatures you control get +1/+1 and have undying. (When a creature with undying dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "originalType": "Legendary Creature - Zombie Cleric",
     "legalities": [
       {
         "format": "Commander",
@@ -9138,7 +9138,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Demon",
+    "type": "Creature - Demon",
     "types": [
       "Creature"
     ],
@@ -9230,7 +9230,7 @@
       "DKA"
     ],
     "originalText": "Sacrifice a Human: Transform Ravenous Demon. Activate this ability only any time you could cast a sorcery.",
-    "originalType": "Creature — Demon",
+    "originalType": "Creature - Demon",
     "legalities": [
       {
         "format": "Commander",
@@ -9268,7 +9268,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Demon",
+    "type": "Creature - Demon",
     "types": [
       "Creature"
     ],
@@ -9278,7 +9278,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying, trample\nAt the beginning of your upkeep, sacrifice a Human. If you can't, tap Archdemon of Greed and it deals 9 damage to you.",
+    "text": "Flying, trample At the beginning of your upkeep, sacrifice a Human. If you can't, tap Archdemon of Greed and it deals 9 damage to you.",
     "flavor": "\"The price is paid. The power is mine!\"",
     "artist": "Igor Kieryluk",
     "number": "71b",
@@ -9353,8 +9353,8 @@
       "pPRE",
       "DKA"
     ],
-    "originalText": "Flying, trample\nAt the beginning of your upkeep, sacrifice a Human. If you can't, tap Archdemon of Greed and it deals 9 damage to you.",
-    "originalType": "Creature — Demon",
+    "originalText": "Flying, trample At the beginning of your upkeep, sacrifice a Human. If you can't, tap Archdemon of Greed and it deals 9 damage to you.",
+    "originalType": "Creature - Demon",
     "legalities": [
       {
         "format": "Commander",
@@ -9397,7 +9397,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Create a 2/2 black Zombie creature token.\nFlashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Create a 2/2 black Zombie creature token. Flashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "flavor": "The wreck hung on the jagged reef, each night disgorging more of its gruesome cargo.",
     "artist": "James Ryman",
     "number": "72",
@@ -9469,7 +9469,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Put a 2/2 black Zombie creature token onto the battlefield.\nFlashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Put a 2/2 black Zombie creature token onto the battlefield. Flashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -9505,7 +9505,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Zombie Soldier",
+    "type": "Creature - Zombie Soldier",
     "types": [
       "Creature"
     ],
@@ -9516,7 +9516,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Sightless Ghoul can't block.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "text": "Sightless Ghoul can't block. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
     "flavor": "It blindly marches on Thraben's gates, guided by its master's direful will.",
     "artist": "Svetlin Velinov",
     "number": "73",
@@ -9590,8 +9590,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Sightless Ghoul can't block.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Zombie Soldier",
+    "originalText": "Sightless Ghoul can't block. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "originalType": "Creature - Zombie Soldier",
     "legalities": [
       {
         "format": "Commander",
@@ -9626,7 +9626,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Human Cleric",
+    "type": "Creature - Human Cleric",
     "types": [
       "Creature"
     ],
@@ -9722,7 +9722,7 @@
       "DKA"
     ],
     "originalText": "{3}{B}, {T}, Sacrifice a Human: Destroy target creature.",
-    "originalType": "Creature — Human Cleric",
+    "originalType": "Creature - Human Cleric",
     "legalities": [
       {
         "format": "Commander",
@@ -9757,7 +9757,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -9767,8 +9767,8 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Enchant creature\nWhenever enchanted creature is dealt damage, it deals that much damage to its controller.",
-    "flavor": "\"Let us remind these human cattle why they fear the shadows of this world.\"\n—Aldreg, Skirsdag cultist",
+    "text": "Enchant creature Whenever enchanted creature is dealt damage, it deals that much damage to its controller.",
+    "flavor": "\"Let us remind these human cattle why they fear the shadows of this world.\" -Aldreg, Skirsdag cultist",
     "artist": "John Stanko",
     "number": "75",
     "layout": "normal",
@@ -9845,8 +9845,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Enchant creature\nWhenever enchanted creature is dealt damage, it deals that much damage to its controller.",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature Whenever enchanted creature is dealt damage, it deals that much damage to its controller.",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -9888,7 +9888,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Target creature gets -1/-1 until end of turn.\nMorbid — That creature gets -13/-13 until end of turn instead if a creature died this turn.",
+    "text": "Target creature gets -1/-1 until end of turn. Morbid - That creature gets -13/-13 until end of turn instead if a creature died this turn.",
     "flavor": "Linger on death's door and risk being invited in.",
     "artist": "Christopher Moeller",
     "number": "76",
@@ -9964,7 +9964,7 @@
       "C14",
       "EMA"
     ],
-    "originalText": "Target creature gets -1/-1 until end of turn.\nMorbid — That creature gets -13/-13 until end of turn instead if a creature died this turn.",
+    "originalText": "Target creature gets -1/-1 until end of turn. Morbid - That creature gets -13/-13 until end of turn instead if a creature died this turn.",
     "originalType": "Instant",
     "legalities": [
       {
@@ -10008,7 +10008,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "Target creature gains undying until end of turn. (When it dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "flavor": "\"Is it true the evil that people do follows them into death? Let's find out.\"\n—Liliana Vess",
+    "flavor": "\"Is it true the evil that people do follows them into death? Let's find out.\" -Liliana Vess",
     "artist": "Kev Walker",
     "number": "77",
     "layout": "normal",
@@ -10115,7 +10115,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Vampire",
+    "type": "Creature - Vampire",
     "types": [
       "Creature"
     ],
@@ -10125,7 +10125,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "text": "Flying Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
     "flavor": "He wields the full power of wrath unfettered by the sympathies of a soul.",
     "artist": "Lucas Graciano",
     "number": "78",
@@ -10199,8 +10199,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Flying\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Vampire",
+    "originalText": "Flying Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "originalType": "Creature - Vampire",
     "legalities": [
       {
         "format": "Commander",
@@ -10235,7 +10235,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Human Shaman",
+    "type": "Creature - Human Shaman",
     "types": [
       "Creature"
     ],
@@ -10246,7 +10246,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Morbid — When Wakedancer enters the battlefield, if a creature died this turn, create a 2/2 black Zombie creature token.",
+    "text": "Morbid - When Wakedancer enters the battlefield, if a creature died this turn, create a 2/2 black Zombie creature token.",
     "flavor": "Hers is an ancient form of necromancy, steeped in shamanic trance and ritual that few skaberen or ghoulcallers comprehend.",
     "artist": "Austin Hsu",
     "number": "79",
@@ -10322,8 +10322,8 @@
       "CNS",
       "EMA"
     ],
-    "originalText": "Morbid — When Wakedancer enters the battlefield, if a creature died this turn, put a 2/2 black Zombie creature token onto the battlefield.",
-    "originalType": "Creature — Human Shaman",
+    "originalText": "Morbid - When Wakedancer enters the battlefield, if a creature died this turn, put a 2/2 black Zombie creature token onto the battlefield.",
+    "originalType": "Creature - Human Shaman",
     "legalities": [
       {
         "format": "Commander",
@@ -10366,7 +10366,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "Return all Zombie creature cards from your graveyard to the battlefield tapped, then destroy all Humans.",
-    "flavor": "\"There will come a day so dark you will pray for death. On that day your prayers will be answered.\"\n—Minaldra, the Vizag Atum",
+    "flavor": "\"There will come a day so dark you will pray for death. On that day your prayers will be answered.\" -Minaldra, the Vizag Atum",
     "artist": "Peter Mohrbacher",
     "number": "80",
     "layout": "normal",
@@ -10488,7 +10488,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Human Werewolf",
+    "type": "Creature - Human Werewolf",
     "types": [
       "Creature"
     ],
@@ -10596,7 +10596,7 @@
       "DKA"
     ],
     "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Afflicted Deserter.",
-    "originalType": "Creature — Human Werewolf",
+    "originalType": "Creature - Human Werewolf",
     "legalities": [
       {
         "format": "Commander",
@@ -10634,7 +10634,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Werewolf",
+    "type": "Creature - Werewolf",
     "types": [
       "Creature"
     ],
@@ -10644,7 +10644,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Whenever this creature transforms into Werewolf Ransacker, you may destroy target artifact. If that artifact is put into a graveyard this way, Werewolf Ransacker deals 3 damage to that artifact's controller.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Werewolf Ransacker.",
+    "text": "Whenever this creature transforms into Werewolf Ransacker, you may destroy target artifact. If that artifact is put into a graveyard this way, Werewolf Ransacker deals 3 damage to that artifact's controller. At the beginning of each upkeep, if a player cast two or more spells last turn, transform Werewolf Ransacker.",
     "artist": "David Palumbo",
     "number": "81b",
     "power": "5",
@@ -10717,8 +10717,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Whenever this creature transforms into Werewolf Ransacker, you may destroy target artifact. If that artifact is put into a graveyard this way, Werewolf Ransacker deals 3 damage to that artifact's controller.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Werewolf Ransacker.",
-    "originalType": "Creature — Werewolf",
+    "originalText": "Whenever this creature transforms into Werewolf Ransacker, you may destroy target artifact. If that artifact is put into a graveyard this way, Werewolf Ransacker deals 3 damage to that artifact's controller. At the beginning of each upkeep, if a player cast two or more spells last turn, transform Werewolf Ransacker.",
+    "originalType": "Creature - Werewolf",
     "legalities": [
       {
         "format": "Commander",
@@ -11023,7 +11023,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Burning Oil deals 3 damage to target attacking or blocking creature.\nFlashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Burning Oil deals 3 damage to target attacking or blocking creature. Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "flavor": "Every now and then, a devil's prank can give you a good idea.",
     "artist": "Trevor Claxton",
     "number": "84",
@@ -11095,7 +11095,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Burning Oil deals 3 damage to target attacking or blocking creature.\nFlashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Burning Oil deals 3 damage to target attacking or blocking creature. Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Instant",
     "legalities": [
       {
@@ -11131,7 +11131,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Enchantment — Aura Curse",
+    "type": "Enchantment - Aura Curse",
     "types": [
       "Enchantment"
     ],
@@ -11142,7 +11142,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Enchant player\nIf a source would deal damage to enchanted player, it deals double that damage to that player instead.",
+    "text": "Enchant player If a source would deal damage to enchanted player, it deals double that damage to that player instead.",
     "flavor": "It is the demon's mark, an infernal claim on the flesh of the guilty.",
     "artist": "Michael C. Hayes",
     "number": "85",
@@ -11232,8 +11232,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Enchant player\nIf a source would deal damage to enchanted player, it deals double that damage to that player instead.",
-    "originalType": "Enchantment — Aura Curse",
+    "originalText": "Enchant player If a source would deal damage to enchanted player, it deals double that damage to that player instead.",
+    "originalType": "Enchantment - Aura Curse",
     "legalities": [
       {
         "format": "Commander",
@@ -11268,7 +11268,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Vampire",
+    "type": "Creature - Vampire",
     "types": [
       "Creature"
     ],
@@ -11278,7 +11278,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Haste\nWhenever Erdwal Ripper deals combat damage to a player, put a +1/+1 counter on it.",
+    "text": "Haste Whenever Erdwal Ripper deals combat damage to a player, put a +1/+1 counter on it.",
     "flavor": "Savage vampires lurk in the Erdwal's network of passageways where prey is plentiful and easy to catch.",
     "artist": "Kev Walker",
     "number": "86",
@@ -11362,8 +11362,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Haste\nWhenever Erdwal Ripper deals combat damage to a player, put a +1/+1 counter on it.",
-    "originalType": "Creature — Vampire",
+    "originalText": "Haste Whenever Erdwal Ripper deals combat damage to a player, put a +1/+1 counter on it.",
+    "originalType": "Creature - Vampire",
     "legalities": [
       {
         "format": "Commander",
@@ -11405,7 +11405,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Draw two cards, then discard two cards.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Draw two cards, then discard two cards. Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "flavor": "\"Avacyn has abandoned us! We have nothing left except what we can take!\"",
     "artist": "Gabor Szikszai",
     "number": "87",
@@ -11488,7 +11488,7 @@
       "C15",
       "EMA"
     ],
-    "originalText": "Draw two cards, then discard two cards.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Draw two cards, then discard two cards. Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -11532,7 +11532,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Fires of Undeath deals 2 damage to any target.\nFlashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Fires of Undeath deals 2 damage to any target. Flashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "flavor": "\"I drink of those who are worthy of my palate. The rest I burn.\"",
     "artist": "Jason Chan",
     "number": "88",
@@ -11604,7 +11604,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Fires of Undeath deals 2 damage to target creature or player.\nFlashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Fires of Undeath deals 2 damage to target creature or player. Flashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Instant",
     "legalities": [
       {
@@ -11640,7 +11640,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Devil",
+    "type": "Creature - Devil",
     "types": [
       "Creature"
     ],
@@ -11650,7 +11650,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)\nWhenever Flayer of the Hatebound or another creature enters the battlefield from your graveyard, that creature deals damage equal to its power to any target.",
+    "text": "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.) Whenever Flayer of the Hatebound or another creature enters the battlefield from your graveyard, that creature deals damage equal to its power to any target.",
     "artist": "Jana Schirmer & Johannes Voss",
     "number": "89",
     "power": "4",
@@ -11745,8 +11745,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)\nWhenever Flayer of the Hatebound or another creature enters the battlefield from your graveyard, that creature deals damage equal to its power to target creature or player.",
-    "originalType": "Creature — Devil",
+    "originalText": "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.) Whenever Flayer of the Hatebound or another creature enters the battlefield from your graveyard, that creature deals damage equal to its power to target creature or player.",
+    "originalType": "Creature - Devil",
     "legalities": [
       {
         "format": "Commander",
@@ -11788,7 +11788,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "As an additional cost to cast this spell, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to any target.",
+    "text": "As an additional cost to cast this spell, sacrifice a creature. Fling deals damage equal to the sacrificed creature's power to any target.",
     "flavor": "Masters of the sword know the blade is not the only weapon at their disposal.",
     "artist": "Izzy",
     "number": "90",
@@ -11886,7 +11886,7 @@
       "PCA",
       "AKH"
     ],
-    "originalText": "As an additional cost to cast Fling, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to target creature or player.",
+    "originalText": "As an additional cost to cast Fling, sacrifice a creature. Fling deals damage equal to the sacrificed creature's power to target creature or player.",
     "originalType": "Instant",
     "legalities": [
       {
@@ -11934,7 +11934,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Devil",
+    "type": "Creature - Devil",
     "types": [
       "Creature"
     ],
@@ -12026,7 +12026,7 @@
       "M15"
     ],
     "originalText": "When Forge Devil enters the battlefield, it deals 1 damage to target creature and 1 damage to you.",
-    "originalType": "Creature — Devil",
+    "originalType": "Creature - Devil",
     "legalities": [
       {
         "format": "Commander",
@@ -12061,7 +12061,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Devil",
+    "type": "Creature - Devil",
     "types": [
       "Creature"
     ],
@@ -12157,7 +12157,7 @@
       "CNS"
     ],
     "originalText": "{2}{R}: Target creature attacks this turn if able.",
-    "originalType": "Creature — Devil",
+    "originalType": "Creature - Devil",
     "legalities": [
       {
         "format": "Commander",
@@ -12192,7 +12192,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Devil",
+    "type": "Creature - Devil",
     "types": [
       "Creature"
     ],
@@ -12202,8 +12202,8 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Haste\nWhenever a creature you control attacks, Hellrider deals 1 damage to the player or planeswalker it's attacking.",
-    "flavor": "\"Behind every devil's mayhem lurks a demon's scheme.\"\n—Rem Karolus, Blade of the Inquisitors",
+    "text": "Haste Whenever a creature you control attacks, Hellrider deals 1 damage to the player or planeswalker it's attacking.",
+    "flavor": "\"Behind every devil's mayhem lurks a demon's scheme.\" -Rem Karolus, Blade of the Inquisitors",
     "artist": "Svetlin Velinov",
     "number": "93",
     "power": "3",
@@ -12284,8 +12284,8 @@
       "DDK",
       "MM3"
     ],
-    "originalText": "Haste\nWhenever a creature you control attacks, Hellrider deals 1 damage to defending player.",
-    "originalType": "Creature — Devil",
+    "originalText": "Haste Whenever a creature you control attacks, Hellrider deals 1 damage to defending player.",
+    "originalType": "Creature - Devil",
     "legalities": [
       {
         "format": "Commander",
@@ -12324,7 +12324,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Human Werewolf",
+    "type": "Creature - Human Werewolf",
     "types": [
       "Creature"
     ],
@@ -12420,7 +12420,7 @@
       "DKA"
     ],
     "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Hinterland Hermit.",
-    "originalType": "Creature — Human Werewolf",
+    "originalType": "Creature - Human Werewolf",
     "legalities": [
       {
         "format": "Commander",
@@ -12458,7 +12458,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Werewolf",
+    "type": "Creature - Werewolf",
     "types": [
       "Creature"
     ],
@@ -12468,7 +12468,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Hinterland Scourge must be blocked if able.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Hinterland Scourge.",
+    "text": "Hinterland Scourge must be blocked if able. At the beginning of each upkeep, if a player cast two or more spells last turn, transform Hinterland Scourge.",
     "flavor": ". . . but the monster within was a tireless hunter.",
     "artist": "Steven Belledin",
     "number": "94b",
@@ -12542,8 +12542,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Hinterland Scourge must be blocked if able.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Hinterland Scourge.",
-    "originalType": "Creature — Werewolf",
+    "originalText": "Hinterland Scourge must be blocked if able. At the beginning of each upkeep, if a player cast two or more spells last turn, transform Hinterland Scourge.",
+    "originalType": "Creature - Werewolf",
     "legalities": [
       {
         "format": "Commander",
@@ -12585,7 +12585,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Copy target instant or sorcery spell you control. If Increasing Vengeance was cast from a graveyard, copy that spell twice instead. You may choose new targets for the copies.\nFlashback {3}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Copy target instant or sorcery spell you control. If Increasing Vengeance was cast from a graveyard, copy that spell twice instead. You may choose new targets for the copies. Flashback {3}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "artist": "Anthony Francisco",
     "number": "95",
     "layout": "normal",
@@ -12606,7 +12606,7 @@
       },
       {
         "date": "2011-01-22",
-        "text": "If the spell Increasing Vengeance copies is modal (that is, it says \"Choose one —\" or the like), the copies will have the same mode(s). You can't choose different ones."
+        "text": "If the spell Increasing Vengeance copies is modal (that is, it says \"Choose one -\" or the like), the copies will have the same mode(s). You can't choose different ones."
       },
       {
         "date": "2011-01-22",
@@ -12682,7 +12682,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Copy target instant or sorcery spell you control. If Increasing Vengeance was cast from a graveyard, copy that spell twice instead. You may choose new targets for the copies.\nFlashback {3}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Copy target instant or sorcery spell you control. If Increasing Vengeance was cast from a graveyard, copy that spell twice instead. You may choose new targets for the copies. Flashback {3}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Instant",
     "legalities": [
       {
@@ -12718,7 +12718,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Vampire Warrior",
+    "type": "Creature - Vampire Warrior",
     "types": [
       "Creature"
     ],
@@ -12729,7 +12729,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Double strike\nWhenever Markov Blademaster deals combat damage to a player, put a +1/+1 counter on it.",
+    "text": "Double strike Whenever Markov Blademaster deals combat damage to a player, put a +1/+1 counter on it.",
     "flavor": "\"Mortals practice swordplay for a few decades at best. How can they ever attain the exquisite mastery that eternity has to offer?\"",
     "artist": "Jana Schirmer & Johannes Voss",
     "number": "96",
@@ -12813,8 +12813,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Double strike\nWhenever Markov Blademaster deals combat damage to a player, put a +1/+1 counter on it.",
-    "originalType": "Creature — Vampire Warrior",
+    "originalText": "Double strike Whenever Markov Blademaster deals combat damage to a player, put a +1/+1 counter on it.",
+    "originalType": "Creature - Vampire Warrior",
     "legalities": [
       {
         "format": "Commander",
@@ -12849,7 +12849,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Vampire Warrior",
+    "type": "Creature - Vampire Warrior",
     "types": [
       "Creature"
     ],
@@ -12860,7 +12860,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Haste\nWhen Markov Warlord enters the battlefield, up to two target creatures can't block this turn.",
+    "text": "Haste When Markov Warlord enters the battlefield, up to two target creatures can't block this turn.",
     "flavor": "\"What use is a stake or holy symbol in the hands of a coward?\"",
     "artist": "Cynthia Sheppard",
     "number": "97",
@@ -12944,8 +12944,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Haste\nWhen Markov Warlord enters the battlefield, up to two target creatures can't block this turn.",
-    "originalType": "Creature — Vampire Warrior",
+    "originalText": "Haste When Markov Warlord enters the battlefield, up to two target creatures can't block this turn.",
+    "originalType": "Creature - Vampire Warrior",
     "legalities": [
       {
         "format": "Commander",
@@ -12984,7 +12984,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Human Shaman Werewolf",
+    "type": "Creature - Human Shaman Werewolf",
     "types": [
       "Creature"
     ],
@@ -13082,7 +13082,7 @@
       "DKA"
     ],
     "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Mondronen Shaman.",
-    "originalType": "Creature — Human Werewolf Shaman",
+    "originalType": "Creature - Human Werewolf Shaman",
     "legalities": [
       {
         "format": "Commander",
@@ -13120,7 +13120,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Werewolf",
+    "type": "Creature - Werewolf",
     "types": [
       "Creature"
     ],
@@ -13130,7 +13130,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to that player.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar's Magehunter.",
+    "text": "Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to that player. At the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar's Magehunter.",
     "artist": "Mike Sass",
     "number": "98b",
     "power": "5",
@@ -13204,8 +13204,8 @@
       "pLPA",
       "DKA"
     ],
-    "originalText": "Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to that player.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar's Magehunter.",
-    "originalType": "Creature — Werewolf",
+    "originalText": "Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to that player. At the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar's Magehunter.",
+    "originalType": "Creature - Werewolf",
     "legalities": [
       {
         "format": "Commander",
@@ -13240,7 +13240,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Dragon",
+    "type": "Creature - Dragon",
     "types": [
       "Creature"
     ],
@@ -13250,8 +13250,8 @@
     "rarity": "Mythic Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying\n{R}: Each creature you control gets +1/+0 until end of turn.",
-    "flavor": "\"Their hearts beat, their lungs draw breath, and they have one true form. I count them as allies of the living.\"\n—Thalia, Knight-Cathar",
+    "text": "Flying {R}: Each creature you control gets +1/+0 until end of turn.",
+    "flavor": "\"Their hearts beat, their lungs draw breath, and they have one true form. I count them as allies of the living.\" -Thalia, Knight-Cathar",
     "artist": "Todd Lockwood",
     "number": "99",
     "power": "5",
@@ -13324,8 +13324,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Flying\n{R}: Each creature you control gets +1/+0 until end of turn.",
-    "originalType": "Creature — Dragon",
+    "originalText": "Flying {R}: Each creature you control gets +1/+0 until end of turn.",
+    "originalType": "Creature - Dragon",
     "legalities": [
       {
         "format": "Commander",
@@ -13360,7 +13360,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Vampire Rogue",
+    "type": "Creature - Vampire Rogue",
     "types": [
       "Creature"
     ],
@@ -13447,7 +13447,7 @@
       "DKA"
     ],
     "originalText": "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Vampire Rogue",
+    "originalType": "Creature - Vampire Rogue",
     "legalities": [
       {
         "format": "Commander",
@@ -13482,7 +13482,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Wolf",
+    "type": "Creature - Wolf",
     "types": [
       "Creature"
     ],
@@ -13492,7 +13492,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Whenever Pyreheart Wolf attacks, creatures you control gain menace until end of turn. (They can't be blocked except by two or more creatures.)\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "text": "Whenever Pyreheart Wolf attacks, creatures you control gain menace until end of turn. (They can't be blocked except by two or more creatures.) Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
     "artist": "Lars Grant-West",
     "number": "101",
     "power": "1",
@@ -13565,8 +13565,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Whenever Pyreheart Wolf attacks, each creature you control can't be blocked this turn except by two or more creatures.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Wolf",
+    "originalText": "Whenever Pyreheart Wolf attacks, each creature you control can't be blocked this turn except by two or more creatures. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "originalType": "Creature - Wolf",
     "legalities": [
       {
         "format": "Commander",
@@ -13601,7 +13601,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Wolf",
+    "type": "Creature - Wolf",
     "types": [
       "Creature"
     ],
@@ -13611,7 +13611,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "flavor": "\"The wolves of our valley are bred to detest the scent of ghouls. For centuries they have kept our estates clear of such carrion.\"\n—Olivia Voldaren",
+    "flavor": "\"The wolves of our valley are bred to detest the scent of ghouls. For centuries they have kept our estates clear of such carrion.\" -Olivia Voldaren",
     "artist": "Christopher Moeller",
     "number": "102",
     "power": "3",
@@ -13684,7 +13684,7 @@
     "printings": [
       "DKA"
     ],
-    "originalType": "Creature — Wolf",
+    "originalType": "Creature - Wolf",
     "legalities": [
       {
         "format": "Commander",
@@ -13727,7 +13727,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "Destroy target land. Scorch the Fields deals 1 damage to each Human creature.",
-    "flavor": "\"Your fields will turn as black as a ghoul's tongue and fire shall be your only harvest.\"\n—Minaldra, the Vizag Atum",
+    "flavor": "\"Your fields will turn as black as a ghoul's tongue and fire shall be your only harvest.\" -Minaldra, the Vizag Atum",
     "artist": "Jaime Jones",
     "number": "103",
     "layout": "normal",
@@ -13851,8 +13851,8 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Discard all the cards in your hand, then draw that many cards.\nFlashback {5}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
-    "flavor": "\"You must shatter the fetters of the past. Only then can you truly act.\"\n—Rem Karolus, Blade of the Inquisitors",
+    "text": "Discard all the cards in your hand, then draw that many cards. Flashback {5}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "flavor": "\"You must shatter the fetters of the past. Only then can you truly act.\" -Rem Karolus, Blade of the Inquisitors",
     "artist": "Terese Nielsen",
     "number": "104",
     "layout": "normal",
@@ -13923,7 +13923,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Discard all the cards in your hand, then draw that many cards.\nFlashback {5}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Discard all the cards in your hand, then draw that many cards. Flashback {5}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -13959,7 +13959,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -13969,7 +13969,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nEnchanted creature has \"{1}{R}: This creature gets +2/+0 until end of turn.\"",
+    "text": "Flash (You may cast this spell any time you could cast an instant.) Enchant creature Enchanted creature has \"{1}{R}: This creature gets +2/+0 until end of turn.\"",
     "artist": "Svetlin Velinov",
     "number": "105",
     "layout": "normal",
@@ -14040,8 +14040,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nEnchanted creature has \"{1}{R}: This creature gets +2/+0 until end of turn.\"",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Flash (You may cast this spell any time you could cast an instant.) Enchant creature Enchanted creature has \"{1}{R}: This creature gets +2/+0 until end of turn.\"",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -14076,7 +14076,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Devil",
+    "type": "Creature - Devil",
     "types": [
       "Creature"
     ],
@@ -14164,7 +14164,7 @@
       "M15"
     ],
     "originalText": "{R}, Sacrifice Torch Fiend: Destroy target artifact.",
-    "originalType": "Creature — Devil",
+    "originalType": "Creature - Devil",
     "legalities": [
       {
         "format": "Commander",
@@ -14320,7 +14320,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Wolf",
+    "type": "Creature - Wolf",
     "types": [
       "Creature"
     ],
@@ -14330,8 +14330,8 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Briarpack Alpha enters the battlefield, target creature gets +2/+2 until end of turn.",
-    "flavor": "\"The wolves turned on us and a chill swept over me. The pack had a new leader.\"\n—Alena, trapper of Kessig",
+    "text": "Flash (You may cast this spell any time you could cast an instant.) When Briarpack Alpha enters the battlefield, target creature gets +2/+2 until end of turn.",
+    "flavor": "\"The wolves turned on us and a chill swept over me. The pack had a new leader.\" -Alena, trapper of Kessig",
     "artist": "Daarken",
     "number": "108",
     "power": "3",
@@ -14405,8 +14405,8 @@
       "DKA",
       "M14"
     ],
-    "originalText": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Briarpack Alpha enters the battlefield, target creature gets +2/+2 until end of turn.",
-    "originalType": "Creature — Wolf",
+    "originalText": "Flash (You may cast this spell any time you could cast an instant.) When Briarpack Alpha enters the battlefield, target creature gets +2/+2 until end of turn.",
+    "originalType": "Creature - Wolf",
     "legalities": [
       {
         "format": "Commander",
@@ -14448,7 +14448,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Prevent all combat damage that would be dealt this turn.\nFateful hour — If you have 5 or less life, tap all attacking creatures. Those creatures don't untap during their controller's next untap step.",
+    "text": "Prevent all combat damage that would be dealt this turn. Fateful hour - If you have 5 or less life, tap all attacking creatures. Those creatures don't untap during their controller's next untap step.",
     "artist": "Anthony Francisco",
     "number": "109",
     "layout": "normal",
@@ -14529,7 +14529,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Prevent all combat damage that would be dealt this turn.\nFateful hour — If you have 5 or less life, tap all attacking creatures. Those creatures don't untap during their controller's next untap step.",
+    "originalText": "Prevent all combat damage that would be dealt this turn. Fateful hour - If you have 5 or less life, tap all attacking creatures. Those creatures don't untap during their controller's next untap step.",
     "originalType": "Instant",
     "legalities": [
       {
@@ -14572,8 +14572,8 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Choose one —\n• Destroy target creature with flying.\n• Destroy target artifact.",
-    "flavor": "\"Your veil's curse won't stop me, deathmage. I have taken down countless night hunters and this dark plane is not big enough for you to hide.\"\n—Garruk Wildspeaker, to Liliana Vess",
+    "text": "Choose one - • Destroy target creature with flying. • Destroy target artifact.",
+    "flavor": "\"Your veil's curse won't stop me, deathmage. I have taken down countless night hunters and this dark plane is not big enough for you to hide.\" -Garruk Wildspeaker, to Liliana Vess",
     "artist": "Scott Chou",
     "number": "110",
     "layout": "normal",
@@ -14645,7 +14645,7 @@
       "DKA",
       "C17"
     ],
-    "originalText": "Choose one — Destroy target creature with flying; or destroy target artifact.",
+    "originalText": "Choose one - Destroy target creature with flying; or destroy target artifact.",
     "originalType": "Instant",
     "legalities": [
       {
@@ -14681,7 +14681,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Elk",
+    "type": "Creature - Elk",
     "types": [
       "Creature"
     ],
@@ -14766,7 +14766,7 @@
       "DKA"
     ],
     "originalText": "{G}, Sacrifice Dawntreader Elk: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
-    "originalType": "Creature — Elk",
+    "originalType": "Creature - Elk",
     "legalities": [
       {
         "format": "Commander",
@@ -14801,7 +14801,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Human Rogue",
+    "type": "Creature - Human Rogue",
     "types": [
       "Creature"
     ],
@@ -14897,7 +14897,7 @@
       "DKA"
     ],
     "originalText": "{1}{G}, Sacrifice a Human: Put two +1/+1 counters on target creature.",
-    "originalType": "Creature — Human Rogue",
+    "originalType": "Creature - Human Rogue",
     "legalities": [
       {
         "format": "Commander",
@@ -14932,7 +14932,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -14942,7 +14942,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Enchant creature\nWhenever enchanted creature blocks, you gain 3 life.",
+    "text": "Enchant creature Whenever enchanted creature blocks, you gain 3 life.",
     "flavor": "Feeling abandoned by Avacyn, some Kessigers turned to the pagan rituals of their ancestors.",
     "artist": "Tomasz Jedruszek",
     "number": "113",
@@ -15020,8 +15020,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Enchant creature\nWhenever enchanted creature blocks, you gain 3 life.",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature Whenever enchanted creature blocks, you gain 3 life.",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -15180,7 +15180,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Zombie Treefolk",
+    "type": "Creature - Zombie Treefolk",
     "types": [
       "Creature"
     ],
@@ -15276,7 +15276,7 @@
       "DKA"
     ],
     "originalText": "Ghoultree costs {1} less to cast for each creature card in your graveyard.",
-    "originalType": "Creature — Zombie Treefolk",
+    "originalType": "Creature - Zombie Treefolk",
     "legalities": [
       {
         "format": "Commander",
@@ -15311,7 +15311,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Wurm",
+    "type": "Creature - Wurm",
     "types": [
       "Creature"
     ],
@@ -15321,7 +15321,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Trample\nMorbid — Gravetiller Wurm enters the battlefield with four +1/+1 counters on it if a creature died this turn.",
+    "text": "Trample Morbid - Gravetiller Wurm enters the battlefield with four +1/+1 counters on it if a creature died this turn.",
     "flavor": "As the creatures of the night closed in on humanity, Innistrad's primeval forces stirred, as though waking to watch the slaughter.",
     "artist": "Slawomir Maniak",
     "number": "116",
@@ -15395,8 +15395,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Trample\nMorbid — Gravetiller Wurm enters the battlefield with four +1/+1 counters on it if a creature died this turn.",
-    "originalType": "Creature — Wurm",
+    "originalText": "Trample Morbid - Gravetiller Wurm enters the battlefield with four +1/+1 counters on it if a creature died this turn.",
+    "originalType": "Creature - Wurm",
     "legalities": [
       {
         "format": "Commander",
@@ -15439,7 +15439,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "Draw a card for each creature card in your graveyard.",
-    "flavor": "\"Nothing in nature goes to waste, not even the rotting corpse of a good-for-nothing, blood-sucking vampire.\"\n—Halana of Ulvenwald",
+    "flavor": "\"Nothing in nature goes to waste, not even the rotting corpse of a good-for-nothing, blood-sucking vampire.\" -Halana of Ulvenwald",
     "artist": "Adam Paquette",
     "number": "117",
     "layout": "normal",
@@ -15555,7 +15555,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Beast",
+    "type": "Creature - Beast",
     "types": [
       "Creature"
     ],
@@ -15638,7 +15638,7 @@
     "printings": [
       "DKA"
     ],
-    "originalType": "Creature — Beast",
+    "originalType": "Creature - Beast",
     "legalities": [
       {
         "format": "Commander",
@@ -15680,8 +15680,8 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Put a +1/+1 counter on target creature.\nMorbid — Put three +1/+1 counters on that creature instead if a creature died this turn.",
-    "flavor": "\"Werewolves are an unholy mix of a predator's instinct and a human's hatred.\"\n—Alena, trapper of Kessig",
+    "text": "Put a +1/+1 counter on target creature. Morbid - Put three +1/+1 counters on that creature instead if a creature died this turn.",
+    "flavor": "\"Werewolves are an unholy mix of a predator's instinct and a human's hatred.\" -Alena, trapper of Kessig",
     "artist": "Nils Hamm",
     "number": "119",
     "layout": "normal",
@@ -15753,7 +15753,7 @@
       "DKA",
       "CNS"
     ],
-    "originalText": "Put a +1/+1 counter on target creature.\nMorbid — Put three +1/+1 counters on that creature instead if a creature died this turn.",
+    "originalText": "Put a +1/+1 counter on target creature. Morbid - Put three +1/+1 counters on that creature instead if a creature died this turn.",
     "originalType": "Instant",
     "legalities": [
       {
@@ -15796,7 +15796,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Put five +1/+1 counters on target creature. If Increasing Savagery was cast from a graveyard, put ten +1/+1 counters on that creature instead.\nFlashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Put five +1/+1 counters on target creature. If Increasing Savagery was cast from a graveyard, put ten +1/+1 counters on that creature instead. Flashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "artist": "Steve Prescott",
     "number": "120",
     "layout": "normal",
@@ -15868,7 +15868,7 @@
       "DKA",
       "DDS"
     ],
-    "originalText": "Put five +1/+1 counters on target creature. If Increasing Savagery was cast from a graveyard, put ten +1/+1 counters on that creature instead.\nFlashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Put five +1/+1 counters on target creature. If Increasing Savagery was cast from a graveyard, put ten +1/+1 counters on that creature instead. Flashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -15904,7 +15904,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Spider",
+    "type": "Creature - Spider",
     "types": [
       "Creature"
     ],
@@ -15914,7 +15914,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Reach (This creature can block creatures with flying.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+    "text": "Reach (This creature can block creatures with flying.) Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
     "flavor": "Its silk is highly prized, but then again, so is your life.",
     "artist": "Vincent Proce",
     "number": "121",
@@ -15988,8 +15988,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Reach (This creature can block creatures with flying.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
-    "originalType": "Creature — Spider",
+    "originalText": "Reach (This creature can block creatures with flying.) Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+    "originalType": "Creature - Spider",
     "legalities": [
       {
         "format": "Commander",
@@ -16028,7 +16028,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Human Werewolf",
+    "type": "Creature - Human Werewolf",
     "types": [
       "Creature"
     ],
@@ -16040,7 +16040,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Elder.",
-    "flavor": "\"Be wary of the seemingly gentle souls. The weak here were slaughtered long ago.\"\n—Rem Karolus, Blade of the Inquisitors",
+    "flavor": "\"Be wary of the seemingly gentle souls. The weak here were slaughtered long ago.\" -Rem Karolus, Blade of the Inquisitors",
     "artist": "Matt Stewart",
     "number": "122a",
     "power": "1",
@@ -16120,7 +16120,7 @@
       "DKA"
     ],
     "originalText": "At the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Elder.",
-    "originalType": "Creature — Human Werewolf",
+    "originalType": "Creature - Human Werewolf",
     "legalities": [
       {
         "format": "Commander",
@@ -16158,7 +16158,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Werewolf",
+    "type": "Creature - Werewolf",
     "types": [
       "Creature"
     ],
@@ -16168,7 +16168,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Whenever Silverpelt Werewolf deals combat damage to a player, draw a card.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Silverpelt Werewolf.",
+    "text": "Whenever Silverpelt Werewolf deals combat damage to a player, draw a card. At the beginning of each upkeep, if a player cast two or more spells last turn, transform Silverpelt Werewolf.",
     "artist": "Matt Stewart",
     "number": "122b",
     "power": "4",
@@ -16241,8 +16241,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Whenever Silverpelt Werewolf deals combat damage to a player, draw a card.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Silverpelt Werewolf.",
-    "originalType": "Creature — Werewolf",
+    "originalText": "Whenever Silverpelt Werewolf deals combat damage to a player, draw a card. At the beginning of each upkeep, if a player cast two or more spells last turn, transform Silverpelt Werewolf.",
+    "originalType": "Creature - Werewolf",
     "legalities": [
       {
         "format": "Commander",
@@ -16401,7 +16401,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Ooze",
+    "type": "Creature - Ooze",
     "types": [
       "Creature"
     ],
@@ -16411,7 +16411,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Indestructible\nWhenever Predator Ooze attacks, put a +1/+1 counter on it.\nWhenever a creature dealt damage by Predator Ooze this turn dies, put a +1/+1 counter on Predator Ooze.",
+    "text": "Indestructible Whenever Predator Ooze attacks, put a +1/+1 counter on it. Whenever a creature dealt damage by Predator Ooze this turn dies, put a +1/+1 counter on Predator Ooze.",
     "artist": "Ryan Yee",
     "number": "124",
     "power": "1",
@@ -16490,8 +16490,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Predator Ooze is indestructible.\nWhenever Predator Ooze attacks, put a +1/+1 counter on it.\nWhenever a creature dealt damage by Predator Ooze this turn dies, put a +1/+1 counter on Predator Ooze.",
-    "originalType": "Creature — Ooze",
+    "originalText": "Predator Ooze is indestructible. Whenever Predator Ooze attacks, put a +1/+1 counter on it. Whenever a creature dealt damage by Predator Ooze this turn dies, put a +1/+1 counter on Predator Ooze.",
+    "originalType": "Creature - Ooze",
     "legalities": [
       {
         "format": "Commander",
@@ -16530,7 +16530,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Human Werewolf",
+    "type": "Creature - Human Werewolf",
     "types": [
       "Creature"
     ],
@@ -16541,7 +16541,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "{T}: Add {G}.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Scorned Villager.",
+    "text": "{T}: Add {G}. At the beginning of each upkeep, if no spells were cast last turn, transform Scorned Villager.",
     "flavor": "\"My village's fear drove me into the wild . . .\"",
     "artist": "Cynthia Sheppard",
     "number": "125a",
@@ -16621,8 +16621,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "{T}: Add {G} to your mana pool.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Scorned Villager.",
-    "originalType": "Creature — Human Werewolf",
+    "originalText": "{T}: Add {G} to your mana pool. At the beginning of each upkeep, if no spells were cast last turn, transform Scorned Villager.",
+    "originalType": "Creature - Human Werewolf",
     "legalities": [
       {
         "format": "Commander",
@@ -16660,7 +16660,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Werewolf",
+    "type": "Creature - Werewolf",
     "types": [
       "Creature"
     ],
@@ -16670,7 +16670,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Vigilance\n{T}: Add {G}{G}.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Moonscarred Werewolf.",
+    "text": "Vigilance {T}: Add {G}{G}. At the beginning of each upkeep, if a player cast two or more spells last turn, transform Moonscarred Werewolf.",
     "flavor": "\". . . and I will bring the fury of the wild back to my village.\"",
     "artist": "Cynthia Sheppard",
     "number": "125b",
@@ -16744,8 +16744,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Vigilance\n{T}: Add {G}{G} to your mana pool.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Moonscarred Werewolf.",
-    "originalType": "Creature — Werewolf",
+    "originalText": "Vigilance {T}: Add {G}{G} to your mana pool. At the beginning of each upkeep, if a player cast two or more spells last turn, transform Moonscarred Werewolf.",
+    "originalType": "Creature - Werewolf",
     "legalities": [
       {
         "format": "Commander",
@@ -16780,7 +16780,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Dryad",
+    "type": "Creature - Dryad",
     "types": [
       "Creature"
     ],
@@ -16865,7 +16865,7 @@
       "DKA"
     ],
     "originalText": "Forestwalk (This creature is unblockable as long as defending player controls a Forest.)",
-    "originalType": "Creature — Dryad",
+    "originalType": "Creature - Dryad",
     "legalities": [
       {
         "format": "Commander",
@@ -16900,7 +16900,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -16910,7 +16910,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Haste\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "text": "Haste Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
     "flavor": "Geists of the hanged often haunt the tree on which they died.",
     "artist": "Jason Chan",
     "number": "127",
@@ -16985,8 +16985,8 @@
       "pMGD",
       "DKA"
     ],
-    "originalText": "Haste\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Spirit",
+    "originalText": "Haste Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -17029,7 +17029,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Reveal the top four cards of your library. Put a creature card from among them into your hand and the rest into your graveyard.\nFlashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Reveal the top four cards of your library. Put a creature card from among them into your hand and the rest into your graveyard. Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "artist": "Jung Park",
     "number": "128",
     "layout": "normal",
@@ -17106,7 +17106,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Reveal the top four cards of your library. Put a creature card from among them into your hand and the rest into your graveyard.\nFlashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Reveal the top four cards of your library. Put a creature card from among them into your hand and the rest into your graveyard. Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -17142,7 +17142,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Bear",
+    "type": "Creature - Bear",
     "types": [
       "Creature"
     ],
@@ -17152,8 +17152,8 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Morbid — When Ulvenwald Bear enters the battlefield, if a creature died this turn, put two +1/+1 counters on target creature.",
-    "flavor": "Out chasing bears\n—Kessig expression meaning \"died in the woods\"",
+    "text": "Morbid - When Ulvenwald Bear enters the battlefield, if a creature died this turn, put two +1/+1 counters on target creature.",
+    "flavor": "Out chasing bears -Kessig expression meaning \"died in the woods\"",
     "artist": "Jason A. Engle",
     "number": "129",
     "power": "2",
@@ -17226,8 +17226,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Morbid — When Ulvenwald Bear enters the battlefield, if a creature died this turn, put two +1/+1 counters on target creature.",
-    "originalType": "Creature — Bear",
+    "originalText": "Morbid - When Ulvenwald Bear enters the battlefield, if a creature died this turn, put two +1/+1 counters on target creature.",
+    "originalType": "Creature - Bear",
     "legalities": [
       {
         "format": "Commander",
@@ -17262,7 +17262,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Human",
+    "type": "Creature - Human",
     "types": [
       "Creature"
     ],
@@ -17272,7 +17272,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Vigilance\nFateful hour — As long as you have 5 or less life, other creatures you control have vigilance.",
+    "text": "Vigilance Fateful hour - As long as you have 5 or less life, other creatures you control have vigilance.",
     "flavor": "As their villages fell to werewolves, fleeing refugees discovered they too had remarkable survival instincts.",
     "artist": "David Rapoza",
     "number": "130",
@@ -17352,8 +17352,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Vigilance\nFateful hour — As long as you have 5 or less life, other creatures you control have vigilance.",
-    "originalType": "Creature — Human",
+    "originalText": "Vigilance Fateful hour - As long as you have 5 or less life, other creatures you control have vigilance.",
+    "originalType": "Creature - Human",
     "legalities": [
       {
         "format": "Commander",
@@ -17388,7 +17388,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Insect",
+    "type": "Creature - Insect",
     "types": [
       "Creature"
     ],
@@ -17398,8 +17398,8 @@
     "rarity": "Mythic Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Vigilance, trample\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "flavor": "\"If you think you've killed one, guess again.\"\n—Thalia, Knight-Cathar",
+    "text": "Vigilance, trample Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "flavor": "\"If you think you've killed one, guess again.\" -Thalia, Knight-Cathar",
     "artist": "Slawomir Maniak",
     "number": "131",
     "power": "5",
@@ -17472,8 +17472,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Vigilance, trample\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Insect",
+    "originalText": "Vigilance, trample Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "originalType": "Creature - Insect",
     "legalities": [
       {
         "format": "Commander",
@@ -17516,7 +17516,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Target creature gets +3/+1 and gains trample until end of turn.\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "text": "Target creature gets +3/+1 and gains trample until end of turn. Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "flavor": "Otto the Hunter was filled with many grand ambitions. The snake was filled only with Otto.",
     "artist": "Karl Kopinski",
     "number": "132",
@@ -17588,7 +17588,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Target creature gets +3/+1 and gains trample until end of turn.\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "originalText": "Target creature gets +3/+1 and gains trample until end of turn. Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
     "originalType": "Instant",
     "legalities": [
       {
@@ -17628,7 +17628,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Human Werewolf",
+    "type": "Creature - Human Werewolf",
     "types": [
       "Creature"
     ],
@@ -17639,7 +17639,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "{1}{G}: Wolfbitten Captive gets +2/+2 until end of turn. Activate this ability only once each turn.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Wolfbitten Captive.",
+    "text": "{1}{G}: Wolfbitten Captive gets +2/+2 until end of turn. Activate this ability only once each turn. At the beginning of each upkeep, if no spells were cast last turn, transform Wolfbitten Captive.",
     "artist": "Zoltan Boros",
     "number": "133a",
     "power": "1",
@@ -17726,8 +17726,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "{1}{G}: Wolfbitten Captive gets +2/+2 until end of turn. Activate this ability only once each turn.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Wolfbitten Captive.",
-    "originalType": "Creature — Human Werewolf",
+    "originalText": "{1}{G}: Wolfbitten Captive gets +2/+2 until end of turn. Activate this ability only once each turn. At the beginning of each upkeep, if no spells were cast last turn, transform Wolfbitten Captive.",
+    "originalType": "Creature - Human Werewolf",
     "legalities": [
       {
         "format": "Commander",
@@ -17765,7 +17765,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Werewolf",
+    "type": "Creature - Werewolf",
     "types": [
       "Creature"
     ],
@@ -17775,7 +17775,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "{3}{G}: Krallenhorde Killer gets +4/+4 until end of turn. Activate this ability only once each turn.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Killer.",
+    "text": "{3}{G}: Krallenhorde Killer gets +4/+4 until end of turn. Activate this ability only once each turn. At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Killer.",
     "artist": "Zoltan Boros",
     "number": "133b",
     "power": "2",
@@ -17848,8 +17848,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "{3}{G}: Krallenhorde Killer gets +4/+4 until end of turn. Activate this ability only once each turn.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Killer.",
-    "originalType": "Creature — Werewolf",
+    "originalText": "{3}{G}: Krallenhorde Killer gets +4/+4 until end of turn. Activate this ability only once each turn. At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Killer.",
+    "originalType": "Creature - Werewolf",
     "legalities": [
       {
         "format": "Commander",
@@ -17884,7 +17884,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Wolf",
+    "type": "Creature - Wolf",
     "types": [
       "Creature"
     ],
@@ -17969,7 +17969,7 @@
       "DKA"
     ],
     "originalText": "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Wolf",
+    "originalType": "Creature - Wolf",
     "legalities": [
       {
         "format": "Commander",
@@ -18006,7 +18006,7 @@
       "U",
       "B"
     ],
-    "type": "Creature — Zombie Soldier",
+    "type": "Creature - Zombie Soldier",
     "types": [
       "Creature"
     ],
@@ -18017,7 +18017,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Deathtouch\nOther Zombie creatures you control get +1/+1.\nWhenever another Zombie you control dies, target opponent loses 1 life.",
+    "text": "Deathtouch Other Zombie creatures you control get +1/+1. Whenever another Zombie you control dies, target opponent loses 1 life.",
     "flavor": "Though its mind has long since rotted away, it wields a sword with deadly skill.",
     "artist": "Slawomir Maniak",
     "number": "135",
@@ -18092,8 +18092,8 @@
       "DKA",
       "DDQ"
     ],
-    "originalText": "Deathtouch\nOther Zombie creatures you control get +1/+1.\nWhenever another Zombie you control dies, target opponent loses 1 life.",
-    "originalType": "Creature — Zombie Soldier",
+    "originalText": "Deathtouch Other Zombie creatures you control get +1/+1. Whenever another Zombie you control dies, target opponent loses 1 life.",
+    "originalType": "Creature - Zombie Soldier",
     "legalities": [
       {
         "format": "Commander",
@@ -18130,7 +18130,7 @@
       "W",
       "U"
     ],
-    "type": "Creature — Spirit Soldier",
+    "type": "Creature - Spirit Soldier",
     "types": [
       "Creature"
     ],
@@ -18141,7 +18141,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying\nOther Spirit creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
+    "text": "Flying Other Spirit creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
     "flavor": "Dead or alive, true leaders can inspire an entire army.",
     "artist": "Peter Mohrbacher",
     "number": "136",
@@ -18215,8 +18215,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Flying\nOther Spirit creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
-    "originalType": "Creature — Spirit Soldier",
+    "originalText": "Flying Other Spirit creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
+    "originalType": "Creature - Spirit Soldier",
     "legalities": [
       {
         "format": "Commander",
@@ -18253,7 +18253,7 @@
       "W",
       "U"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -18263,7 +18263,7 @@
     "rarity": "Mythic Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying, double strike, lifelink\nWhenever you gain life, draw a card.",
+    "text": "Flying, double strike, lifelink Whenever you gain life, draw a card.",
     "flavor": "Wracked and warped with anguish, it obsessively seeks out other souls to hoard within its eternal prison.",
     "artist": "Vincent Proce",
     "number": "137",
@@ -18355,8 +18355,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Flying, double strike, lifelink\nWhenever you gain life, draw a card.",
-    "originalType": "Creature — Spirit",
+    "originalText": "Flying, double strike, lifelink Whenever you gain life, draw a card.",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -18393,7 +18393,7 @@
       "B",
       "R"
     ],
-    "type": "Creature — Vampire",
+    "type": "Creature - Vampire",
     "types": [
       "Creature"
     ],
@@ -18403,7 +18403,7 @@
     "rarity": "Mythic Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying, haste\nSacrifice a creature: Falkenrath Aristocrat gains indestructible until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Aristocrat.",
+    "text": "Flying, haste Sacrifice a creature: Falkenrath Aristocrat gains indestructible until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Aristocrat.",
     "flavor": "\"Your blood is quite pleasing. A pity there's not enough for both of us.\"",
     "artist": "Igor Kieryluk",
     "number": "138",
@@ -18492,8 +18492,8 @@
       "DKA",
       "MM3"
     ],
-    "originalText": "Flying, haste\nSacrifice a creature: Falkenrath Aristocrat is indestructible this turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Aristocrat.",
-    "originalType": "Creature — Vampire",
+    "originalText": "Flying, haste Sacrifice a creature: Falkenrath Aristocrat is indestructible this turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Aristocrat.",
+    "originalType": "Creature - Vampire",
     "legalities": [
       {
         "format": "Commander",
@@ -18530,7 +18530,7 @@
       "U",
       "B"
     ],
-    "type": "Creature — Zombie Wizard",
+    "type": "Creature - Zombie Wizard",
     "types": [
       "Creature"
     ],
@@ -18639,7 +18639,7 @@
       "C17"
     ],
     "originalText": "{1}: You may cast target creature card in a graveyard this turn. When you cast that card this turn, Havengul Lich gains all activated abilities of that card until end of turn.",
-    "originalType": "Creature — Zombie Wizard",
+    "originalType": "Creature - Zombie Wizard",
     "legalities": [
       {
         "format": "Commander",
@@ -18680,7 +18680,7 @@
       "R",
       "G"
     ],
-    "type": "Creature — Human Werewolf",
+    "type": "Creature - Human Werewolf",
     "types": [
       "Creature"
     ],
@@ -18691,7 +18691,7 @@
     "rarity": "Mythic Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Whenever this creature enters the battlefield or transforms into Huntmaster of the Fells, create a 2/2 green Wolf creature token and you gain 2 life.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Huntmaster of the Fells.",
+    "text": "Whenever this creature enters the battlefield or transforms into Huntmaster of the Fells, create a 2/2 green Wolf creature token and you gain 2 life. At the beginning of each upkeep, if no spells were cast last turn, transform Huntmaster of the Fells.",
     "artist": "Chris Rahn",
     "number": "140a",
     "power": "2",
@@ -18771,8 +18771,8 @@
       "DKA",
       "V17"
     ],
-    "originalText": "Whenever this creature enters the battlefield or transforms into Huntmaster of the Fells, put a 2/2 green Wolf creature token onto the battlefield and you gain 2 life.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Huntmaster of the Fells.",
-    "originalType": "Creature — Human Werewolf",
+    "originalText": "Whenever this creature enters the battlefield or transforms into Huntmaster of the Fells, put a 2/2 green Wolf creature token onto the battlefield and you gain 2 life. At the beginning of each upkeep, if no spells were cast last turn, transform Huntmaster of the Fells.",
+    "originalType": "Creature - Human Werewolf",
     "legalities": [
       {
         "format": "Commander",
@@ -18812,7 +18812,7 @@
       "R",
       "G"
     ],
-    "type": "Creature — Werewolf",
+    "type": "Creature - Werewolf",
     "types": [
       "Creature"
     ],
@@ -18822,7 +18822,7 @@
     "rarity": "Mythic Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Trample\nWhenever this creature transforms into Ravager of the Fells, it deals 2 damage to target opponent or planeswalker and 2 damage to up to one target creature that player or that planeswalker's controller controls.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ravager of the Fells.",
+    "text": "Trample Whenever this creature transforms into Ravager of the Fells, it deals 2 damage to target opponent or planeswalker and 2 damage to up to one target creature that player or that planeswalker's controller controls. At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ravager of the Fells.",
     "artist": "Chris Rahn",
     "number": "140b",
     "power": "4",
@@ -18896,8 +18896,8 @@
       "DKA",
       "V17"
     ],
-    "originalText": "Trample\nWhenever this creature transforms into Ravager of the Fells, it deals 2 damage to target opponent and 2 damage to up to one target creature that player controls.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ravager of the Fells.",
-    "originalType": "Creature — Werewolf",
+    "originalText": "Trample Whenever this creature transforms into Ravager of the Fells, it deals 2 damage to target opponent and 2 damage to up to one target creature that player controls. At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ravager of the Fells.",
+    "originalType": "Creature - Werewolf",
     "legalities": [
       {
         "format": "Commander",
@@ -18934,7 +18934,7 @@
       "R",
       "G"
     ],
-    "type": "Creature — Wolf",
+    "type": "Creature - Wolf",
     "types": [
       "Creature"
     ],
@@ -18944,7 +18944,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nEach other creature you control that's a Wolf or a Werewolf gets +1/+1.\nNon-Human Werewolves you control can't transform.",
+    "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.) Each other creature you control that's a Wolf or a Werewolf gets +1/+1. Non-Human Werewolves you control can't transform.",
     "artist": "Terese Nielsen",
     "number": "141",
     "power": "2",
@@ -19031,8 +19031,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nOther Wolf and Werewolf creatures you control get +1/+1.\nNon-Human Werewolves you control can't transform.",
-    "originalType": "Creature — Wolf",
+    "originalText": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.) Other Wolf and Werewolf creatures you control get +1/+1. Non-Human Werewolves you control can't transform.",
+    "originalType": "Creature - Wolf",
     "legalities": [
       {
         "format": "Commander",
@@ -19069,7 +19069,7 @@
       "W",
       "B"
     ],
-    "type": "Legendary Planeswalker — Sorin",
+    "type": "Legendary Planeswalker - Sorin",
     "supertypes": [
       "Legendary"
     ],
@@ -19082,7 +19082,7 @@
     "rarity": "Mythic Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "+1: Create a 1/1 black Vampire creature token with lifelink.\n−2: You get an emblem with \"Creatures you control get +1/+0.\"\n−6: Destroy up to three target creatures and/or other planeswalkers. Return each card put into a graveyard this way to the battlefield under your control.",
+    "text": "+1: Create a 1/1 black Vampire creature token with lifelink. −2: You get an emblem with \"Creatures you control get +1/+0.\" −6: Destroy up to three target creatures and/or other planeswalkers. Return each card put into a graveyard this way to the battlefield under your control.",
     "artist": "Michael Komarck",
     "number": "142",
     "layout": "normal",
@@ -19173,8 +19173,8 @@
       "DKA",
       "DDK"
     ],
-    "originalText": "+1: Put a 1/1 black Vampire creature token with lifelink onto the battlefield.\n-2: You get an emblem with \"Creatures you control get +1/+0.\"\n-6: Destroy up to three target creatures and/or other planeswalkers. Return each card put into a graveyard this way to the battlefield under your control.",
-    "originalType": "Planeswalker — Sorin",
+    "originalText": "+1: Put a 1/1 black Vampire creature token with lifelink onto the battlefield. -2: You get an emblem with \"Creatures you control get +1/+0.\" -6: Destroy up to three target creatures and/or other planeswalkers. Return each card put into a graveyard this way to the battlefield under your control.",
+    "originalType": "Planeswalker - Sorin",
     "legalities": [
       {
         "format": "Commander",
@@ -19211,7 +19211,7 @@
       "B",
       "R"
     ],
-    "type": "Creature — Vampire Soldier",
+    "type": "Creature - Vampire Soldier",
     "types": [
       "Creature"
     ],
@@ -19222,8 +19222,8 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "First strike\nOther Vampire creatures you control get +1/+1 and have first strike.",
-    "flavor": "\"No longer can we allow our human populations to be mindlessly slaughtered by ghouls. Slay all who trespass.\"\n—Runo Stromkirk",
+    "text": "First strike Other Vampire creatures you control get +1/+1 and have first strike.",
+    "flavor": "\"No longer can we allow our human populations to be mindlessly slaughtered by ghouls. Slay all who trespass.\" -Runo Stromkirk",
     "artist": "Jana Schirmer & Johannes Voss",
     "number": "143",
     "power": "2",
@@ -19303,8 +19303,8 @@
       "DKA",
       "C17"
     ],
-    "originalText": "First strike\nOther Vampire creatures you control get +1/+1 and have first strike.",
-    "originalType": "Creature — Vampire Soldier",
+    "originalText": "First strike Other Vampire creatures you control get +1/+1 and have first strike.",
+    "originalType": "Creature - Vampire Soldier",
     "legalities": [
       {
         "format": "Commander",
@@ -19340,7 +19340,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Altar of the Lost enters the battlefield tapped.\n{T}: Add two mana in any combination of colors. Spend this mana only to cast spells with flashback from a graveyard.",
+    "text": "Altar of the Lost enters the battlefield tapped. {T}: Add two mana in any combination of colors. Spend this mana only to cast spells with flashback from a graveyard.",
     "artist": "Daarken",
     "number": "144",
     "layout": "normal",
@@ -19421,7 +19421,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Altar of the Lost enters the battlefield tapped.\n{T}: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast spells with flashback from a graveyard.",
+    "originalText": "Altar of the Lost enters the battlefield tapped. {T}: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast spells with flashback from a graveyard.",
     "originalType": "Artifact",
     "legalities": [
       {
@@ -19451,7 +19451,7 @@
     "name": "Avacyn's Collar",
     "manaCost": "{1}",
     "cmc": 1,
-    "type": "Artifact — Equipment",
+    "type": "Artifact - Equipment",
     "types": [
       "Artifact"
     ],
@@ -19461,7 +19461,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Equipped creature gets +1/+0 and has vigilance.\nWhenever equipped creature dies, if it was a Human, create a 1/1 white Spirit creature token with flying.\nEquip {2}",
+    "text": "Equipped creature gets +1/+0 and has vigilance. Whenever equipped creature dies, if it was a Human, create a 1/1 white Spirit creature token with flying. Equip {2}",
     "artist": "James Paick",
     "number": "145",
     "layout": "normal",
@@ -19538,8 +19538,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Equipped creature gets +1/+0 and has vigilance.\nWhenever equipped creature dies, if it was a Human, put a 1/1 white Spirit creature token with flying onto the battlefield.\nEquip {2}",
-    "originalType": "Artifact — Equipment",
+    "originalText": "Equipped creature gets +1/+0 and has vigilance. Whenever equipped creature dies, if it was a Human, put a 1/1 white Spirit creature token with flying onto the battlefield. Equip {2}",
+    "originalType": "Artifact - Equipment",
     "legalities": [
       {
         "format": "Commander",
@@ -19814,7 +19814,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Legendary Artifact — Equipment",
+    "type": "Legendary Artifact - Equipment",
     "supertypes": [
       "Legendary"
     ],
@@ -19827,7 +19827,7 @@
     "rarity": "Mythic Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Equipped creature gets +1/+0.\nWhen equipped creature deals combat damage to a player, unattach Elbrus, the Binding Blade, then transform it.\nEquip {1}",
+    "text": "Equipped creature gets +1/+0. When equipped creature deals combat damage to a player, unattach Elbrus, the Binding Blade, then transform it. Equip {1}",
     "flavor": "Those who grasp its hilt soon hear the demon's call.",
     "artist": "Eric Deschamps",
     "number": "147a",
@@ -19922,8 +19922,8 @@
       "DKA",
       "V17"
     ],
-    "originalText": "Equipped creature gets +1/+0.\nWhen equipped creature deals combat damage to a player, unattach Elbrus, the Binding Blade, then transform it.\nEquip {1}",
-    "originalType": "Legendary Artifact — Equipment",
+    "originalText": "Equipped creature gets +1/+0. When equipped creature deals combat damage to a player, unattach Elbrus, the Binding Blade, then transform it. Equip {1}",
+    "originalType": "Legendary Artifact - Equipment",
     "legalities": [
       {
         "format": "Commander",
@@ -19961,7 +19961,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Legendary Creature — Demon",
+    "type": "Legendary Creature - Demon",
     "supertypes": [
       "Legendary"
     ],
@@ -19974,7 +19974,7 @@
     "rarity": "Mythic Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Flying, intimidate, trample (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhenever a player loses the game, put thirteen +1/+1 counters on Withengar Unbound.",
+    "text": "Flying, intimidate, trample (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.) Whenever a player loses the game, put thirteen +1/+1 counters on Withengar Unbound.",
     "flavor": "There are not enough lives on Innistrad to satisfy his thirst for retribution.",
     "artist": "Eric Deschamps",
     "number": "147b",
@@ -20049,8 +20049,8 @@
       "DKA",
       "V17"
     ],
-    "originalText": "Flying, intimidate, trample\nWhenever a player loses the game, put thirteen +1/+1 counters on Withengar Unbound.",
-    "originalType": "Legendary Creature — Demon",
+    "originalText": "Flying, intimidate, trample Whenever a player loses the game, put thirteen +1/+1 counters on Withengar Unbound.",
+    "originalType": "Legendary Creature - Demon",
     "legalities": [
       {
         "format": "Commander",
@@ -20079,7 +20079,7 @@
     "name": "Executioner's Hood",
     "manaCost": "{2}",
     "cmc": 2,
-    "type": "Artifact — Equipment",
+    "type": "Artifact - Equipment",
     "types": [
       "Artifact"
     ],
@@ -20089,7 +20089,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Equipped creature has intimidate. (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "text": "Equipped creature has intimidate. (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.) Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
     "artist": "Anthony Palumbo",
     "number": "148",
     "layout": "normal",
@@ -20160,8 +20160,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Equipped creature has intimidate. (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
-    "originalType": "Artifact — Equipment",
+    "originalText": "Equipped creature has intimidate. (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.) Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "originalType": "Artifact - Equipment",
     "legalities": [
       {
         "format": "Commander",
@@ -20197,8 +20197,8 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Creature cards in graveyards and libraries can't enter the battlefield.\nPlayers can't cast spells from graveyards or libraries.",
-    "flavor": "\"If you wind up in one of mine, you can be sure as silver it will be your last.\"\n—Grafdigger Wulmer",
+    "text": "Creature cards in graveyards and libraries can't enter the battlefield. Players can't cast spells from graveyards or libraries.",
+    "flavor": "\"If you wind up in one of mine, you can be sure as silver it will be your last.\" -Grafdigger Wulmer",
     "artist": "Daniel Ljunggren",
     "number": "149",
     "layout": "normal",
@@ -20280,7 +20280,7 @@
       "DKA",
       "MM3"
     ],
-    "originalText": "Creature cards can't enter the battlefield from graveyards or libraries.\nPlayers can't cast cards in graveyards or libraries.",
+    "originalText": "Creature cards can't enter the battlefield from graveyards or libraries. Players can't cast cards in graveyards or libraries.",
     "originalType": "Artifact",
     "legalities": [
       {
@@ -20310,7 +20310,7 @@
     "name": "Heavy Mattock",
     "manaCost": "{3}",
     "cmc": 3,
-    "type": "Artifact — Equipment",
+    "type": "Artifact - Equipment",
     "types": [
       "Artifact"
     ],
@@ -20320,7 +20320,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Equipped creature gets +1/+1.\nAs long as equipped creature is a Human, it gets an additional +1/+1.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "text": "Equipped creature gets +1/+1. As long as equipped creature is a Human, it gets an additional +1/+1. Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
     "artist": "Winona Nelson",
     "number": "150",
     "layout": "normal",
@@ -20391,8 +20391,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Equipped creature gets +1/+1.\nAs long as equipped creature is a Human, it gets an additional +1/+1.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
-    "originalType": "Artifact — Equipment",
+    "originalText": "Equipped creature gets +1/+1. As long as equipped creature is a Human, it gets an additional +1/+1. Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "originalType": "Artifact - Equipment",
     "legalities": [
       {
         "format": "Commander",
@@ -20431,7 +20431,7 @@
     "rarity": "Mythic Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "{1}, {T}: Exile target creature you control.\n{7}, {T}: Exile target creature you don't control.\nWhen Helvault is put into a graveyard from the battlefield, return all cards exiled with it to the battlefield under their owners' control.",
+    "text": "{1}, {T}: Exile target creature you control. {7}, {T}: Exile target creature you don't control. When Helvault is put into a graveyard from the battlefield, return all cards exiled with it to the battlefield under their owners' control.",
     "artist": "Jaime Jones",
     "number": "151",
     "layout": "normal",
@@ -20509,7 +20509,7 @@
       "DKA",
       "V16"
     ],
-    "originalText": "{1}, {T}: Exile target creature you control.\n{7}, {T}: Exile target creature you don't control.\nWhen Helvault is put into a graveyard from the battlefield, return all cards exiled with it to the battlefield under their owners' control.",
+    "originalText": "{1}, {T}: Exile target creature you control. {7}, {T}: Exile target creature you don't control. When Helvault is put into a graveyard from the battlefield, return all cards exiled with it to the battlefield under their owners' control.",
     "originalType": "Legendary Artifact",
     "legalities": [
       {
@@ -20546,7 +20546,7 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Whenever a creature you control dies, put two eyeball counters on Jar of Eyeballs.\n{3}, {T}, Remove all eyeball counters from Jar of Eyeballs: Look at the top X cards of your library, where X is the number of eyeball counters removed this way. Put one of them into your hand and the rest on the bottom of your library in any order.",
+    "text": "Whenever a creature you control dies, put two eyeball counters on Jar of Eyeballs. {3}, {T}, Remove all eyeball counters from Jar of Eyeballs: Look at the top X cards of your library, where X is the number of eyeball counters removed this way. Put one of them into your hand and the rest on the bottom of your library in any order.",
     "artist": "Jaime Jones",
     "number": "152",
     "layout": "normal",
@@ -20618,7 +20618,7 @@
       "DKA",
       "C13"
     ],
-    "originalText": "Whenever a creature you control dies, put two eyeball counters on Jar of Eyeballs.\n{3}, {T}, Remove all eyeball counters from Jar of Eyeballs: Look at the top X cards of your library, where X is the number of eyeball counters removed this way. Put one of them into your hand and the rest on the bottom of your library in any order.",
+    "originalText": "Whenever a creature you control dies, put two eyeball counters on Jar of Eyeballs. {3}, {T}, Remove all eyeball counters from Jar of Eyeballs: Look at the top X cards of your library, where X is the number of eyeball counters removed this way. Put one of them into your hand and the rest on the bottom of your library in any order.",
     "originalType": "Artifact",
     "legalities": [
       {
@@ -20655,7 +20655,7 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Warden of the Wall enters the battlefield tapped.\n{T}: Add {C}.\nAs long as it's not your turn, Warden of the Wall is a 2/3 Gargoyle artifact creature with flying.",
+    "text": "Warden of the Wall enters the battlefield tapped. {T}: Add {C}. As long as it's not your turn, Warden of the Wall is a 2/3 Gargoyle artifact creature with flying.",
     "artist": "Daniel Ljunggren",
     "number": "153",
     "layout": "normal",
@@ -20732,7 +20732,7 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Warden of the Wall enters the battlefield tapped.\n{T}: Add {1} to your mana pool.\nAs long as it's not your turn, Warden of the Wall is a 2/3 Gargoyle artifact creature with flying.",
+    "originalText": "Warden of the Wall enters the battlefield tapped. {T}: Add {1} to your mana pool. As long as it's not your turn, Warden of the Wall is a 2/3 Gargoyle artifact creature with flying.",
     "originalType": "Artifact",
     "legalities": [
       {
@@ -20762,7 +20762,7 @@
     "name": "Wolfhunter's Quiver",
     "manaCost": "{1}",
     "cmc": 1,
-    "type": "Artifact — Equipment",
+    "type": "Artifact - Equipment",
     "types": [
       "Artifact"
     ],
@@ -20772,8 +20772,8 @@
     "rarity": "Uncommon",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "Equipped creature has \"{T}: This creature deals 1 damage to any target\" and \"{T}: This creature deals 3 damage to target Werewolf creature.\"\nEquip {5}",
-    "flavor": "\"Steel in the heart, silver in the bow.\"\n—Wolfhunter's creed",
+    "text": "Equipped creature has \"{T}: This creature deals 1 damage to any target\" and \"{T}: This creature deals 3 damage to target Werewolf creature.\" Equip {5}",
+    "flavor": "\"Steel in the heart, silver in the bow.\" -Wolfhunter's creed",
     "artist": "Daniel Ljunggren",
     "number": "154",
     "layout": "normal",
@@ -20858,8 +20858,8 @@
     "printings": [
       "DKA"
     ],
-    "originalText": "Equipped creature has \"{T}: This creature deals 1 damage to target creature or player\" and \"{T}: This creature deals 3 damage to target Werewolf creature.\"\nEquip {5}",
-    "originalType": "Artifact — Equipment",
+    "originalText": "Equipped creature has \"{T}: This creature deals 1 damage to target creature or player\" and \"{T}: This creature deals 3 damage to target Werewolf creature.\" Equip {5}",
+    "originalType": "Artifact - Equipment",
     "legalities": [
       {
         "format": "Commander",
@@ -20895,7 +20895,7 @@
     "set": "DKA",
     "setName": "Dark Ascension",
     "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
-    "flavor": "\"Our world is vast, but Thraben is its heart. The cathedral must stand even if the hinterlands are lost.\"\n—Thalia, Knight-Cathar",
+    "flavor": "\"Our world is vast, but Thraben is its heart. The cathedral must stand even if the hinterlands are lost.\" -Thalia, Knight-Cathar",
     "artist": "Cliff Childs",
     "number": "155",
     "layout": "normal",
@@ -21055,8 +21055,8 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "{T}: Add {C}.\n{2}{B}{G}, {T}, Sacrifice a creature: Draw a card.",
-    "flavor": "\"I love what they've done with the place.\"\n—Liliana Vess",
+    "text": "{T}: Add {C}. {2}{B}{G}, {T}, Sacrifice a creature: Draw a card.",
+    "flavor": "\"I love what they've done with the place.\" -Liliana Vess",
     "artist": "Vincent Proce",
     "number": "156",
     "layout": "normal",
@@ -21130,7 +21130,7 @@
       "C15",
       "CMA"
     ],
-    "originalText": "{T}: Add {1} to your mana pool.\n{2}{B}{G}, {T}, Sacrifice a creature: Draw a card.",
+    "originalText": "{T}: Add {1} to your mana pool. {2}{B}{G}, {T}, Sacrifice a creature: Draw a card.",
     "originalType": "Land",
     "legalities": [
       {
@@ -21166,7 +21166,7 @@
     "rarity": "Common",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "{T}: Add {C}.\n{3}, {T}, Sacrifice Haunted Fengraf: Return a creature card at random from your graveyard to your hand.",
+    "text": "{T}: Add {C}. {3}, {T}, Sacrifice Haunted Fengraf: Return a creature card at random from your graveyard to your hand.",
     "flavor": "A ghoulcaller's playground.",
     "artist": "Adam Paquette",
     "number": "157",
@@ -21255,7 +21255,7 @@
       "CMA",
       "A25"
     ],
-    "originalText": "{T}: Add {1} to your mana pool.\n{3}, {T}, Sacrifice Haunted Fengraf: Return a creature card at random from your graveyard to your hand.",
+    "originalText": "{T}: Add {1} to your mana pool. {3}, {T}, Sacrifice Haunted Fengraf: Return a creature card at random from your graveyard to your hand.",
     "originalType": "Land",
     "legalities": [
       {
@@ -21295,8 +21295,8 @@
     "rarity": "Rare",
     "set": "DKA",
     "setName": "Dark Ascension",
-    "text": "{T}: Add {C}.\n{2}{W}{B}, {T}: Creatures you control gain deathtouch and lifelink until end of turn.",
-    "flavor": "\"For centuries my creation kept this world in balance. Now only her shadow remains.\"\n—Sorin Markov",
+    "text": "{T}: Add {C}. {2}{W}{B}, {T}: Creatures you control gain deathtouch and lifelink until end of turn.",
+    "flavor": "\"For centuries my creation kept this world in balance. Now only her shadow remains.\" -Sorin Markov",
     "artist": "John Avon",
     "number": "158",
     "layout": "normal",
@@ -21378,7 +21378,7 @@
       "DKA",
       "MD1"
     ],
-    "originalText": "{T}: Add {1} to your mana pool.\n{2}{W}{B}, {T}: Creatures you control gain deathtouch and lifelink until end of turn.",
+    "originalText": "{T}: Add {1} to your mana pool. {2}{W}{B}, {T}: Creatures you control gain deathtouch and lifelink until end of turn.",
     "originalType": "Land",
     "legalities": [
       {

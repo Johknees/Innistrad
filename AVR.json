@@ -9,7 +9,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Angel",
+    "type": "Creature - Angel",
     "types": [
       "Creature"
     ],
@@ -19,7 +19,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\nWhen Angel of Glory's Rise enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield.",
+    "text": "Flying When Angel of Glory's Rise enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield.",
     "flavor": "\"Justice isn't done until undeath is undone.\"",
     "artist": "James Ryman",
     "number": "1",
@@ -100,8 +100,8 @@
       "pMEI",
       "AVR"
     ],
-    "originalText": "Flying\nWhen Angel of Glory's Rise enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield.",
-    "originalType": "Creature — Angel",
+    "originalText": "Flying When Angel of Glory's Rise enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield.",
+    "originalType": "Creature - Angel",
     "legalities": [
       {
         "format": "Commander",
@@ -136,7 +136,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Angel",
+    "type": "Creature - Angel",
     "types": [
       "Creature"
     ],
@@ -146,7 +146,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\nOther nonblack creatures you control get +1/+1.\nPlayers can't pay life or sacrifice creatures to cast spells or activate abilities.",
+    "text": "Flying Other nonblack creatures you control get +1/+1. Players can't pay life or sacrifice creatures to cast spells or activate abilities.",
     "flavor": "\"Though Innistrad is not cleansed of evil, we finally have cause to rejoice.\"",
     "artist": "Terese Nielsen",
     "number": "2",
@@ -234,8 +234,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Flying\nOther nonblack creatures you control get +1/+1.\nPlayers can't pay life or sacrifice creatures to cast spells or activate abilities.",
-    "originalType": "Creature — Angel",
+    "originalText": "Flying Other nonblack creatures you control get +1/+1. Players can't pay life or sacrifice creatures to cast spells or activate abilities.",
+    "originalType": "Creature - Angel",
     "legalities": [
       {
         "format": "Commander",
@@ -388,7 +388,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Wall",
+    "type": "Creature - Wall",
     "types": [
       "Creature"
     ],
@@ -398,8 +398,8 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Defender (This creature can't attack.)\nFlying",
-    "flavor": "\"The air stirred as if fanned by angels' wings, and the enemy was turned aside.\"\n—Tales of Ikarov the Voyager",
+    "text": "Defender (This creature can't attack.) Flying",
+    "flavor": "\"The air stirred as if fanned by angels' wings, and the enemy was turned aside.\" -Tales of Ikarov the Voyager",
     "artist": "Allen Williams",
     "number": "4",
     "power": "0",
@@ -477,7 +477,7 @@
       "M14"
     ],
     "originalText": "Defender, flying",
-    "originalType": "Creature — Wall",
+    "originalType": "Creature - Wall",
     "legalities": [
       {
         "format": "Commander",
@@ -516,7 +516,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Angel",
+    "type": "Creature - Angel",
     "types": [
       "Creature"
     ],
@@ -607,7 +607,7 @@
       "C13"
     ],
     "originalText": "Flying, vigilance",
-    "originalType": "Creature — Angel",
+    "originalType": "Creature - Angel",
     "legalities": [
       {
         "format": "Commander",
@@ -646,7 +646,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Legendary Creature — Angel",
+    "type": "Legendary Creature - Angel",
     "supertypes": [
       "Legendary"
     ],
@@ -659,7 +659,7 @@
     "rarity": "Mythic Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying, vigilance, indestructible\nOther permanents you control have indestructible.",
+    "text": "Flying, vigilance, indestructible Other permanents you control have indestructible.",
     "flavor": "A golden helix streaked skyward from the Helvault. A thunderous explosion shattered the silver monolith and Avacyn emerged, free from her prison at last.",
     "artist": "Jason Chan",
     "number": "6",
@@ -753,8 +753,8 @@
       "V15",
       "IMA"
     ],
-    "originalText": "Flying, vigilance\nAvacyn, Angel of Hope and other permanents you control are indestructible.",
-    "originalType": "Legendary Creature — Angel",
+    "originalText": "Flying, vigilance Avacyn, Angel of Hope and other permanents you control are indestructible.",
+    "originalType": "Legendary Creature - Angel",
     "legalities": [
       {
         "format": "Commander",
@@ -796,7 +796,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Put target artifact, creature, or enchantment on the bottom of its owner's library.\nMiracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "text": "Put target artifact, creature, or enchantment on the bottom of its owner's library. Miracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "artist": "Igor Kieryluk",
     "number": "7",
     "layout": "normal",
@@ -868,7 +868,7 @@
       "AVR",
       "MM3"
     ],
-    "originalText": "Put target artifact, creature, or enchantment on the bottom of its owner's library.\nMiracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "originalText": "Put target artifact, creature, or enchantment on the bottom of its owner's library. Miracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "originalType": "Instant",
     "legalities": [
       {
@@ -912,7 +912,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Untapped creatures you control get +0/+2.",
-    "flavor": "\"Mix the mortar with holy wards, or blood will run in the streets.\"\n—Vadvar, Thraben stonewright",
+    "flavor": "\"Mix the mortar with holy wards, or blood will run in the streets.\" -Vadvar, Thraben stonewright",
     "artist": "John Stanko",
     "number": "8",
     "layout": "normal",
@@ -1019,7 +1019,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -1029,7 +1029,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant nonblack creature\nEnchanted creature gets +1/+2, has flying, and is an Angel in addition to its other types.",
+    "text": "Enchant nonblack creature Enchanted creature gets +1/+2, has flying, and is an Angel in addition to its other types.",
     "flavor": "Grace is a gift, never a reward.",
     "artist": "Jaime Jones",
     "number": "9",
@@ -1107,8 +1107,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Enchant nonblack creature\nEnchanted creature gets +1/+2, has flying, and is an Angel in addition to its other types.",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant nonblack creature Enchanted creature gets +1/+2, has flying, and is an Angel in addition to its other types.",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -1266,7 +1266,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Cleric",
+    "type": "Creature - Human Cleric",
     "types": [
       "Creature"
     ],
@@ -1353,7 +1353,7 @@
       "DDQ"
     ],
     "originalText": "When Cathedral Sanctifier enters the battlefield, you gain 3 life.",
-    "originalType": "Creature — Human Cleric",
+    "originalType": "Creature - Human Cleric",
     "legalities": [
       {
         "format": "Commander",
@@ -1396,7 +1396,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Exile target creature you control, then return that card to the battlefield under your control.",
-    "flavor": "\"Even storm clouds bow to worship Avacyn.\"\n—Elder Rimheit",
+    "flavor": "\"Even storm clouds bow to worship Avacyn.\" -Elder Rimheit",
     "artist": "Howard Lyon",
     "number": "12",
     "layout": "normal",
@@ -1522,7 +1522,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -1532,7 +1532,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant creature\nEnchanted creature has \"At the beginning of your upkeep, create a 1/1 white Human creature token.\"",
+    "text": "Enchant creature Enchanted creature has \"At the beginning of your upkeep, create a 1/1 white Human creature token.\"",
     "flavor": "\"Wear her symbol with honor, a sign of faith upheld and honest deeds bravely done.\"",
     "artist": "Johannes Voss",
     "number": "13",
@@ -1610,8 +1610,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Enchant creature\nEnchanted creature has \"At the beginning of your upkeep, put a 1/1 white Human creature token onto the battlefield.\"",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature Enchanted creature has \"At the beginning of your upkeep, put a 1/1 white Human creature token onto the battlefield.\"",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -1767,7 +1767,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -1777,7 +1777,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant creature\nPrevent all damage that would be dealt by enchanted creature.",
+    "text": "Enchant creature Prevent all damage that would be dealt by enchanted creature.",
     "flavor": "Once vampires are disarmed, they're given wooden swords and forced to assist in the training of Midnight Duelists.",
     "artist": "Steven Belledin",
     "number": "15",
@@ -1849,8 +1849,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Enchant creature\nPrevent all damage that would be dealt by enchanted creature.",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature Prevent all damage that would be dealt by enchanted creature.",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -2010,7 +2010,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Cleric",
+    "type": "Creature - Human Cleric",
     "types": [
       "Creature"
     ],
@@ -2102,7 +2102,7 @@
       "AVR"
     ],
     "originalText": "{T}, Tap two untapped Humans you control: Exile target artifact or enchantment.",
-    "originalType": "Creature — Human Cleric",
+    "originalType": "Creature - Human Cleric",
     "legalities": [
       {
         "format": "Commander",
@@ -2289,7 +2289,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Angel",
+    "type": "Creature - Angel",
     "types": [
       "Creature"
     ],
@@ -2299,7 +2299,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\nWhen Emancipation Angel enters the battlefield, return a permanent you control to its owner's hand.",
+    "text": "Flying When Emancipation Angel enters the battlefield, return a permanent you control to its owner's hand.",
     "flavor": "\"You have done your best. I give you leave to rest.\"",
     "artist": "Scott Chou",
     "number": "19",
@@ -2384,8 +2384,8 @@
       "AVR",
       "DDQ"
     ],
-    "originalText": "Flying\nWhen Emancipation Angel enters the battlefield, return a permanent you control to its owner's hand.",
-    "originalType": "Creature — Angel",
+    "originalText": "Flying When Emancipation Angel enters the battlefield, return a permanent you control to its owner's hand.",
+    "originalType": "Creature - Angel",
     "legalities": [
       {
         "format": "Commander",
@@ -2427,7 +2427,7 @@
     "rarity": "Mythic Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Create X 4/4 white Angel creature tokens with flying.\nMiracle {X}{W}{W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "text": "Create X 4/4 white Angel creature tokens with flying. Miracle {X}{W}{W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "artist": "Todd Lockwood",
     "number": "20",
     "layout": "normal",
@@ -2510,7 +2510,7 @@
       "V15",
       "MM3"
     ],
-    "originalText": "Put X 4/4 white Angel creature tokens with flying onto the battlefield.\nMiracle {X}{W}{W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "originalText": "Put X 4/4 white Angel creature tokens with flying onto the battlefield. Miracle {X}{W}{W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -2546,7 +2546,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Scout",
+    "type": "Creature - Human Scout",
     "types": [
       "Creature"
     ],
@@ -2632,7 +2632,7 @@
       "AVR"
     ],
     "originalText": "Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)",
-    "originalType": "Creature — Human Scout",
+    "originalType": "Creature - Human Scout",
     "legalities": [
       {
         "format": "Commander",
@@ -2667,7 +2667,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Cleric Soldier",
+    "type": "Creature - Human Cleric Soldier",
     "types": [
       "Creature"
     ],
@@ -2760,7 +2760,7 @@
       "AVR"
     ],
     "originalText": "Whenever another creature enters the battlefield under your control, creatures you control get +1/+1 until end of turn.",
-    "originalType": "Creature — Human Cleric Soldier",
+    "originalType": "Creature - Human Cleric Soldier",
     "legalities": [
       {
         "format": "Commander",
@@ -2795,7 +2795,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Angel",
+    "type": "Creature - Angel",
     "types": [
       "Creature"
     ],
@@ -2805,7 +2805,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\nWhen Goldnight Redeemer enters the battlefield, you gain 2 life for each other creature you control.",
+    "text": "Flying When Goldnight Redeemer enters the battlefield, you gain 2 life for each other creature you control.",
     "flavor": "The Host sings of Avacyn's return without a single verse about its own suffering.",
     "artist": "Karl Kopinski",
     "number": "23",
@@ -2886,8 +2886,8 @@
       "AVR",
       "DDQ"
     ],
-    "originalText": "Flying\nWhen Goldnight Redeemer enters the battlefield, you gain 2 life for each other creature you control.",
-    "originalType": "Creature — Angel",
+    "originalText": "Flying When Goldnight Redeemer enters the battlefield, you gain 2 life for each other creature you control.",
+    "originalType": "Creature - Angel",
     "legalities": [
       {
         "format": "Commander",
@@ -2922,7 +2922,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Angel",
+    "type": "Creature - Angel",
     "types": [
       "Creature"
     ],
@@ -2932,7 +2932,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\nWhenever Herald of War attacks, put a +1/+1 counter on it.\nAngel spells and Human spells you cast cost {1} less to cast for each +1/+1 counter on Herald of War.",
+    "text": "Flying Whenever Herald of War attacks, put a +1/+1 counter on it. Angel spells and Human spells you cast cost {1} less to cast for each +1/+1 counter on Herald of War.",
     "artist": "Eric Deschamps",
     "number": "24",
     "power": "3",
@@ -3023,8 +3023,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Flying\nWhenever Herald of War attacks, put a +1/+1 counter on it. \nAngel spells and Human spells you cast cost {1} less to cast for each +1/+1 counter on Herald of War.",
-    "originalType": "Creature — Angel",
+    "originalText": "Flying Whenever Herald of War attacks, put a +1/+1 counter on it.  Angel spells and Human spells you cast cost {1} less to cast for each +1/+1 counter on Herald of War.",
+    "originalType": "Creature - Angel",
     "legalities": [
       {
         "format": "Commander",
@@ -3059,7 +3059,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Cleric",
+    "type": "Creature - Human Cleric",
     "types": [
       "Creature"
     ],
@@ -3151,7 +3151,7 @@
       "AVR"
     ],
     "originalText": "{2}{W}, {T}: Tap target creature. If that creature is a Zombie, exile it.",
-    "originalType": "Creature — Human Cleric",
+    "originalType": "Creature - Human Cleric",
     "legalities": [
       {
         "format": "Commander",
@@ -3301,7 +3301,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Soldier",
+    "type": "Creature - Human Soldier",
     "types": [
       "Creature"
     ],
@@ -3387,7 +3387,7 @@
       "AVR"
     ],
     "originalText": "Protection from Vampires",
-    "originalType": "Creature — Human Soldier",
+    "originalType": "Creature - Human Soldier",
     "legalities": [
       {
         "format": "Commander",
@@ -3422,7 +3422,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Wizard",
+    "type": "Creature - Human Wizard",
     "types": [
       "Creature"
     ],
@@ -3508,7 +3508,7 @@
       "AVR"
     ],
     "originalText": "When Midvast Protector enters the battlefield, target creature you control gains protection from the color of your choice until end of turn.",
-    "originalType": "Creature — Human Wizard",
+    "originalType": "Creature - Human Wizard",
     "legalities": [
       {
         "format": "Commander",
@@ -3543,7 +3543,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -3553,7 +3553,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\n{3}{W}: Prevent all combat damage that would be dealt to and dealt by Moonlight Geist this turn.",
+    "text": "Flying {3}{W}: Prevent all combat damage that would be dealt to and dealt by Moonlight Geist this turn.",
     "flavor": "Wails and whispers are the only weapons she has left.",
     "artist": "Dan Scott",
     "number": "29",
@@ -3627,8 +3627,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Flying\n{3}{W}: Prevent all combat damage that would be dealt to and dealt by Moonlight Geist this turn.",
-    "originalType": "Creature — Spirit",
+    "originalText": "Flying {3}{W}: Prevent all combat damage that would be dealt to and dealt by Moonlight Geist this turn.",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -3663,7 +3663,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Soldier",
+    "type": "Creature - Human Soldier",
     "types": [
       "Creature"
     ],
@@ -3750,7 +3750,7 @@
       "DDQ"
     ],
     "originalText": "{2}{W}: Moorland Inquisitor gains first strike until end of turn.",
-    "originalType": "Creature — Human Soldier",
+    "originalType": "Creature - Human Soldier",
     "legalities": [
       {
         "format": "Commander",
@@ -3785,7 +3785,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Cleric",
+    "type": "Creature - Human Cleric",
     "types": [
       "Creature"
     ],
@@ -3796,7 +3796,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Nearheath Pilgrim is paired with another creature, both creatures have lifelink.",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Nearheath Pilgrim is paired with another creature, both creatures have lifelink.",
     "artist": "Erica Yang",
     "number": "31",
     "power": "2",
@@ -3869,8 +3869,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Nearheath Pilgrim is paired with another creature, both creatures have lifelink.",
-    "originalType": "Creature — Human Cleric",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Nearheath Pilgrim is paired with another creature, both creatures have lifelink.",
+    "originalType": "Creature - Human Cleric",
     "legalities": [
       {
         "format": "Commander",
@@ -3905,7 +3905,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Angel",
+    "type": "Creature - Angel",
     "types": [
       "Creature"
     ],
@@ -3915,7 +3915,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flash\nFlying\nWhen Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.",
+    "text": "Flash Flying When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.",
     "artist": "Johannes Voss",
     "number": "32",
     "power": "3",
@@ -4009,8 +4009,8 @@
       "MM3",
       "IMA"
     ],
-    "originalText": "Flash\nFlying\nWhen Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.",
-    "originalType": "Creature — Angel",
+    "originalText": "Flash Flying When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.",
+    "originalType": "Creature - Angel",
     "legalities": [
       {
         "format": "Commander",
@@ -4045,7 +4045,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Knight",
+    "type": "Creature - Human Knight",
     "types": [
       "Creature"
     ],
@@ -4056,7 +4056,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Vigilance\nAs Riders of Gavony enters the battlefield, choose a creature type.\nHuman creatures you control have protection from creatures of the chosen type.",
+    "text": "Vigilance As Riders of Gavony enters the battlefield, choose a creature type. Human creatures you control have protection from creatures of the chosen type.",
     "artist": "Volkan Baga",
     "number": "33",
     "power": "3",
@@ -4135,8 +4135,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Vigilance\nAs Riders of Gavony enters the battlefield, choose a creature type.\nHuman creatures you control have protection from creatures of the chosen type.",
-    "originalType": "Creature — Human Knight",
+    "originalText": "Vigilance As Riders of Gavony enters the battlefield, choose a creature type. Human creatures you control have protection from creatures of the chosen type.",
+    "originalType": "Creature - Human Knight",
     "legalities": [
       {
         "format": "Commander",
@@ -4179,7 +4179,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Righteous Blow deals 2 damage to target attacking or blocking creature.",
-    "flavor": "\"Monsters will no longer find safety under the mists of Morkrut!\"\n—Bruna, Light of Alabaster",
+    "flavor": "\"Monsters will no longer find safety under the mists of Morkrut!\" -Bruna, Light of Alabaster",
     "artist": "Clint Cearley",
     "number": "34",
     "layout": "normal",
@@ -4286,7 +4286,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Angel",
+    "type": "Creature - Angel",
     "types": [
       "Creature"
     ],
@@ -4296,7 +4296,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+    "text": "Flying Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
     "flavor": "She parts the clouds so sunlight can reach even the darkest lairs and duskiest tombs.",
     "artist": "Todd Lockwood",
     "number": "35",
@@ -4370,8 +4370,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Flying\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
-    "originalType": "Creature — Angel",
+    "originalText": "Flying Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
+    "originalType": "Creature - Angel",
     "legalities": [
       {
         "format": "Commander",
@@ -4406,7 +4406,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Knight",
+    "type": "Creature - Human Knight",
     "types": [
       "Creature"
     ],
@@ -4417,7 +4417,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Silverblade Paladin is paired with another creature, both creatures have double strike.",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Silverblade Paladin is paired with another creature, both creatures have double strike.",
     "artist": "Jason Chan",
     "number": "36",
     "power": "2",
@@ -4492,8 +4492,8 @@
       "AVR",
       "C14"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Silverblade Paladin is paired with another creature, both creatures have double strike.",
-    "originalType": "Creature — Human Knight",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Silverblade Paladin is paired with another creature, both creatures have double strike.",
+    "originalType": "Creature - Human Knight",
     "legalities": [
       {
         "format": "Commander",
@@ -4528,7 +4528,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Spirit Soldier",
+    "type": "Creature - Spirit Soldier",
     "types": [
       "Creature"
     ],
@@ -4539,7 +4539,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Spectral Gateguards is paired with another creature, both creatures have vigilance.",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Spectral Gateguards is paired with another creature, both creatures have vigilance.",
     "artist": "Wayne England",
     "number": "37",
     "power": "2",
@@ -4613,8 +4613,8 @@
       "AVR",
       "DDQ"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Spectral Gateguards is paired with another creature, both creatures have vigilance.",
-    "originalType": "Creature — Spirit Soldier",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Spectral Gateguards is paired with another creature, both creatures have vigilance.",
+    "originalType": "Creature - Spirit Soldier",
     "legalities": [
       {
         "format": "Commander",
@@ -4656,7 +4656,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Put all creatures on the bottom of their owners' libraries.\nMiracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "text": "Put all creatures on the bottom of their owners' libraries. Miracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "artist": "James Paick",
     "number": "38",
     "layout": "normal",
@@ -4735,7 +4735,7 @@
       "V14",
       "MM3"
     ],
-    "originalText": "Put all creatures on the bottom of their owners' libraries.\nMiracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "originalText": "Put all creatures on the bottom of their owners' libraries. Miracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -4771,7 +4771,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Human Soldier",
+    "type": "Creature - Human Soldier",
     "types": [
       "Creature"
     ],
@@ -4858,7 +4858,7 @@
       "DDL"
     ],
     "originalText": "Vigilance",
-    "originalType": "Creature — Human Soldier",
+    "originalType": "Creature - Human Soldier",
     "legalities": [
       {
         "format": "Commander",
@@ -4893,7 +4893,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Creature — Angel",
+    "type": "Creature - Angel",
     "types": [
       "Creature"
     ],
@@ -4903,7 +4903,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\nWhen Voice of the Provinces enters the battlefield, create a 1/1 white Human creature token.",
+    "text": "Flying When Voice of the Provinces enters the battlefield, create a 1/1 white Human creature token.",
     "flavor": "Her horn is heard across Innistrad, lifting the hearts of the righteous.",
     "artist": "Igor Kieryluk",
     "number": "40",
@@ -4978,8 +4978,8 @@
       "AVR",
       "DDQ"
     ],
-    "originalText": "Flying\nWhen Voice of the Provinces enters the battlefield, put a 1/1 white Human creature token onto the battlefield.",
-    "originalType": "Creature — Angel",
+    "originalText": "Flying When Voice of the Provinces enters the battlefield, put a 1/1 white Human creature token onto the battlefield.",
+    "originalType": "Creature - Angel",
     "legalities": [
       {
         "format": "Commander",
@@ -5130,7 +5130,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Human Wizard",
+    "type": "Creature - Human Wizard",
     "types": [
       "Creature"
     ],
@@ -5216,7 +5216,7 @@
       "AVR"
     ],
     "originalText": "Sacrifice Alchemist's Apprentice: Draw a card.",
-    "originalType": "Creature — Human Wizard",
+    "originalType": "Creature - Human Wizard",
     "legalities": [
       {
         "format": "Commander",
@@ -5507,7 +5507,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Human Wizard",
+    "type": "Creature - Human Wizard",
     "types": [
       "Creature"
     ],
@@ -5518,7 +5518,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Whenever another Human enters the battlefield under your control, untap Captain of the Mists.\n{1}{U}, {T}: You may tap or untap target permanent.",
+    "text": "Whenever another Human enters the battlefield under your control, untap Captain of the Mists. {1}{U}, {T}: You may tap or untap target permanent.",
     "flavor": "\"I am no mere ship's captain. The north wind is my accomplice. The tide is my first mate.\"",
     "artist": "Allen Williams",
     "number": "45",
@@ -5593,8 +5593,8 @@
       "AVR",
       "DDQ"
     ],
-    "originalText": "Whenever another Human enters the battlefield under your control, untap Captain of the Mists.\n{1}{U}, {T}: You may tap or untap target permanent.",
-    "originalType": "Creature — Human Wizard",
+    "originalText": "Whenever another Human enters the battlefield under your control, untap Captain of the Mists. {1}{U}, {T}: You may tap or untap target permanent.",
+    "originalType": "Creature - Human Wizard",
     "legalities": [
       {
         "format": "Commander",
@@ -5636,7 +5636,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Tap target creature. It doesn't untap during its controller's next untap step.\nDraw a card.",
+    "text": "Tap target creature. It doesn't untap during its controller's next untap step. Draw a card.",
     "flavor": "One breath of the geist turns veins to rivers of ice and freezes hearts midbeat.",
     "artist": "Svetlin Velinov",
     "number": "46",
@@ -5716,7 +5716,7 @@
       "KTK",
       "MM3"
     ],
-    "originalText": "Tap target creature. It doesn't untap during its controller's next untap step.\nDraw a card.",
+    "originalText": "Tap target creature. It doesn't untap during its controller's next untap step. Draw a card.",
     "originalType": "Instant",
     "legalities": [
       {
@@ -5756,7 +5756,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -5766,7 +5766,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Deadeye Navigator is paired with another creature, each of those creatures has \"{1}{U}: Exile this creature, then return it to the battlefield under your control.\"",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Deadeye Navigator is paired with another creature, each of those creatures has \"{1}{U}: Exile this creature, then return it to the battlefield under your control.\"",
     "artist": "Tomasz Jedruszek",
     "number": "47",
     "power": "5",
@@ -5850,8 +5850,8 @@
       "AVR",
       "MM3"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Deadeye Navigator is paired with another creature, each of those creatures has \"{1}{U}: Exile this creature, then return it to the battlefield under your control.\"",
-    "originalType": "Creature — Spirit",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Deadeye Navigator is paired with another creature, each of those creatures has \"{1}{U}: Exile this creature, then return it to the battlefield under your control.\"",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -5893,7 +5893,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Return all nonland permanents to their owners' hands.\nMiracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "text": "Return all nonland permanents to their owners' hands. Miracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "flavor": "It's hard to argue with a force made of divine will.",
     "artist": "Raymond Swanland",
     "number": "48",
@@ -5966,7 +5966,7 @@
       "AVR",
       "C16"
     ],
-    "originalText": "Return all nonland permanents to their owners' hands.\nMiracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "originalText": "Return all nonland permanents to their owners' hands. Miracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -6124,7 +6124,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Human Soldier",
+    "type": "Creature - Human Soldier",
     "types": [
       "Creature"
     ],
@@ -6135,7 +6135,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Elgaud Shieldmate is paired with another creature, both creatures have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Elgaud Shieldmate is paired with another creature, both creatures have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
     "artist": "Anthony Palumbo",
     "number": "50",
     "power": "2",
@@ -6208,8 +6208,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Elgaud Shieldmate is paired with another creature, both creatures have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
-    "originalType": "Creature — Human Soldier",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Elgaud Shieldmate is paired with another creature, both creatures have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
+    "originalType": "Creature - Human Soldier",
     "legalities": [
       {
         "format": "Commander",
@@ -6369,7 +6369,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -6379,7 +6379,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\nAt the beginning of your upkeep, sacrifice Fettergeist unless you pay {1} for each other creature you control.",
+    "text": "Flying At the beginning of your upkeep, sacrifice Fettergeist unless you pay {1} for each other creature you control.",
     "flavor": "The choices of the living will tether them in death.",
     "artist": "Izzy",
     "number": "52",
@@ -6459,8 +6459,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Flying\nAt the beginning of your upkeep, sacrifice Fettergeist unless you pay {1} for each other creature you control.",
-    "originalType": "Creature — Spirit",
+    "originalText": "Flying At the beginning of your upkeep, sacrifice Fettergeist unless you pay {1} for each other creature you control.",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -6502,7 +6502,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Target creature gets -1/-0 until end of turn.\nDraw a card.",
+    "text": "Target creature gets -1/-0 until end of turn. Draw a card.",
     "flavor": "The first spell taught to young mages, it has spared the lives of many whose hands are too small to hold a sword.",
     "artist": "Ryan Yee",
     "number": "53",
@@ -6587,7 +6587,7 @@
       "DDN",
       "CN2"
     ],
-    "originalText": "Target creature gets -1/-0 until end of turn.\nDraw a card.",
+    "originalText": "Target creature gets -1/-0 until end of turn. Draw a card.",
     "originalType": "Instant",
     "legalities": [
       {
@@ -6627,7 +6627,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Human Wizard",
+    "type": "Creature - Human Wizard",
     "types": [
       "Creature"
     ],
@@ -6638,7 +6638,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Galvanic Alchemist is paired with another creature, each of those creatures has \"{2}{U}: Untap this creature.\"",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Galvanic Alchemist is paired with another creature, each of those creatures has \"{2}{U}: Untap this creature.\"",
     "artist": "Svetlin Velinov",
     "number": "54",
     "power": "1",
@@ -6711,8 +6711,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Galvanic Alchemist is paired with another creature, each of those creatures has \"{2}{U}: Untap this creature.\"",
-    "originalType": "Creature — Human Wizard",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Galvanic Alchemist is paired with another creature, each of those creatures has \"{2}{U}: Untap this creature.\"",
+    "originalType": "Creature - Human Wizard",
     "legalities": [
       {
         "format": "Commander",
@@ -7109,7 +7109,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -7119,7 +7119,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant creature\nEnchanted creature has \"Whenever this creature attacks, you may tap or untap target permanent.\"",
+    "text": "Enchant creature Enchanted creature has \"Whenever this creature attacks, you may tap or untap target permanent.\"",
     "flavor": "\"Geists wish to make themselves known. I'm merely the vessel for their efforts.\"",
     "artist": "Jason Felix",
     "number": "58",
@@ -7191,8 +7191,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Enchant creature\nEnchanted creature has \"Whenever this creature attacks, you may tap or untap target permanent.\"",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature Enchanted creature has \"Whenever this creature attacks, you may tap or untap target permanent.\"",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -7227,7 +7227,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Human Knight",
+    "type": "Creature - Human Knight",
     "types": [
       "Creature"
     ],
@@ -7238,8 +7238,8 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\nWhen Gryff Vanguard enters the battlefield, draw a card.",
-    "flavor": "\"Ghouls smashed the door, but I heard the call of the gryffs and knew we were saved.\"\n—Ekka, shopkeeper of Hanweir",
+    "text": "Flying When Gryff Vanguard enters the battlefield, draw a card.",
+    "flavor": "\"Ghouls smashed the door, but I heard the call of the gryffs and knew we were saved.\" -Ekka, shopkeeper of Hanweir",
     "artist": "Jason Chan",
     "number": "59",
     "power": "3",
@@ -7313,8 +7313,8 @@
       "AVR",
       "DDQ"
     ],
-    "originalText": "Flying\nWhen Gryff Vanguard enters the battlefield, draw a card.",
-    "originalType": "Creature — Human Knight",
+    "originalText": "Flying When Gryff Vanguard enters the battlefield, draw a card.",
+    "originalType": "Creature - Human Knight",
     "legalities": [
       {
         "format": "Commander",
@@ -7349,7 +7349,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Zombie Horror",
+    "type": "Creature - Zombie Horror",
     "types": [
       "Creature"
     ],
@@ -7441,7 +7441,7 @@
       "AVR"
     ],
     "originalText": "Whenever Havengul Skaab attacks, return another creature you control to its owner's hand.",
-    "originalType": "Creature — Zombie Horror",
+    "originalType": "Creature - Zombie Horror",
     "legalities": [
       {
         "format": "Commander",
@@ -7476,7 +7476,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -7486,7 +7486,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant creature\nWhen Infinite Reflection enters the battlefield attached to a creature, each other nontoken creature you control becomes a copy of that creature.\nNontoken creatures you control enter the battlefield as a copy of enchanted creature.",
+    "text": "Enchant creature When Infinite Reflection enters the battlefield attached to a creature, each other nontoken creature you control becomes a copy of that creature. Nontoken creatures you control enter the battlefield as a copy of enchanted creature.",
     "artist": "Igor Kieryluk",
     "number": "61",
     "layout": "normal",
@@ -7604,8 +7604,8 @@
       "AVR",
       "C14"
     ],
-    "originalText": "Enchant creature\nWhen Infinite Reflection enters the battlefield attached to a creature, each other nontoken creature you control becomes a copy of that creature.\nNontoken creatures you control enter the battlefield as a copy of enchanted creature.",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature When Infinite Reflection enters the battlefield attached to a creature, each other nontoken creature you control becomes a copy of that creature. Nontoken creatures you control enter the battlefield as a copy of enchanted creature.",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -7648,7 +7648,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Return up to two target creatures to their owners' hands.",
-    "flavor": "\"The cathars have their swords, the inquisitors their axes. I prefer the 'diplomatic' approach.\"\n—Terhold, archmage of Drunau",
+    "flavor": "\"The cathars have their swords, the inquisitors their axes. I prefer the 'diplomatic' approach.\" -Terhold, archmage of Drunau",
     "artist": "Daarken",
     "number": "62",
     "layout": "normal",
@@ -7758,7 +7758,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -7844,7 +7844,7 @@
       "AVR"
     ],
     "originalText": "Latch Seeker is unblockable.",
-    "originalType": "Creature — Spirit",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -7879,7 +7879,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -7889,7 +7889,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever Lone Revenant deals combat damage to a player, if you control no other creatures, look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
+    "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.) Whenever Lone Revenant deals combat damage to a player, if you control no other creatures, look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
     "artist": "Jaime Jones",
     "number": "64",
     "power": "4",
@@ -7981,8 +7981,8 @@
       "AVR",
       "C15"
     ],
-    "originalText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever Lone Revenant deals combat damage to a player, if you control no other creatures, look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
-    "originalType": "Creature — Spirit",
+    "originalText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.) Whenever Lone Revenant deals combat damage to a player, if you control no other creatures, look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -8017,7 +8017,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Human Wizard",
+    "type": "Creature - Human Wizard",
     "types": [
       "Creature"
     ],
@@ -8029,7 +8029,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Whenever you cast an instant spell, you may pay {1}. If you do, draw a card.",
-    "flavor": "\"I'm pleased this world has learned the moon affects more than the tides.\"\n—Tamiyo, the Moon Sage",
+    "flavor": "\"I'm pleased this world has learned the moon affects more than the tides.\" -Tamiyo, the Moon Sage",
     "artist": "Wesley Burt",
     "number": "65",
     "power": "2",
@@ -8113,7 +8113,7 @@
       "AVR"
     ],
     "originalText": "Whenever you cast an instant spell, you may pay {1}. If you do, draw a card.",
-    "originalType": "Creature — Human Wizard",
+    "originalType": "Creature - Human Wizard",
     "legalities": [
       {
         "format": "Commander",
@@ -8269,7 +8269,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Bird",
+    "type": "Creature - Bird",
     "types": [
       "Creature"
     ],
@@ -8279,8 +8279,8 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\nWhen Mist Raven enters the battlefield, return target creature to its owner's hand.",
-    "flavor": "\"When you see a raven, head for the hills. It knows when the ghost-tide is headed in.\"\n—Sved, fisherman of Nephalia",
+    "text": "Flying When Mist Raven enters the battlefield, return target creature to its owner's hand.",
+    "flavor": "\"When you see a raven, head for the hills. It knows when the ghost-tide is headed in.\" -Sved, fisherman of Nephalia",
     "artist": "John Avon",
     "number": "67",
     "power": "2",
@@ -8361,8 +8361,8 @@
       "DDQ",
       "MM3"
     ],
-    "originalText": "Flying\nWhen Mist Raven enters the battlefield, return target creature to its owner's hand.",
-    "originalType": "Creature — Bird",
+    "originalText": "Flying When Mist Raven enters the battlefield, return target creature to its owner's hand.",
+    "originalType": "Creature - Bird",
     "legalities": [
       {
         "format": "Commander",
@@ -8397,7 +8397,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Griffin",
+    "type": "Creature - Griffin",
     "types": [
       "Creature"
     ],
@@ -8407,7 +8407,7 @@
     "rarity": "Mythic Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\nYou may cast Misthollow Griffin from exile.",
+    "text": "Flying You may cast Misthollow Griffin from exile.",
     "flavor": "For some creatures, existing is only a whim.",
     "artist": "Jaime Jones",
     "number": "68",
@@ -8499,8 +8499,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Flying\nYou may cast Misthollow Griffin from exile.",
-    "originalType": "Creature — Griffin",
+    "originalText": "Flying You may cast Misthollow Griffin from exile.",
+    "originalType": "Creature - Griffin",
     "legalities": [
       {
         "format": "Commander",
@@ -8535,7 +8535,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Human Rogue",
+    "type": "Creature - Human Rogue",
     "types": [
       "Creature"
     ],
@@ -8622,7 +8622,7 @@
       "DDQ"
     ],
     "originalText": "{3}{U}, {T}: Exile another target creature you control, then return that card to the battlefield under your control.",
-    "originalType": "Creature — Human Rogue",
+    "originalType": "Creature - Human Rogue",
     "legalities": [
       {
         "format": "Commander",
@@ -8900,7 +8900,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Zombie",
+    "type": "Creature - Zombie",
     "types": [
       "Creature"
     ],
@@ -8911,7 +8911,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "When Rotcrown Ghoul dies, target player puts the top five cards of their library into their graveyard.",
-    "flavor": "\"Don't look into its eyes. It's thinking things no dead thing should think.\"\n—Captain Eberhart",
+    "flavor": "\"Don't look into its eyes. It's thinking things no dead thing should think.\" -Captain Eberhart",
     "artist": "Dave Kendall",
     "number": "72",
     "power": "3",
@@ -8985,7 +8985,7 @@
       "AVR"
     ],
     "originalText": "When Rotcrown Ghoul dies, target player puts the top five cards of his or her library into his or her graveyard.",
-    "originalType": "Creature — Zombie",
+    "originalType": "Creature - Zombie",
     "legalities": [
       {
         "format": "Commander",
@@ -9020,7 +9020,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Zombie Drake",
+    "type": "Creature - Zombie Drake",
     "types": [
       "Creature"
     ],
@@ -9031,8 +9031,8 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nScrapskin Drake can block only creatures with flying.",
-    "flavor": "\"The cathars killed my skaabs down below. Let's see how high their swords can reach.\"\n—Ludevic, necro-alchemist",
+    "text": "Flying (This creature can't be blocked except by creatures with flying or reach.) Scrapskin Drake can block only creatures with flying.",
+    "flavor": "\"The cathars killed my skaabs down below. Let's see how high their swords can reach.\" -Ludevic, necro-alchemist",
     "artist": "Kev Walker",
     "number": "73",
     "power": "2",
@@ -9107,8 +9107,8 @@
       "ORI",
       "DDQ"
     ],
-    "originalText": "Flying\nScrapskin Drake can block only creatures with flying.",
-    "originalType": "Creature — Zombie Drake",
+    "originalText": "Flying Scrapskin Drake can block only creatures with flying.",
+    "originalType": "Creature - Zombie Drake",
     "legalities": [
       {
         "format": "Commander",
@@ -9151,7 +9151,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Counter target spell that's the second spell cast this turn.",
-    "flavor": "\"I see where you're going with that. I don't like it.\"\n—Dierk, geistmage",
+    "flavor": "\"I see where you're going with that. I don't like it.\" -Dierk, geistmage",
     "artist": "Karl Kopinski",
     "number": "74",
     "layout": "normal",
@@ -9272,7 +9272,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -9282,7 +9282,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.\nWhen enchanted creature becomes the target of a spell, sacrifice Spectral Prison.",
+    "text": "Enchant creature Enchanted creature doesn't untap during its controller's untap step. When enchanted creature becomes the target of a spell, sacrifice Spectral Prison.",
     "artist": "Vincent Proce",
     "number": "75",
     "layout": "normal",
@@ -9353,8 +9353,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.\nWhen enchanted creature becomes the target of a spell, sacrifice Spectral Prison.",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature Enchanted creature doesn't untap during its controller's untap step. When enchanted creature becomes the target of a spell, sacrifice Spectral Prison.",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -9389,7 +9389,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -9399,7 +9399,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant creature\nYou control enchanted creature.\nEnchanted creature gets +2/+2 and has flying.",
+    "text": "Enchant creature You control enchanted creature. Enchanted creature gets +2/+2 and has flying.",
     "flavor": "The fear of slipping from the geist's tenuous grip overwhelmed Tolo's joy at his first flight.",
     "artist": "Greg Staples",
     "number": "76",
@@ -9471,8 +9471,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Enchant creature\nYou control enchanted creature.\nEnchanted creature gets +2/+2 and has flying.",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature You control enchanted creature. Enchanted creature gets +2/+2 and has flying.",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -9507,7 +9507,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Human Wizard",
+    "type": "Creature - Human Wizard",
     "types": [
       "Creature"
     ],
@@ -9518,7 +9518,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Stern Mentor is paired with another creature, each of those creatures has \"{T}: Target player puts the top two cards of their library into their graveyard.\"",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Stern Mentor is paired with another creature, each of those creatures has \"{T}: Target player puts the top two cards of their library into their graveyard.\"",
     "artist": "Igor Kieryluk",
     "number": "77",
     "power": "2",
@@ -9591,8 +9591,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Stern Mentor is paired with another creature, each of those creatures has \"{T}: Target player puts the top two cards of his or her library into his or her graveyard.\"",
-    "originalType": "Creature — Human Wizard",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Stern Mentor is paired with another creature, each of those creatures has \"{T}: Target player puts the top two cards of his or her library into his or her graveyard.\"",
+    "originalType": "Creature - Human Wizard",
     "legalities": [
       {
         "format": "Commander",
@@ -9768,7 +9768,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Legendary Planeswalker — Tamiyo",
+    "type": "Legendary Planeswalker - Tamiyo",
     "supertypes": [
       "Legendary"
     ],
@@ -9781,7 +9781,7 @@
     "rarity": "Mythic Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "+1: Tap target permanent. It doesn't untap during its controller's next untap step.\n−2: Draw a card for each tapped creature target player controls.\n−8: You get an emblem with \"You have no maximum hand size\" and \"Whenever a card is put into your graveyard from anywhere, you may return it to your hand.\"",
+    "text": "+1: Tap target permanent. It doesn't untap during its controller's next untap step. −2: Draw a card for each tapped creature target player controls. −8: You get an emblem with \"You have no maximum hand size\" and \"Whenever a card is put into your graveyard from anywhere, you may return it to your hand.\"",
     "artist": "Eric Deschamps",
     "number": "79",
     "layout": "normal",
@@ -9879,8 +9879,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "+1: Tap target permanent. It doesn't untap during its controller's next untap step.\n-2: Draw a card for each tapped creature target player controls.\n-8: You get an emblem with \"You have no maximum hand size\" and \"Whenever a card is put into your graveyard from anywhere, you may return it to your hand.\"",
-    "originalType": "Planeswalker — Tamiyo",
+    "originalText": "+1: Tap target permanent. It doesn't untap during its controller's next untap step. -2: Draw a card for each tapped creature target player controls. -8: You get an emblem with \"You have no maximum hand size\" and \"Whenever a card is put into your graveyard from anywhere, you may return it to your hand.\"",
+    "originalType": "Planeswalker - Tamiyo",
     "legalities": [
       {
         "format": "Commander",
@@ -9915,7 +9915,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Human Scout",
+    "type": "Creature - Human Scout",
     "types": [
       "Creature"
     ],
@@ -9926,7 +9926,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Tandem Lookout is paired with another creature, each of those creatures has \"Whenever this creature deals damage to an opponent, draw a card.\"",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Tandem Lookout is paired with another creature, each of those creatures has \"Whenever this creature deals damage to an opponent, draw a card.\"",
     "artist": "Kev Walker",
     "number": "80",
     "power": "2",
@@ -10007,8 +10007,8 @@
       "DDQ",
       "MM3"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Tandem Lookout is paired with another creature, each of those creatures has \"Whenever this creature deals damage to an opponent, draw a card.\"",
-    "originalType": "Creature — Human Scout",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Tandem Lookout is paired with another creature, each of those creatures has \"Whenever this creature deals damage to an opponent, draw a card.\"",
+    "originalType": "Creature - Human Scout",
     "legalities": [
       {
         "format": "Commander",
@@ -10050,7 +10050,7 @@
     "rarity": "Mythic Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Take an extra turn after this one. Exile Temporal Mastery.\nMiracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "text": "Take an extra turn after this one. Exile Temporal Mastery. Miracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "flavor": "Time is a marvelous plaything.",
     "artist": "Franz Vohwinkel",
     "number": "81",
@@ -10123,7 +10123,7 @@
       "AVR",
       "MM3"
     ],
-    "originalText": "Take an extra turn after this one. Exile Temporal Mastery.\nMiracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "originalText": "Take an extra turn after this one. Exile Temporal Mastery. Miracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -10166,7 +10166,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Put target nonland permanent on top of its owner's library.\nMiracle {U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "text": "Put target nonland permanent on top of its owner's library. Miracle {U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "artist": "Daarken",
     "number": "82",
     "layout": "normal",
@@ -10237,7 +10237,7 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Put target nonland permanent on top of its owner's library.\nMiracle {U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "originalText": "Put target nonland permanent on top of its owner's library. Miracle {U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "originalType": "Instant",
     "legalities": [
       {
@@ -10273,7 +10273,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Creature — Human Wizard",
+    "type": "Creature - Human Wizard",
     "types": [
       "Creature"
     ],
@@ -10284,7 +10284,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Wingcrafter is paired with another creature, both creatures have flying.",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Wingcrafter is paired with another creature, both creatures have flying.",
     "artist": "Matt Stewart",
     "number": "83",
     "power": "1",
@@ -10358,8 +10358,8 @@
       "AVR",
       "MM3"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Wingcrafter is paired with another creature, both creatures have flying.",
-    "originalType": "Creature — Human Wizard",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Wingcrafter is paired with another creature, both creatures have flying.",
+    "originalType": "Creature - Human Wizard",
     "legalities": [
       {
         "format": "Commander",
@@ -10524,7 +10524,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Each player sacrifices two creatures.",
-    "flavor": "\"We must all make sacrifices for the good of Innistrad.\"\n—Sorin Markov",
+    "flavor": "\"We must all make sacrifices for the good of Innistrad.\" -Sorin Markov",
     "artist": "Eric Deschamps",
     "number": "85",
     "layout": "normal",
@@ -10655,7 +10655,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Vampire",
+    "type": "Creature - Vampire",
     "types": [
       "Creature"
     ],
@@ -10748,7 +10748,7 @@
       "C17"
     ],
     "originalText": "Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.",
-    "originalType": "Creature — Vampire",
+    "originalType": "Creature - Vampire",
     "legalities": [
       {
         "format": "Commander",
@@ -10783,7 +10783,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Vampire",
+    "type": "Creature - Vampire",
     "types": [
       "Creature"
     ],
@@ -10794,7 +10794,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur.",
-    "flavor": "\"Death not for survival but for vanity and pleasure? This is the decadence I sought to curb.\"\n—Sorin Markov",
+    "flavor": "\"Death not for survival but for vanity and pleasure? This is the decadence I sought to curb.\" -Sorin Markov",
     "artist": "Slawomir Maniak",
     "number": "87",
     "power": "1",
@@ -10868,7 +10868,7 @@
       "AVR"
     ],
     "originalText": "Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur.",
-    "originalType": "Creature — Vampire",
+    "originalType": "Creature - Vampire",
     "legalities": [
       {
         "format": "Commander",
@@ -10910,8 +10910,8 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "As an additional cost to cast this spell, sacrifice a creature.\nDestroy target creature.",
-    "flavor": "\"Which do you deserve, the heft of a femur or the graceful sharpness of a forearm? Decisions, decisions . . .\"\n—Gisa the Mad",
+    "text": "As an additional cost to cast this spell, sacrifice a creature. Destroy target creature.",
+    "flavor": "\"Which do you deserve, the heft of a femur or the graceful sharpness of a forearm? Decisions, decisions . . .\" -Gisa the Mad",
     "artist": "Nils Hamm",
     "number": "88",
     "layout": "normal",
@@ -11001,7 +11001,7 @@
       "BFZ",
       "MM3"
     ],
-    "originalText": "As an additional cost to cast Bone Splinters, sacrifice a creature.\nDestroy target creature.",
+    "originalText": "As an additional cost to cast Bone Splinters, sacrifice a creature. Destroy target creature.",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -11045,7 +11045,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Zombie",
+    "type": "Creature - Zombie",
     "types": [
       "Creature"
     ],
@@ -11131,7 +11131,7 @@
       "DDQ"
     ],
     "originalText": "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Zombie",
+    "originalType": "Creature - Zombie",
     "legalities": [
       {
         "format": "Commander",
@@ -11166,7 +11166,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Human Rogue",
+    "type": "Creature - Human Rogue",
     "types": [
       "Creature"
     ],
@@ -11263,7 +11263,7 @@
       "DDM"
     ],
     "originalText": "{2}{B}, Sacrifice a creature: Target opponent reveals his or her hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.",
-    "originalType": "Creature — Human Rogue",
+    "originalType": "Creature - Human Rogue",
     "legalities": [
       {
         "format": "Commander",
@@ -11298,7 +11298,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Zombie",
+    "type": "Creature - Zombie",
     "types": [
       "Creature"
     ],
@@ -11309,7 +11309,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Sacrifice Crypt Creeper: Exile target card from a graveyard.",
-    "flavor": "\"I guess what they say is true. What doesn't kill you makes you stronger. Or at least stranger.\"\n—Captain Eberhart",
+    "flavor": "\"I guess what they say is true. What doesn't kill you makes you stronger. Or at least stranger.\" -Captain Eberhart",
     "artist": "Scott Chou",
     "number": "91",
     "power": "2",
@@ -11390,7 +11390,7 @@
       "AVR"
     ],
     "originalText": "Sacrifice Crypt Creeper: Exile target card from a graveyard.",
-    "originalType": "Creature — Zombie",
+    "originalType": "Creature - Zombie",
     "legalities": [
       {
         "format": "Commander",
@@ -11429,7 +11429,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Vampire Assassin",
+    "type": "Creature - Vampire Assassin",
     "types": [
       "Creature"
     ],
@@ -11440,7 +11440,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "{4}{B}{B}: Exile target creature and put a +1/+1 counter on Dark Impostor.\nDark Impostor has all activated abilities of all creature cards exiled with it.",
+    "text": "{4}{B}{B}: Exile target creature and put a +1/+1 counter on Dark Impostor. Dark Impostor has all activated abilities of all creature cards exiled with it.",
     "flavor": "\"Ah, this is a nice life. I can see why you were so desperate to keep it.\"",
     "artist": "Johannes Voss",
     "number": "92",
@@ -11537,8 +11537,8 @@
       "AVR",
       "C17"
     ],
-    "originalText": "{4}{B}{B}: Exile target creature and put a +1/+1 counter on Dark Impostor.\nDark Impostor has all activated abilities of all creature cards exiled with it.",
-    "originalType": "Creature — Vampire Assassin",
+    "originalText": "{4}{B}{B}: Exile target creature and put a +1/+1 counter on Dark Impostor. Dark Impostor has all activated abilities of all creature cards exiled with it.",
+    "originalType": "Creature - Vampire Assassin",
     "legalities": [
       {
         "format": "Commander",
@@ -11819,7 +11819,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Demon",
+    "type": "Creature - Demon",
     "types": [
       "Creature"
     ],
@@ -11829,7 +11829,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\nAt the beginning of your upkeep, sacrifice a creature other than Demonic Taskmaster.",
+    "text": "Flying At the beginning of your upkeep, sacrifice a creature other than Demonic Taskmaster.",
     "flavor": "Subservience to greater power is the only law in the pit.",
     "artist": "Chris Rahn",
     "number": "95",
@@ -11913,8 +11913,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Flying\nAt the beginning of your upkeep, sacrifice a creature other than Demonic Taskmaster.",
-    "originalType": "Creature — Demon",
+    "originalText": "Flying At the beginning of your upkeep, sacrifice a creature other than Demonic Taskmaster.",
+    "originalType": "Creature - Demon",
     "legalities": [
       {
         "format": "Commander",
@@ -11949,7 +11949,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Demon",
+    "type": "Creature - Demon",
     "types": [
       "Creature"
     ],
@@ -11959,7 +11959,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\nWhen Demonlord of Ashmouth enters the battlefield, exile it unless you sacrifice another creature.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "text": "Flying When Demonlord of Ashmouth enters the battlefield, exile it unless you sacrifice another creature. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
     "artist": "Lucas Graciano",
     "number": "96",
     "power": "5",
@@ -12042,8 +12042,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Flying\nWhen Demonlord of Ashmouth enters the battlefield, exile it unless you sacrifice another creature.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Demon",
+    "originalText": "Flying When Demonlord of Ashmouth enters the battlefield, exile it unless you sacrifice another creature. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "originalType": "Creature - Demon",
     "legalities": [
       {
         "format": "Commander",
@@ -12211,7 +12211,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Zombie Horror",
+    "type": "Creature - Zombie Horror",
     "types": [
       "Creature"
     ],
@@ -12315,7 +12315,7 @@
       "AVR"
     ],
     "originalText": "Whenever a creature dealt damage by Dread Slaver this turn dies, return it to the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.",
-    "originalType": "Creature — Zombie Horror",
+    "originalType": "Creature - Zombie Horror",
     "legalities": [
       {
         "format": "Commander",
@@ -12350,7 +12350,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Vampire",
+    "type": "Creature - Vampire",
     "types": [
       "Creature"
     ],
@@ -12443,7 +12443,7 @@
       "CN2"
     ],
     "originalText": "When Driver of the Dead dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.",
-    "originalType": "Creature — Vampire",
+    "originalType": "Creature - Vampire",
     "legalities": [
       {
         "format": "Commander",
@@ -12603,7 +12603,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Shade",
+    "type": "Creature - Shade",
     "types": [
       "Creature"
     ],
@@ -12613,7 +12613,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "{B}: Evernight Shade gets +1/+1 until end of turn.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "text": "{B}: Evernight Shade gets +1/+1 until end of turn. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
     "artist": "Nic Klein",
     "number": "101",
     "power": "1",
@@ -12693,8 +12693,8 @@
       "AVR",
       "C14"
     ],
-    "originalText": "{B}: Evernight Shade gets +1/+1 until end of turn.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Shade",
+    "originalText": "{B}: Evernight Shade gets +1/+1 until end of turn. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "originalType": "Creature - Shade",
     "legalities": [
       {
         "format": "Commander",
@@ -12854,7 +12854,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -12864,7 +12864,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant creature\nEnchanted creature gets -1/-1 and is a black Zombie in addition to its other colors and types.",
+    "text": "Enchant creature Enchanted creature gets -1/-1 and is a black Zombie in addition to its other colors and types.",
     "flavor": "The body dies in stages. First the skin, then the muscle. The brain is last, much to the victim's dismay.",
     "artist": "Igor Kieryluk",
     "number": "103",
@@ -12942,8 +12942,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Enchant creature\nEnchanted creature gets -1/-1 and is a black Zombie in addition to its other colors and types.",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature Enchanted creature gets -1/-1 and is a black Zombie in addition to its other colors and types.",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -12978,7 +12978,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -13073,7 +13073,7 @@
       "AVR"
     ],
     "originalText": "If combat damage would be dealt to Gloom Surgeon, prevent that damage and exile that many cards from the top of your library.",
-    "originalType": "Creature — Spirit",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -13116,7 +13116,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Return target creature card from your graveyard to your hand. Target player sacrifices a creature.",
-    "flavor": "\"It's a cold, dark journey either way.\"\n—Eruth of Lambholt",
+    "flavor": "\"It's a cold, dark journey either way.\" -Eruth of Lambholt",
     "artist": "Sam Wolfe Connelly",
     "number": "105",
     "layout": "normal",
@@ -13233,7 +13233,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Legendary Creature — Demon",
+    "type": "Legendary Creature - Demon",
     "supertypes": [
       "Legendary"
     ],
@@ -13246,8 +13246,8 @@
     "rarity": "Mythic Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying, lifelink\nPay 7 life: Draw seven cards.",
-    "flavor": "\"Avacyn emerged from the broken Helvault, but her freedom came at a price—him.\"\n—Thalia, Knight-Cathar",
+    "text": "Flying, lifelink Pay 7 life: Draw seven cards.",
+    "flavor": "\"Avacyn emerged from the broken Helvault, but her freedom came at a price-him.\" -Thalia, Knight-Cathar",
     "artist": "Igor Kieryluk",
     "number": "106",
     "power": "7",
@@ -13328,8 +13328,8 @@
       "AVR",
       "MM3"
     ],
-    "originalText": "Flying, lifelink\nPay 7 life: Draw seven cards.",
-    "originalType": "Legendary Creature — Demon",
+    "originalText": "Flying, lifelink Pay 7 life: Draw seven cards.",
+    "originalType": "Legendary Creature - Demon",
     "legalities": [
       {
         "format": "Commander",
@@ -13364,7 +13364,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Demon",
+    "type": "Creature - Demon",
     "types": [
       "Creature"
     ],
@@ -13374,8 +13374,8 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Deathtouch\nWhenever another nontoken creature dies, you may draw a card.",
-    "flavor": "\"He is judge, jury, and executioner because he killed them all.\"\n—Bishop Cawle of Elgaud",
+    "text": "Deathtouch Whenever another nontoken creature dies, you may draw a card.",
+    "flavor": "\"He is judge, jury, and executioner because he killed them all.\" -Bishop Cawle of Elgaud",
     "artist": "Slawomir Maniak",
     "number": "107",
     "power": "5",
@@ -13451,8 +13451,8 @@
       "CN2",
       "E01"
     ],
-    "originalText": "Deathtouch\nWhenever another nontoken creature dies, you may draw a card.",
-    "originalType": "Creature — Demon",
+    "originalText": "Deathtouch Whenever another nontoken creature dies, you may draw a card.",
+    "originalType": "Creature - Demon",
     "legalities": [
       {
         "format": "Commander",
@@ -13495,7 +13495,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "As long as you control exactly one creature, that creature gets +3/+1 and has lifelink.",
-    "flavor": "\"Damned crows and their endless squawking . . . blocks out the voices in my head . . .\"\n—Hermit of Hanne Hall",
+    "flavor": "\"Damned crows and their endless squawking . . . blocks out the voices in my head . . .\" -Hermit of Hanne Hall",
     "artist": "Cliff Childs",
     "number": "108",
     "layout": "normal",
@@ -13610,7 +13610,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Destroy target Human creature.",
-    "flavor": "\"I have seen a hundred mortal families rise and fall. I shall outlast a thousand more.\"\n—Olivia Voldaren",
+    "flavor": "\"I have seen a hundred mortal families rise and fall. I shall outlast a thousand more.\" -Olivia Voldaren",
     "artist": "David Palumbo",
     "number": "109",
     "layout": "normal",
@@ -13718,7 +13718,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Zombie",
+    "type": "Creature - Zombie",
     "types": [
       "Creature"
     ],
@@ -13803,7 +13803,7 @@
       "AVR"
     ],
     "originalText": "Hunted Ghoul can't block Humans.",
-    "originalType": "Creature — Zombie",
+    "originalType": "Creature - Zombie",
     "legalities": [
       {
         "format": "Commander",
@@ -13846,7 +13846,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "For each creature, its controller sacrifices it unless they pay X life.",
-    "flavor": "\"I come looking for demons and I find a plane full of angels. I hate angels.\"\n—Liliana Vess",
+    "flavor": "\"I come looking for demons and I find a plane full of angels. I hate angels.\" -Liliana Vess",
     "artist": "Steve Argyle",
     "number": "111",
     "layout": "normal",
@@ -13972,7 +13972,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Zombie",
+    "type": "Creature - Zombie",
     "types": [
       "Creature"
     ],
@@ -13983,7 +13983,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "When Maalfeld Twins dies, create two 2/2 black Zombie creature tokens.",
-    "flavor": "\"Who am I to break up a family?\"\n—Gisa the Mad",
+    "flavor": "\"Who am I to break up a family?\" -Gisa the Mad",
     "artist": "Mike Sass",
     "number": "112",
     "power": "4",
@@ -14057,7 +14057,7 @@
       "AVR"
     ],
     "originalText": "When Maalfeld Twins dies, put two 2/2 black Zombie creature tokens onto the battlefield.",
-    "originalType": "Creature — Zombie",
+    "originalType": "Creature - Zombie",
     "legalities": [
       {
         "format": "Commander",
@@ -14092,7 +14092,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Bat Skeleton",
+    "type": "Creature - Bat Skeleton",
     "types": [
       "Creature"
     ],
@@ -14103,8 +14103,8 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\nPay 4 life: Regenerate Marrow Bats.",
-    "flavor": "\"No matter how far we push into Stensia, undeath will always remain in these lands.\"\n—Terhold, archmage of Drunau",
+    "text": "Flying Pay 4 life: Regenerate Marrow Bats.",
+    "flavor": "\"No matter how far we push into Stensia, undeath will always remain in these lands.\" -Terhold, archmage of Drunau",
     "artist": "Jason A. Engle",
     "number": "113",
     "power": "4",
@@ -14178,8 +14178,8 @@
       "AVR",
       "C13"
     ],
-    "originalText": "Flying\nPay 4 life: Regenerate Marrow Bats.",
-    "originalType": "Creature — Bat Skeleton",
+    "originalText": "Flying Pay 4 life: Regenerate Marrow Bats.",
+    "originalType": "Creature - Bat Skeleton",
     "legalities": [
       {
         "format": "Commander",
@@ -14456,7 +14456,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Zombie",
+    "type": "Creature - Zombie",
     "types": [
       "Creature"
     ],
@@ -14541,7 +14541,7 @@
       "AVR"
     ],
     "originalText": "When Polluted Dead dies, destroy target land.",
-    "originalType": "Creature — Zombie",
+    "originalType": "Creature - Zombie",
     "legalities": [
       {
         "format": "Commander",
@@ -14576,7 +14576,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -14586,7 +14586,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant creature\nEnchanted creature gets +2/+1.\nEnchanted creature has intimidate as long as its controller controls no other creatures. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+    "text": "Enchant creature Enchanted creature gets +2/+1. Enchanted creature has intimidate as long as its controller controls no other creatures. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
     "artist": "Zoltan Boros",
     "number": "117",
     "layout": "normal",
@@ -14657,8 +14657,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Enchant creature\nEnchanted creature gets +2/+1.\nEnchanted creature has intimidate as long as its controller controls no other creatures. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature Enchanted creature gets +2/+1. Enchanted creature has intimidate as long as its controller controls no other creatures. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -14693,7 +14693,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Demon",
+    "type": "Creature - Demon",
     "types": [
       "Creature"
     ],
@@ -14703,7 +14703,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "flavor": "\"Have you ever cornered a wounded vampire? That's a walk in the cathedral garden in comparison.\"\n—Tristen, Cathar Marshal",
+    "flavor": "\"Have you ever cornered a wounded vampire? That's a walk in the cathedral garden in comparison.\" -Tristen, Cathar Marshal",
     "artist": "Tomasz Jedruszek",
     "number": "118",
     "power": "5",
@@ -14777,7 +14777,7 @@
       "AVR",
       "DDR"
     ],
-    "originalType": "Creature — Demon",
+    "originalType": "Creature - Demon",
     "legalities": [
       {
         "format": "Commander",
@@ -14812,7 +14812,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -14822,7 +14822,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying\n{3}{B}: Searchlight Geist gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+    "text": "Flying {3}{B}: Searchlight Geist gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
     "flavor": "It rises with the fall of darkness, seeking souls to extinguish.",
     "artist": "Steven Belledin",
     "number": "119",
@@ -14896,8 +14896,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Flying\n{3}{B}: Searchlight Geist gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
-    "originalType": "Creature — Spirit",
+    "originalText": "Flying {3}{B}: Searchlight Geist gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -14932,7 +14932,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Demon",
+    "type": "Creature - Demon",
     "types": [
       "Creature"
     ],
@@ -15017,7 +15017,7 @@
       "AVR"
     ],
     "originalText": "When Soulcage Fiend dies, each player loses 3 life.",
-    "originalType": "Creature — Demon",
+    "originalType": "Creature - Demon",
     "legalities": [
       {
         "format": "Commander",
@@ -15052,7 +15052,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Demon",
+    "type": "Creature - Demon",
     "types": [
       "Creature"
     ],
@@ -15062,7 +15062,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "When Treacherous Pit-Dweller enters the battlefield from a graveyard, target opponent gains control of it.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "text": "When Treacherous Pit-Dweller enters the battlefield from a graveyard, target opponent gains control of it. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
     "artist": "Svetlin Velinov",
     "number": "121",
     "power": "4",
@@ -15135,8 +15135,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "When Treacherous Pit-Dweller enters the battlefield from a graveyard, target opponent gains control of it.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Demon",
+    "originalText": "When Treacherous Pit-Dweller enters the battlefield from a graveyard, target opponent gains control of it. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "originalType": "Creature - Demon",
     "legalities": [
       {
         "format": "Commander",
@@ -15179,7 +15179,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "At the beginning of your upkeep, target opponent discards a card if you control the creature with the greatest power or tied for the greatest power.",
-    "flavor": "\"I've seen corpses prettier than you, beastmage.\"\n—Liliana Vess",
+    "flavor": "\"I've seen corpses prettier than you, beastmage.\" -Liliana Vess",
     "artist": "Izzy",
     "number": "122",
     "layout": "normal",
@@ -15292,7 +15292,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Creature — Zombie",
+    "type": "Creature - Zombie",
     "types": [
       "Creature"
     ],
@@ -15377,7 +15377,7 @@
       "AVR"
     ],
     "originalText": "When Undead Executioner dies, you may have target creature get -2/-2 until end of turn.",
-    "originalType": "Creature — Zombie",
+    "originalType": "Creature - Zombie",
     "legalities": [
       {
         "format": "Commander",
@@ -15412,7 +15412,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -15422,7 +15422,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant creature\nWhen enchanted creature dies, return that card to the battlefield under your control.",
+    "text": "Enchant creature When enchanted creature dies, return that card to the battlefield under your control.",
     "flavor": "Agreements with demons seldom end at the grave.",
     "artist": "Volkan Baga",
     "number": "124",
@@ -15506,8 +15506,8 @@
       "CNS",
       "DDR"
     ],
-    "originalText": "Enchant creature\nWhen enchanted creature dies, return that card to the battlefield under your control.",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature When enchanted creature dies, return that card to the battlefield under your control.",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -15550,7 +15550,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Aggravate deals 1 damage to each creature target player controls. Each creature dealt damage this way attacks this turn if able.",
-    "flavor": "\"Barbarians! They burned my favorite chair! We'll kill them all!\"\n—Anje Falkenrath",
+    "flavor": "\"Barbarians! They burned my favorite chair! We'll kill them all!\" -Anje Falkenrath",
     "artist": "Matt Stewart",
     "number": "125",
     "layout": "normal",
@@ -15671,7 +15671,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Dragon",
+    "type": "Creature - Dragon",
     "types": [
       "Creature"
     ],
@@ -15681,7 +15681,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying, haste\nAt the beginning of the end step, return Archwing Dragon to its owner's hand.",
+    "text": "Flying, haste At the beginning of the end step, return Archwing Dragon to its owner's hand.",
     "flavor": "Swifter than an angel, crueler than a demon, and relentless as a ghoul.",
     "artist": "Daarken",
     "number": "126",
@@ -15761,8 +15761,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Flying, haste\nAt the beginning of the end step, return Archwing Dragon to its owner's hand.",
-    "originalType": "Creature — Dragon",
+    "originalText": "Flying, haste At the beginning of the end step, return Archwing Dragon to its owner's hand.",
+    "originalType": "Creature - Dragon",
     "legalities": [
       {
         "format": "Commander",
@@ -15926,7 +15926,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Add {R} for each creature you control.",
-    "flavor": "\"A church is just wood and walls. A congregation is the faithful praising the angels.\"\n—Kolman, elder of Gatstaf",
+    "flavor": "\"A church is just wood and walls. A congregation is the faithful praising the angels.\" -Kolman, elder of Gatstaf",
     "artist": "Nils Hamm",
     "number": "128",
     "layout": "normal",
@@ -16046,7 +16046,7 @@
     "rarity": "Mythic Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Bonfire of the Damned deals X damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.\nMiracle {X}{R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "text": "Bonfire of the Damned deals X damage to target player or planeswalker and each creature that player or that planeswalker's controller controls. Miracle {X}{R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "artist": "James Paick",
     "number": "129",
     "layout": "normal",
@@ -16140,7 +16140,7 @@
       "AVR",
       "MM3"
     ],
-    "originalText": "Bonfire of the Damned deals X damage to target player and each creature he or she controls.\nMiracle {X}{R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "originalText": "Bonfire of the Damned deals X damage to target player and each creature he or she controls. Miracle {X}{R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -16183,7 +16183,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "As an additional cost to cast this spell, tap any number of untapped creatures you control.\nBurn at the Stake deals damage to any target equal to three times the number of creatures tapped this way.",
+    "text": "As an additional cost to cast this spell, tap any number of untapped creatures you control. Burn at the Stake deals damage to any target equal to three times the number of creatures tapped this way.",
     "artist": "Zoltan Boros",
     "number": "130",
     "layout": "normal",
@@ -16268,7 +16268,7 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "As an additional cost to cast Burn at the Stake, tap any number of untapped creatures you control.\nBurn at the Stake deals damage to target creature or player equal to three times the number of creatures tapped this way.",
+    "originalText": "As an additional cost to cast Burn at the Stake, tap any number of untapped creatures you control. Burn at the Stake deals damage to target creature or player equal to three times the number of creatures tapped this way.",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -16312,7 +16312,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Discard your hand, then draw two cards.",
-    "flavor": "\"C'mon friend, take a turn tossing the knucklebones. What've you got to lose?\"\n—Tobias, trader of Erdwal",
+    "flavor": "\"C'mon friend, take a turn tossing the knucklebones. What've you got to lose?\" -Tobias, trader of Erdwal",
     "artist": "Drew Baker",
     "number": "131",
     "layout": "normal",
@@ -16433,7 +16433,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Destroy target artifact or land.",
-    "flavor": "\"To truly defeat a skaberen, you must destroy not the monster but the lab.\"\n—Rem Karolus, Blade of the Inquisitors",
+    "flavor": "\"To truly defeat a skaberen, you must destroy not the monster but the lab.\" -Rem Karolus, Blade of the Inquisitors",
     "artist": "Raymond Swanland",
     "number": "132",
     "layout": "normal",
@@ -16575,7 +16575,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -16585,7 +16585,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant creature\nEnchanted creature has \"{R}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy.\"",
+    "text": "Enchant creature Enchanted creature has \"{R}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy.\"",
     "flavor": "Hours after the Helvault opened, his powers returned twice as strong as before.",
     "artist": "Johannes Voss",
     "number": "133",
@@ -16607,7 +16607,7 @@
       },
       {
         "date": "2012-05-01",
-        "text": "If the spell being copied is modal (that is, it says \"Choose one —\" or the like), the copy will have the same mode(s). You can't choose different ones."
+        "text": "If the spell being copied is modal (that is, it says \"Choose one -\" or the like), the copy will have the same mode(s). You can't choose different ones."
       },
       {
         "date": "2012-05-01",
@@ -16683,8 +16683,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Enchant creature\nEnchanted creature has \"{R}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy.\"",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature Enchanted creature has \"{R}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy.\"",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -16719,7 +16719,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Vampire Archer",
+    "type": "Creature - Vampire Archer",
     "types": [
       "Creature"
     ],
@@ -16730,7 +16730,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Whenever Falkenrath Exterminator deals combat damage to a player, put a +1/+1 counter on it.\n{2}{R}: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator.",
+    "text": "Whenever Falkenrath Exterminator deals combat damage to a player, put a +1/+1 counter on it. {2}{R}: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator.",
     "artist": "Winona Nelson",
     "number": "134",
     "power": "1",
@@ -16803,8 +16803,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Whenever Falkenrath Exterminator deals combat damage to a player, put a +1/+1 counter on it.\n{2}{R}: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator.",
-    "originalType": "Creature — Vampire Archer",
+    "originalText": "Whenever Falkenrath Exterminator deals combat damage to a player, put a +1/+1 counter on it. {2}{R}: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator.",
+    "originalType": "Creature - Vampire Archer",
     "legalities": [
       {
         "format": "Commander",
@@ -16839,7 +16839,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Human Knight",
+    "type": "Creature - Human Knight",
     "types": [
       "Creature"
     ],
@@ -16850,7 +16850,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Haste\nWhen Fervent Cathar enters the battlefield, target creature can't block this turn.",
+    "text": "Haste When Fervent Cathar enters the battlefield, target creature can't block this turn.",
     "flavor": "\"I'll put my sword down only to die. And I don't plan on doing that today.\"",
     "artist": "Steven Belledin",
     "number": "135",
@@ -16931,8 +16931,8 @@
       "AVR",
       "EMA"
     ],
-    "originalText": "Haste\nWhen Fervent Cathar enters the battlefield, target creature can't block this turn.",
-    "originalType": "Creature — Human Knight",
+    "originalText": "Haste When Fervent Cathar enters the battlefield, target creature can't block this turn.",
+    "originalType": "Creature - Human Knight",
     "legalities": [
       {
         "format": "Commander",
@@ -16967,7 +16967,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Devil",
+    "type": "Creature - Devil",
     "types": [
       "Creature"
     ],
@@ -16978,7 +16978,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "When Gang of Devils dies, it deals 3 damage divided as you choose among one, two, or three targets.",
-    "flavor": "\"Well, how could I know they'd explode?\"\n—Gregel, township militia",
+    "flavor": "\"Well, how could I know they'd explode?\" -Gregel, township militia",
     "artist": "Erica Yang",
     "number": "136",
     "power": "3",
@@ -17060,7 +17060,7 @@
       "CN2"
     ],
     "originalText": "When Gang of Devils dies, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.",
-    "originalType": "Creature — Devil",
+    "originalType": "Creature - Devil",
     "legalities": [
       {
         "format": "Commander",
@@ -17095,7 +17095,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -17105,8 +17105,8 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant creature\nEnchanted creature gets +1/-1 and attacks each combat if able.",
-    "flavor": "\"Fire will eventually destroy a zombie, but a fiery zombie destroys a lot of other things first.\"\n—Rem Karolus, Blade of the Inquisitors",
+    "text": "Enchant creature Enchanted creature gets +1/-1 and attacks each combat if able.",
+    "flavor": "\"Fire will eventually destroy a zombie, but a fiery zombie destroys a lot of other things first.\" -Rem Karolus, Blade of the Inquisitors",
     "artist": "Dave Kendall",
     "number": "137",
     "layout": "normal",
@@ -17187,8 +17187,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Enchant creature\nEnchanted creature gets +1/-1 and attacks each turn if able.",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature Enchanted creature gets +1/-1 and attacks each turn if able.",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -17223,7 +17223,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Human Knight",
+    "type": "Creature - Human Knight",
     "types": [
       "Creature"
     ],
@@ -17234,7 +17234,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Hanweir Lancer is paired with another creature, both creatures have first strike.",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Hanweir Lancer is paired with another creature, both creatures have first strike.",
     "artist": "Steve Prescott",
     "number": "138",
     "power": "2",
@@ -17308,8 +17308,8 @@
       "AVR",
       "MM3"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Hanweir Lancer is paired with another creature, both creatures have first strike.",
-    "originalType": "Creature — Human Knight",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Hanweir Lancer is paired with another creature, both creatures have first strike.",
+    "originalType": "Creature - Human Knight",
     "legalities": [
       {
         "format": "Commander",
@@ -17344,7 +17344,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Vampire",
+    "type": "Creature - Vampire",
     "types": [
       "Creature"
     ],
@@ -17354,8 +17354,8 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Whenever Havengul Vampire deals combat damage to a player, put a +1/+1 counter on it.\nWhenever another creature dies, put a +1/+1 counter on Havengul Vampire.",
-    "flavor": "\"That slowly decreasing pulse—that's the beat I waltz to.\"",
+    "text": "Whenever Havengul Vampire deals combat damage to a player, put a +1/+1 counter on it. Whenever another creature dies, put a +1/+1 counter on Havengul Vampire.",
+    "flavor": "\"That slowly decreasing pulse-that's the beat I waltz to.\"",
     "artist": "James Ryman",
     "number": "139",
     "power": "2",
@@ -17429,8 +17429,8 @@
       "AVR",
       "CN2"
     ],
-    "originalText": "Whenever Havengul Vampire deals combat damage to a player, put a +1/+1 counter on it.\nWhenever another creature dies, put a +1/+1 counter on Havengul Vampire.",
-    "originalType": "Creature — Vampire",
+    "originalText": "Whenever Havengul Vampire deals combat damage to a player, put a +1/+1 counter on it. Whenever another creature dies, put a +1/+1 counter on Havengul Vampire.",
+    "originalType": "Creature - Vampire",
     "legalities": [
       {
         "format": "Commander",
@@ -17465,7 +17465,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Vampire",
+    "type": "Creature - Vampire",
     "types": [
       "Creature"
     ],
@@ -17475,7 +17475,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhenever Heirs of Stromkirk deals combat damage to a player, put a +1/+1 counter on it.",
+    "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.) Whenever Heirs of Stromkirk deals combat damage to a player, put a +1/+1 counter on it.",
     "artist": "Winona Nelson",
     "number": "140",
     "power": "2",
@@ -17548,8 +17548,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhenever Heirs of Stromkirk deals combat damage to a player, put a +1/+1 counter on it.",
-    "originalType": "Creature — Vampire",
+    "originalText": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.) Whenever Heirs of Stromkirk deals combat damage to a player, put a +1/+1 counter on it.",
+    "originalType": "Creature - Vampire",
     "legalities": [
       {
         "format": "Commander",
@@ -17584,7 +17584,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Elemental Hound",
+    "type": "Creature - Elemental Hound",
     "types": [
       "Creature"
     ],
@@ -17595,7 +17595,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Double strike\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "text": "Double strike Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
     "artist": "Svetlin Velinov",
     "number": "141",
     "power": "2",
@@ -17668,8 +17668,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Double strike\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Elemental Hound",
+    "originalText": "Double strike Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "originalType": "Creature - Elemental Hound",
     "legalities": [
       {
         "format": "Commander",
@@ -17704,7 +17704,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Human Warrior",
+    "type": "Creature - Human Warrior",
     "types": [
       "Creature"
     ],
@@ -17796,7 +17796,7 @@
       "AVR"
     ],
     "originalText": "When Kessig Malcontents enters the battlefield, it deals damage to target player equal to the number of Humans you control.",
-    "originalType": "Creature — Human Warrior",
+    "originalType": "Creature - Human Warrior",
     "legalities": [
       {
         "format": "Commander",
@@ -17831,7 +17831,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Human Warrior",
+    "type": "Creature - Human Warrior",
     "types": [
       "Creature"
     ],
@@ -17918,7 +17918,7 @@
       "DDS"
     ],
     "originalText": "Whenever another creature enters the battlefield under your control, Kruin Striker gets +1/+0 and gains trample until end of turn.",
-    "originalType": "Creature — Human Warrior",
+    "originalType": "Creature - Human Warrior",
     "legalities": [
       {
         "format": "Commander",
@@ -17953,7 +17953,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Human Berserker",
+    "type": "Creature - Human Berserker",
     "types": [
       "Creature"
     ],
@@ -17964,7 +17964,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Lightning Mauler is paired with another creature, both creatures have haste.",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Lightning Mauler is paired with another creature, both creatures have haste.",
     "artist": "Dave Kendall",
     "number": "144",
     "power": "2",
@@ -18043,8 +18043,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Lightning Mauler is paired with another creature, both creatures have haste.",
-    "originalType": "Creature — Human Berserker",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Lightning Mauler is paired with another creature, both creatures have haste.",
+    "originalType": "Creature - Human Berserker",
     "legalities": [
       {
         "format": "Commander",
@@ -18079,7 +18079,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -18089,7 +18089,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant creature\nEnchanted creature has haste and \"{T}: This creature deals 1 damage to any target.\"",
+    "text": "Enchant creature Enchanted creature has haste and \"{T}: This creature deals 1 damage to any target.\"",
     "flavor": "\"Undead flesh is dry and papery. A single spark and 'poof.' No more ghoul.\"",
     "artist": "David Rapoza",
     "number": "145",
@@ -18161,8 +18161,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Enchant creature\nEnchanted creature has haste and \"{T}: This creature deals 1 damage to target creature or player.\"",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature Enchanted creature has haste and \"{T}: This creature deals 1 damage to target creature or player.\"",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -18197,7 +18197,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Human Shaman",
+    "type": "Creature - Human Shaman",
     "types": [
       "Creature"
     ],
@@ -18208,7 +18208,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Haste\n{T}, Discard a card: Draw a card.",
+    "text": "Haste {T}, Discard a card: Draw a card.",
     "flavor": "\"There's no heron in the moon! It's a shrew, a five-legged shrew, with a voice like whispering thunder!\"",
     "artist": "Wayne Reynolds",
     "number": "146",
@@ -18290,8 +18290,8 @@
       "DDK",
       "SOI"
     ],
-    "originalText": "Haste\n{T}, Discard a card: Draw a card.",
-    "originalType": "Creature — Human Shaman",
+    "originalText": "Haste {T}, Discard a card: Draw a card.",
+    "originalType": "Creature - Human Shaman",
     "legalities": [
       {
         "format": "Commander",
@@ -18330,7 +18330,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -18340,7 +18340,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant creature\nEnchanted creature has \"{T}: Target creature can't block this turn.\"",
+    "text": "Enchant creature Enchanted creature has \"{T}: Target creature can't block this turn.\"",
     "flavor": "As peace returned to Thraben, some cathars made the mistake of letting down their guard.",
     "artist": "Kev Walker",
     "number": "147",
@@ -18418,8 +18418,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Enchant creature\nEnchanted creature has \"{T}: Target creature can't block this turn.\"",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature Enchanted creature has \"{T}: Target creature can't block this turn.\"",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -18454,7 +18454,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Elemental Spirit",
+    "type": "Creature - Elemental Spirit",
     "types": [
       "Creature"
     ],
@@ -18465,7 +18465,7 @@
     "rarity": "Mythic Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Malignus's power and toughness are each equal to half the highest life total among your opponents, rounded up.\nDamage that would be dealt by Malignus can't be prevented.",
+    "text": "Malignus's power and toughness are each equal to half the highest life total among your opponents, rounded up. Damage that would be dealt by Malignus can't be prevented.",
     "flavor": "It descended on Estwald like a sudden storm. Moments later, only ashes and agony remained.",
     "artist": "Jung Park",
     "number": "148",
@@ -18545,8 +18545,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Malignus's power and toughness are each equal to half the highest life total among your opponents, rounded up.\nDamage that would be dealt by Malignus can't be prevented.",
-    "originalType": "Creature — Elemental Spirit",
+    "originalText": "Malignus's power and toughness are each equal to half the highest life total among your opponents, rounded up. Damage that would be dealt by Malignus can't be prevented.",
+    "originalType": "Creature - Elemental Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -18708,7 +18708,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -18791,7 +18791,7 @@
     "printings": [
       "AVR"
     ],
-    "originalType": "Creature — Spirit",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -18833,7 +18833,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Each player discards their hand, then draws seven cards.\nMiracle {1}{R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "text": "Each player discards their hand, then draws seven cards. Miracle {1}{R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "flavor": "In a wave of spells called the Cursemute, Avacyn cleansed the world with divine fire.",
     "artist": "Jaime Jones",
     "number": "151",
@@ -18906,7 +18906,7 @@
       "AVR",
       "C16"
     ],
-    "originalText": "Each player discards his or her hand and draws seven cards.\nMiracle {1}{R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "originalText": "Each player discards his or her hand and draws seven cards. Miracle {1}{R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -18942,7 +18942,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Human Warrior",
+    "type": "Creature - Human Warrior",
     "types": [
       "Creature"
     ],
@@ -19028,7 +19028,7 @@
       "AVR"
     ],
     "originalText": "Whenever Riot Ringleader attacks, Human creatures you control get +1/+0 until end of turn.",
-    "originalType": "Creature — Human Warrior",
+    "originalType": "Creature - Human Warrior",
     "legalities": [
       {
         "format": "Commander",
@@ -19313,7 +19313,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Devil",
+    "type": "Creature - Devil",
     "types": [
       "Creature"
     ],
@@ -19398,7 +19398,7 @@
       "AVR"
     ],
     "originalText": "{2}{R}: Scalding Devil deals 1 damage to target player.",
-    "originalType": "Creature — Devil",
+    "originalType": "Creature - Devil",
     "legalities": [
       {
         "format": "Commander",
@@ -19433,7 +19433,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Human Warrior",
+    "type": "Creature - Human Warrior",
     "types": [
       "Creature"
     ],
@@ -19530,7 +19530,7 @@
       "DDL"
     ],
     "originalText": "Whenever Somberwald Vigilante becomes blocked by a creature, Somberwald Vigilante deals 1 damage to that creature.",
-    "originalType": "Creature — Human Warrior",
+    "originalType": "Creature - Human Warrior",
     "legalities": [
       {
         "format": "Commander",
@@ -19565,7 +19565,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Human Shaman",
+    "type": "Creature - Human Shaman",
     "types": [
       "Creature"
     ],
@@ -19576,7 +19576,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Stonewright is paired with another creature, each of those creatures has \"{R}: This creature gets +1/+0 until end of turn.\"",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Stonewright is paired with another creature, each of those creatures has \"{R}: This creature gets +1/+0 until end of turn.\"",
     "artist": "Wesley Burt",
     "number": "157",
     "power": "1",
@@ -19649,8 +19649,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Stonewright is paired with another creature, each of those creatures has \"{R}: This creature gets +1/+0 until end of turn.\"",
-    "originalType": "Creature — Human Shaman",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Stonewright is paired with another creature, each of those creatures has \"{R}: This creature gets +1/+0 until end of turn.\"",
+    "originalType": "Creature - Human Shaman",
     "legalities": [
       {
         "format": "Commander",
@@ -19807,8 +19807,8 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Choose one —\n• Thunderbolt deals 3 damage to target player or planeswalker.\n• Thunderbolt deals 4 damage to target creature with flying.",
-    "flavor": "\"My next aerial design will use less metal.\"\n—Hadaken, alchemist of Nephalia",
+    "text": "Choose one - • Thunderbolt deals 3 damage to target player or planeswalker. • Thunderbolt deals 4 damage to target creature with flying.",
+    "flavor": "\"My next aerial design will use less metal.\" -Hadaken, alchemist of Nephalia",
     "artist": "Anthony Francisco",
     "number": "159",
     "layout": "normal",
@@ -19882,7 +19882,7 @@
       "PD2",
       "AVR"
     ],
-    "originalText": "Choose one — Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying.",
+    "originalText": "Choose one - Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying.",
     "originalType": "Instant",
     "legalities": [
       {
@@ -19929,7 +19929,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Thunderous Wrath deals 5 damage to any target.\nMiracle {R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "text": "Thunderous Wrath deals 5 damage to any target. Miracle {R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "artist": "Adam Paquette",
     "number": "160",
     "layout": "normal",
@@ -20001,7 +20001,7 @@
       "AVR",
       "MM3"
     ],
-    "originalText": "Thunderous Wrath deals 5 damage to target creature or player.\nMiracle {R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "originalText": "Thunderous Wrath deals 5 damage to target creature or player. Miracle {R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "originalType": "Instant",
     "legalities": [
       {
@@ -20037,7 +20037,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Legendary Planeswalker — Tibalt",
+    "type": "Legendary Planeswalker - Tibalt",
     "supertypes": [
       "Legendary"
     ],
@@ -20050,7 +20050,7 @@
     "rarity": "Mythic Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "+1: Draw a card, then discard a card at random.\n−4: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player.\n−6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.",
+    "text": "+1: Draw a card, then discard a card at random. −4: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player. −6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.",
     "artist": "Peter Mohrbacher",
     "number": "161",
     "layout": "normal",
@@ -20133,8 +20133,8 @@
       "AVR",
       "DDK"
     ],
-    "originalText": "+1: Draw a card, then discard a card at random.\n-4: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player.\n-6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.",
-    "originalType": "Planeswalker — Tibalt",
+    "originalText": "+1: Draw a card, then discard a card at random. -4: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player. -6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.",
+    "originalType": "Planeswalker - Tibalt",
     "legalities": [
       {
         "format": "Commander",
@@ -20169,7 +20169,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Elemental",
+    "type": "Creature - Elemental",
     "types": [
       "Creature"
     ],
@@ -20271,7 +20271,7 @@
       "AVR"
     ],
     "originalText": "When Tyrant of Discord enters the battlefield, target opponent chooses a permanent he or she controls at random and sacrifices it. If a nonland permanent is sacrificed this way, repeat this process.",
-    "originalType": "Creature — Elemental",
+    "originalType": "Creature - Elemental",
     "legalities": [
       {
         "format": "Commander",
@@ -20314,7 +20314,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Target creature gets +3/+0 and gains haste until end of turn.",
-    "flavor": "\"To survive, we must embrace the savagery we knew in our race's infancy.\"\n—Edgar Markov",
+    "flavor": "\"To survive, we must embrace the savagery we knew in our race's infancy.\" -Edgar Markov",
     "artist": "Raymond Swanland",
     "number": "163",
     "layout": "normal",
@@ -20421,7 +20421,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Devil",
+    "type": "Creature - Devil",
     "types": [
       "Creature"
     ],
@@ -20512,7 +20512,7 @@
       "AVR"
     ],
     "originalText": "When Vexing Devil enters the battlefield, any opponent may have it deal 4 damage to him or her. If a player does, sacrifice Vexing Devil.",
-    "originalType": "Creature — Devil",
+    "originalType": "Creature - Devil",
     "legalities": [
       {
         "format": "Commander",
@@ -20662,7 +20662,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Creature — Human Warrior",
+    "type": "Creature - Human Warrior",
     "types": [
       "Creature"
     ],
@@ -20673,7 +20673,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Haste\nWhen Zealous Conscripts enters the battlefield, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.",
+    "text": "Haste When Zealous Conscripts enters the battlefield, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.",
     "artist": "Steve Prescott",
     "number": "166",
     "power": "3",
@@ -20753,8 +20753,8 @@
       "AVR",
       "MM3"
     ],
-    "originalText": "Haste\nWhen Zealous Conscripts enters the battlefield, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.",
-    "originalType": "Creature — Human Warrior",
+    "originalText": "Haste When Zealous Conscripts enters the battlefield, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.",
+    "originalType": "Creature - Human Warrior",
     "legalities": [
       {
         "format": "Commander",
@@ -20789,7 +20789,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -20799,7 +20799,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant land\nWhen Abundant Growth enters the battlefield, draw a card.\nEnchanted land has \"{T}: Add one mana of any color.\"",
+    "text": "Enchant land When Abundant Growth enters the battlefield, draw a card. Enchanted land has \"{T}: Add one mana of any color.\"",
     "artist": "Vincent Proce",
     "number": "167",
     "layout": "normal",
@@ -20877,8 +20877,8 @@
       "AVR",
       "EMA"
     ],
-    "originalText": "Enchant land\nWhen Abundant Growth enters the battlefield, draw a card.\nEnchanted land has \"{T}: Add one mana of any color to your mana pool.\"",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant land When Abundant Growth enters the battlefield, draw a card. Enchanted land has \"{T}: Add one mana of any color to your mana pool.\"",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -20920,7 +20920,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Distribute four +1/+1 counters among any number of target creatures.\nMiracle {G} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "text": "Distribute four +1/+1 counters among any number of target creatures. Miracle {G} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "artist": "Anthony Francisco",
     "number": "168",
     "layout": "normal",
@@ -20997,7 +20997,7 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Distribute four +1/+1 counters among any number of target creatures.\nMiracle {G} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "originalText": "Distribute four +1/+1 counters among any number of target creatures. Miracle {G} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -21033,7 +21033,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Human Scout",
+    "type": "Creature - Human Scout",
     "types": [
       "Creature"
     ],
@@ -21121,7 +21121,7 @@
       "E02"
     ],
     "originalText": "When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.",
-    "originalType": "Creature — Human Scout",
+    "originalType": "Creature - Human Scout",
     "legalities": [
       {
         "format": "Commander",
@@ -21281,7 +21281,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Human Warrior",
+    "type": "Creature - Human Warrior",
     "types": [
       "Creature"
     ],
@@ -21292,7 +21292,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Creatures with power less than Champion of Lambholt's power can't block creatures you control.\nWhenever another creature enters the battlefield under your control, put a +1/+1 counter on Champion of Lambholt.",
+    "text": "Creatures with power less than Champion of Lambholt's power can't block creatures you control. Whenever another creature enters the battlefield under your control, put a +1/+1 counter on Champion of Lambholt.",
     "artist": "Christopher Moeller",
     "number": "171",
     "power": "1",
@@ -21380,8 +21380,8 @@
       "AVR",
       "C16"
     ],
-    "originalText": "Creatures with power less than Champion of Lambholt's power can't block creatures you control.\nWhenever another creature enters the battlefield under your control, put a +1/+1 counter on Champion of Lambholt.",
-    "originalType": "Creature — Human Warrior",
+    "originalText": "Creatures with power less than Champion of Lambholt's power can't block creatures you control. Whenever another creature enters the battlefield under your control, put a +1/+1 counter on Champion of Lambholt.",
+    "originalType": "Creature - Human Warrior",
     "legalities": [
       {
         "format": "Commander",
@@ -21416,7 +21416,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Beast",
+    "type": "Creature - Beast",
     "types": [
       "Creature"
     ],
@@ -21426,7 +21426,7 @@
     "rarity": "Mythic Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Haste\nWhen Craterhoof Behemoth enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.",
+    "text": "Haste When Craterhoof Behemoth enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.",
     "flavor": "Its footsteps of today are the lakes of tomorrow.",
     "artist": "Chris Rahn",
     "number": "172",
@@ -21511,8 +21511,8 @@
       "AVR",
       "MM3"
     ],
-    "originalText": "Haste\nWhen Craterhoof Behemoth enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.",
-    "originalType": "Creature — Beast",
+    "originalText": "Haste When Craterhoof Behemoth enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.",
+    "originalType": "Creature - Beast",
     "legalities": [
       {
         "format": "Commander",
@@ -21675,7 +21675,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Human Cleric",
+    "type": "Creature - Human Cleric",
     "types": [
       "Creature"
     ],
@@ -21686,7 +21686,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Diregraf Escort is paired with another creature, both creatures have protection from Zombies.",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Diregraf Escort is paired with another creature, both creatures have protection from Zombies.",
     "artist": "Ryan Pancoast",
     "number": "174",
     "power": "1",
@@ -21765,8 +21765,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Diregraf Escort is paired with another creature, both creatures have protection from Zombies.",
-    "originalType": "Creature — Human Cleric",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Diregraf Escort is paired with another creature, both creatures have protection from Zombies.",
+    "originalType": "Creature - Human Cleric",
     "legalities": [
       {
         "format": "Commander",
@@ -21801,7 +21801,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Bear",
+    "type": "Creature - Bear",
     "types": [
       "Creature"
     ],
@@ -21811,7 +21811,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Druid's Familiar is paired with another creature, each of those creatures gets +2/+2.",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Druid's Familiar is paired with another creature, each of those creatures gets +2/+2.",
     "artist": "Adam Paquette",
     "number": "175",
     "power": "2",
@@ -21890,8 +21890,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Druid's Familiar is paired with another creature, each of those creatures gets +2/+2.",
-    "originalType": "Creature — Bear",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Druid's Familiar is paired with another creature, each of those creatures gets +2/+2.",
+    "originalType": "Creature - Bear",
     "legalities": [
       {
         "format": "Commander",
@@ -21933,7 +21933,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Whenever a creature you control attacks, put a charge counter on Druids' Repository.\nRemove a charge counter from Druids' Repository: Add one mana of any color.",
+    "text": "Whenever a creature you control attacks, put a charge counter on Druids' Repository. Remove a charge counter from Druids' Repository: Add one mana of any color.",
     "artist": "Daarken",
     "number": "176",
     "layout": "normal",
@@ -22014,7 +22014,7 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Whenever a creature you control attacks, put a charge counter on Druids' Repository.\nRemove a charge counter from Druids' Repository: Add one mana of any color to your mana pool.",
+    "originalText": "Whenever a creature you control attacks, put a charge counter on Druids' Repository. Remove a charge counter from Druids' Repository: Add one mana of any color to your mana pool.",
     "originalType": "Enchantment",
     "legalities": [
       {
@@ -22165,7 +22165,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Treefolk",
+    "type": "Creature - Treefolk",
     "types": [
       "Creature"
     ],
@@ -22176,7 +22176,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Flowering Lumberknot can't attack or block unless it's paired with a creature with soulbond.",
-    "flavor": "\"It used to eat us trappers. Now it follows us around like some kind of hound dog.\"\n—Alena, trapper of Kessig",
+    "flavor": "\"It used to eat us trappers. Now it follows us around like some kind of hound dog.\" -Alena, trapper of Kessig",
     "artist": "Nic Klein",
     "number": "178",
     "power": "5",
@@ -22260,7 +22260,7 @@
       "AVR"
     ],
     "originalText": "Flowering Lumberknot can't attack or block unless it's paired with a creature with soulbond.",
-    "originalType": "Creature — Treefolk",
+    "originalType": "Creature - Treefolk",
     "legalities": [
       {
         "format": "Commander",
@@ -22295,7 +22295,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Human Warrior",
+    "type": "Creature - Human Warrior",
     "types": [
       "Creature"
     ],
@@ -22306,7 +22306,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Geist Trappers is paired with another creature, both creatures have reach.",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Geist Trappers is paired with another creature, both creatures have reach.",
     "artist": "Anthony Palumbo",
     "number": "179",
     "power": "3",
@@ -22379,8 +22379,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Geist Trappers is paired with another creature, both creatures have reach.",
-    "originalType": "Creature — Human Warrior",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Geist Trappers is paired with another creature, both creatures have reach.",
+    "originalType": "Creature - Human Warrior",
     "legalities": [
       {
         "format": "Commander",
@@ -22415,7 +22415,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Spider",
+    "type": "Creature - Spider",
     "types": [
       "Creature"
     ],
@@ -22425,7 +22425,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Reach\nGloomwidow can block only creatures with flying.",
+    "text": "Reach Gloomwidow can block only creatures with flying.",
     "flavor": "The abandoned towns on the moors didn't stay empty for long.",
     "artist": "Svetlin Velinov",
     "number": "180",
@@ -22501,8 +22501,8 @@
       "AVR",
       "SOI"
     ],
-    "originalText": "Reach\nGloomwidow can block only creatures with flying.",
-    "originalType": "Creature — Spider",
+    "originalText": "Reach Gloomwidow can block only creatures with flying.",
+    "originalType": "Creature - Spider",
     "legalities": [
       {
         "format": "Commander",
@@ -22545,7 +22545,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Enchantment — Aura",
+    "type": "Enchantment - Aura",
     "types": [
       "Enchantment"
     ],
@@ -22555,8 +22555,8 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Enchant creature\nEnchanted creature loses flying.",
-    "flavor": "\"We've tracked Ludevic's monster across four provinces. When it lands, make sure it stays put.\"\n—Alena, trapper of Kessig,\nto Halana of Ulvenwald",
+    "text": "Enchant creature Enchanted creature loses flying.",
+    "flavor": "\"We've tracked Ludevic's monster across four provinces. When it lands, make sure it stays put.\" -Alena, trapper of Kessig, to Halana of Ulvenwald",
     "artist": "Greg Staples",
     "number": "181",
     "layout": "normal",
@@ -22633,8 +22633,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Enchant creature\nEnchanted creature loses flying.",
-    "originalType": "Enchantment — Aura",
+    "originalText": "Enchant creature Enchanted creature loses flying.",
+    "originalType": "Enchantment - Aura",
     "legalities": [
       {
         "format": "Commander",
@@ -22669,7 +22669,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Spirit Wolf",
+    "type": "Creature - Spirit Wolf",
     "types": [
       "Creature"
     ],
@@ -22680,7 +22680,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Creatures with power less than Howlgeist's power can't block it.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "text": "Creatures with power less than Howlgeist's power can't block it. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
     "artist": "David Rapoza",
     "number": "182",
     "power": "4",
@@ -22759,8 +22759,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Creatures with power less than Howlgeist's power can't block it.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
-    "originalType": "Creature — Spirit Wolf",
+    "originalText": "Creatures with power less than Howlgeist's power can't block it. Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "originalType": "Creature - Spirit Wolf",
     "legalities": [
       {
         "format": "Commander",
@@ -22803,7 +22803,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Target creature gets +2/+2 until end of turn. If it's paired with a creature, that creature also gets +2/+2 until end of turn.",
-    "flavor": "\"By my power, werewolves shall become the wolfir, our allies in combat against darkness.\"\n—Avacyn's Cursemute Decree",
+    "flavor": "\"By my power, werewolves shall become the wolfir, our allies in combat against darkness.\" -Avacyn's Cursemute Decree",
     "artist": "Raymond Swanland",
     "number": "183",
     "layout": "normal",
@@ -23156,7 +23156,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Boar",
+    "type": "Creature - Boar",
     "types": [
       "Creature"
     ],
@@ -23166,7 +23166,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "flavor": "\"I killed one and found bricks and bones in its belly. It had eaten a whole cottage, thatch and all.\"\n—Paulin, Somberwald trapper",
+    "flavor": "\"I killed one and found bricks and bones in its belly. It had eaten a whole cottage, thatch and all.\" -Paulin, Somberwald trapper",
     "artist": "Christopher Moeller",
     "number": "186",
     "power": "4",
@@ -23239,7 +23239,7 @@
     "printings": [
       "AVR"
     ],
-    "originalType": "Creature — Boar",
+    "originalType": "Creature - Boar",
     "legalities": [
       {
         "format": "Commander",
@@ -23274,7 +23274,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Human Druid",
+    "type": "Creature - Human Druid",
     "types": [
       "Creature"
     ],
@@ -23285,7 +23285,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Nightshade Peddler is paired with another creature, both creatures have deathtouch.",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Nightshade Peddler is paired with another creature, both creatures have deathtouch.",
     "artist": "John Stanko",
     "number": "187",
     "power": "1",
@@ -23358,8 +23358,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Nightshade Peddler is paired with another creature, both creatures have deathtouch.",
-    "originalType": "Creature — Human Druid",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Nightshade Peddler is paired with another creature, both creatures have deathtouch.",
+    "originalType": "Creature - Human Druid",
     "legalities": [
       {
         "format": "Commander",
@@ -23394,7 +23394,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Wurm",
+    "type": "Creature - Wurm",
     "types": [
       "Creature"
     ],
@@ -23404,7 +23404,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Pathbreaker Wurm is paired with another creature, both creatures have trample.",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Pathbreaker Wurm is paired with another creature, both creatures have trample.",
     "artist": "Nils Hamm",
     "number": "188",
     "power": "6",
@@ -23477,8 +23477,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Pathbreaker Wurm is paired with another creature, both creatures have trample.",
-    "originalType": "Creature — Wurm",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Pathbreaker Wurm is paired with another creature, both creatures have trample.",
+    "originalType": "Creature - Wurm",
     "legalities": [
       {
         "format": "Commander",
@@ -23653,7 +23653,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Choose one or more —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Destroy target land.",
+    "text": "Choose one or more - • Destroy target artifact. • Destroy target enchantment. • Destroy target land.",
     "flavor": "When the forests became havens for evil, the archmages devised new ways to cleanse the wilds.",
     "artist": "Sam Burley",
     "number": "190",
@@ -23733,7 +23733,7 @@
       "C13",
       "C17"
     ],
-    "originalText": "Choose one or more — Destroy target artifact; destroy target enchantment; and/or destroy target land.",
+    "originalText": "Choose one or more - Destroy target artifact; destroy target enchantment; and/or destroy target land.",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -23776,7 +23776,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Until end of turn, target creature gets +6/+6 and gains trample, and all creatures able to block it this turn do so.\nMiracle {G} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "text": "Until end of turn, target creature gets +6/+6 and gains trample, and all creatures able to block it this turn do so. Miracle {G} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "artist": "Christopher Moeller",
     "number": "191",
     "layout": "normal",
@@ -23847,7 +23847,7 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Until end of turn, target creature gets +6/+6 and gains trample, and all creatures able to block it this turn do so.\nMiracle {G} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+    "originalText": "Until end of turn, target creature gets +6/+6 and gains trample, and all creatures able to block it this turn do so. Miracle {G} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
     "originalType": "Sorcery",
     "legalities": [
       {
@@ -24118,7 +24118,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Human Druid",
+    "type": "Creature - Human Druid",
     "types": [
       "Creature"
     ],
@@ -24218,7 +24218,7 @@
       "AVR"
     ],
     "originalText": "{T}: Add three mana of any one color to your mana pool. Spend this mana only to cast creature spells.",
-    "originalType": "Creature — Human Druid",
+    "originalType": "Creature - Human Druid",
     "legalities": [
       {
         "format": "Commander",
@@ -24253,7 +24253,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Elemental",
+    "type": "Creature - Elemental",
     "types": [
       "Creature"
     ],
@@ -24263,7 +24263,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Trample\nWhenever another nontoken creature enters the battlefield under your control, you may draw a card.",
+    "text": "Trample Whenever another nontoken creature enters the battlefield under your control, you may draw a card.",
     "flavor": "It's there when a seed sprouts, when gourds ripen on the vines, and when the reapers cut the grains under the Harvest Moon.",
     "artist": "Eytan Zana",
     "number": "195",
@@ -24347,8 +24347,8 @@
       "CMA",
       "E02"
     ],
-    "originalText": "Trample\nWhenever another nontoken creature enters the battlefield under your control, you may draw a card.",
-    "originalType": "Creature — Elemental",
+    "originalText": "Trample Whenever another nontoken creature enters the battlefield under your control, you may draw a card.",
+    "originalType": "Creature - Elemental",
     "legalities": [
       {
         "format": "Commander",
@@ -24505,7 +24505,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Human Scout",
+    "type": "Creature - Human Scout",
     "types": [
       "Creature"
     ],
@@ -24598,7 +24598,7 @@
       "IMA"
     ],
     "originalText": "When Timberland Guide enters the battlefield, put a +1/+1 counter on target creature.",
-    "originalType": "Creature — Human Scout",
+    "originalType": "Creature - Human Scout",
     "legalities": [
       {
         "format": "Commander",
@@ -24641,7 +24641,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "At the beginning of your upkeep, draw a card if you control the creature with the greatest power or tied for the greatest power.",
-    "flavor": "\"Rid me of this curse, witch, or die with me.\"\n—Garruk Wildspeaker",
+    "flavor": "\"Rid me of this curse, witch, or die with me.\" -Garruk Wildspeaker",
     "artist": "James Ryman",
     "number": "198",
     "layout": "normal",
@@ -24754,7 +24754,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Human Shaman",
+    "type": "Creature - Human Shaman",
     "types": [
       "Creature"
     ],
@@ -24765,7 +24765,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Trusted Forcemage is paired with another creature, each of those creatures gets +1/+1.",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Trusted Forcemage is paired with another creature, each of those creatures gets +1/+1.",
     "artist": "Cynthia Sheppard",
     "number": "199",
     "power": "2",
@@ -24838,8 +24838,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Trusted Forcemage is paired with another creature, each of those creatures gets +1/+1.",
-    "originalType": "Creature — Human Shaman",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Trusted Forcemage is paired with another creature, each of those creatures gets +1/+1.",
+    "originalType": "Creature - Human Shaman",
     "legalities": [
       {
         "format": "Commander",
@@ -24874,7 +24874,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Human Shaman",
+    "type": "Creature - Human Shaman",
     "types": [
       "Creature"
     ],
@@ -24971,7 +24971,7 @@
       "MM3"
     ],
     "originalText": "{1}{G}, {T}: Target creature you control fights another target creature. (Each deals damage equal to its power to the other.)",
-    "originalType": "Creature — Human Shaman",
+    "originalType": "Creature - Human Shaman",
     "legalities": [
       {
         "format": "Commander",
@@ -25006,7 +25006,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Elemental Horror",
+    "type": "Creature - Elemental Horror",
     "types": [
       "Creature"
     ],
@@ -25017,7 +25017,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "flavor": "\"Where'd the werewolves go? Maybe that got hungry.\"\n—Halana of Ulvenwald",
+    "flavor": "\"Where'd the werewolves go? Maybe that got hungry.\" -Halana of Ulvenwald",
     "artist": "Lucas Graciano",
     "number": "201",
     "power": "7",
@@ -25090,7 +25090,7 @@
     "printings": [
       "AVR"
     ],
-    "originalType": "Creature — Elemental Horror",
+    "originalType": "Creature - Elemental Horror",
     "legalities": [
       {
         "format": "Commander",
@@ -25125,7 +25125,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Wolf",
+    "type": "Creature - Wolf",
     "types": [
       "Creature"
     ],
@@ -25216,7 +25216,7 @@
       "AVR"
     ],
     "originalText": "Creatures with power less than Wandering Wolf's power can't block it.",
-    "originalType": "Creature — Wolf",
+    "originalType": "Creature - Wolf",
     "legalities": [
       {
         "format": "Commander",
@@ -25259,7 +25259,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Whenever a creature you control becomes the target of an instant or sorcery spell, that creature gets +3/+3 until end of turn.",
-    "flavor": "\"When civilization reaches out its greedy hand, take it off at the wrist.\"\n—Garruk Wildspeaker",
+    "flavor": "\"When civilization reaches out its greedy hand, take it off at the wrist.\" -Garruk Wildspeaker",
     "artist": "Slawomir Maniak",
     "number": "203",
     "layout": "normal",
@@ -25376,7 +25376,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Spirit",
+    "type": "Creature - Spirit",
     "types": [
       "Creature"
     ],
@@ -25461,7 +25461,7 @@
       "AVR"
     ],
     "originalText": "Wildwood Geist gets +2/+2 as long as it's your turn.",
-    "originalType": "Creature — Spirit",
+    "originalType": "Creature - Spirit",
     "legalities": [
       {
         "format": "Commander",
@@ -25496,7 +25496,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Wolf Warrior",
+    "type": "Creature - Wolf Warrior",
     "types": [
       "Creature"
     ],
@@ -25507,7 +25507,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flash (You may cast this spell any time you could cast an instant.)\n{1}{G}: Regenerate Wolfir Avenger.",
+    "text": "Flash (You may cast this spell any time you could cast an instant.) {1}{G}: Regenerate Wolfir Avenger.",
     "flavor": "Released from a dark curse and bound to a higher calling.",
     "artist": "Daniel Ljunggren",
     "number": "205",
@@ -25581,8 +25581,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Flash (You may cast this spell any time you could cast an instant.)\n{1}{G}: Regenerate Wolfir Avenger.",
-    "originalType": "Creature — Wolf Warrior",
+    "originalText": "Flash (You may cast this spell any time you could cast an instant.) {1}{G}: Regenerate Wolfir Avenger.",
+    "originalType": "Creature - Wolf Warrior",
     "legalities": [
       {
         "format": "Commander",
@@ -25617,7 +25617,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Wolf Warrior",
+    "type": "Creature - Wolf Warrior",
     "types": [
       "Creature"
     ],
@@ -25628,7 +25628,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Wolfir Silverheart is paired with another creature, each of those creatures gets +4/+4.",
+    "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Wolfir Silverheart is paired with another creature, each of those creatures gets +4/+4.",
     "artist": "Raymond Swanland",
     "number": "206",
     "power": "4",
@@ -25701,8 +25701,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Wolfir Silverheart is paired with another creature, each of those creatures gets +4/+4.",
-    "originalType": "Creature — Wolf Warrior",
+    "originalText": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.) As long as Wolfir Silverheart is paired with another creature, each of those creatures gets +4/+4.",
+    "originalType": "Creature - Wolf Warrior",
     "legalities": [
       {
         "format": "Commander",
@@ -25737,7 +25737,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Creature — Spirit Treefolk",
+    "type": "Creature - Spirit Treefolk",
     "types": [
       "Creature"
     ],
@@ -25749,7 +25749,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "{2}{G}{G}: Yew Spirit gets +X/+X until end of turn, where X is its power.",
-    "flavor": "\"I wonder what dwelled in the primordial forests before humans existed.\"\n—Elder Rimheit",
+    "flavor": "\"I wonder what dwelled in the primordial forests before humans existed.\" -Elder Rimheit",
     "artist": "Dan Scott",
     "number": "207",
     "power": "3",
@@ -25833,7 +25833,7 @@
       "AVR"
     ],
     "originalText": "{2}{G}{G}: Yew Spirit gets +X/+X until end of turn, where X is its power.",
-    "originalType": "Creature — Spirit Treefolk",
+    "originalType": "Creature - Spirit Treefolk",
     "legalities": [
       {
         "format": "Commander",
@@ -25870,7 +25870,7 @@
       "W",
       "U"
     ],
-    "type": "Legendary Creature — Angel",
+    "type": "Legendary Creature - Angel",
     "supertypes": [
       "Legendary"
     ],
@@ -25883,7 +25883,7 @@
     "rarity": "Mythic Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying, vigilance\nWhenever Bruna, Light of Alabaster attacks or blocks, you may attach to it any number of Auras on the battlefield and you may put onto the battlefield attached to it any number of Aura cards that could enchant it from your graveyard and/or hand.",
+    "text": "Flying, vigilance Whenever Bruna, Light of Alabaster attacks or blocks, you may attach to it any number of Auras on the battlefield and you may put onto the battlefield attached to it any number of Aura cards that could enchant it from your graveyard and/or hand.",
     "artist": "Winona Nelson",
     "number": "208",
     "power": "5",
@@ -25966,8 +25966,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Flying, vigilance\nWhenever Bruna, Light of Alabaster attacks or blocks, you may attach to it any number of Auras on the battlefield and you may put onto the battlefield attached to it any number of Aura cards that could enchant it from your graveyard and/or hand.",
-    "originalType": "Legendary Creature — Angel",
+    "originalText": "Flying, vigilance Whenever Bruna, Light of Alabaster attacks or blocks, you may attach to it any number of Auras on the battlefield and you may put onto the battlefield attached to it any number of Aura cards that could enchant it from your graveyard and/or hand.",
+    "originalType": "Legendary Creature - Angel",
     "legalities": [
       {
         "format": "Commander",
@@ -26004,7 +26004,7 @@
       "W",
       "R"
     ],
-    "type": "Legendary Creature — Angel",
+    "type": "Legendary Creature - Angel",
     "supertypes": [
       "Legendary"
     ],
@@ -26017,7 +26017,7 @@
     "rarity": "Mythic Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying, first strike\nIf a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead.\nIf a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.",
+    "text": "Flying, first strike If a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead. If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.",
     "artist": "Jason Chan",
     "number": "209",
     "power": "5",
@@ -26106,8 +26106,8 @@
       "C15",
       "A25"
     ],
-    "originalText": "Flying, first strike\nIf a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead.\nIf a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.",
-    "originalType": "Legendary Creature — Angel",
+    "originalText": "Flying, first strike If a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead. If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.",
+    "originalType": "Legendary Creature - Angel",
     "legalities": [
       {
         "format": "Commander",
@@ -26144,7 +26144,7 @@
       "W",
       "G"
     ],
-    "type": "Legendary Creature — Angel",
+    "type": "Legendary Creature - Angel",
     "supertypes": [
       "Legendary"
     ],
@@ -26157,7 +26157,7 @@
     "rarity": "Mythic Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Flying, hexproof\nSpells and abilities your opponents control can't cause you to sacrifice permanents.",
+    "text": "Flying, hexproof Spells and abilities your opponents control can't cause you to sacrifice permanents.",
     "flavor": "Great devotion yields great reward.",
     "artist": "Chris Rahn",
     "number": "210",
@@ -26257,8 +26257,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Flying, hexproof\nSpells and abilities your opponents control can't cause you to sacrifice permanents.",
-    "originalType": "Legendary Creature — Angel",
+    "originalText": "Flying, hexproof Spells and abilities your opponents control can't cause you to sacrifice permanents.",
+    "originalType": "Legendary Creature - Angel",
     "legalities": [
       {
         "format": "Commander",
@@ -26295,7 +26295,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Whenever a creature enters the battlefield under your control, you may have Angel's Tomb become a 3/3 white Angel artifact creature with flying until end of turn.",
-    "flavor": "\"Faith can quicken the stones themselves with life.\"\n—Writings of Mikaeus",
+    "flavor": "\"Faith can quicken the stones themselves with life.\" -Writings of Mikaeus",
     "artist": "Dan Scott",
     "number": "211",
     "layout": "normal",
@@ -26407,7 +26407,7 @@
     "name": "Angelic Armaments",
     "manaCost": "{3}",
     "cmc": 3,
-    "type": "Artifact — Equipment",
+    "type": "Artifact - Equipment",
     "types": [
       "Artifact"
     ],
@@ -26417,7 +26417,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Equipped creature gets +2/+2, has flying, and is a white Angel in addition to its other colors and types.\nEquip {4}",
+    "text": "Equipped creature gets +2/+2, has flying, and is a white Angel in addition to its other colors and types. Equip {4}",
     "flavor": "Forged in dark hours from the flame that would not die.",
     "artist": "Daniel Ljunggren",
     "number": "212",
@@ -26489,8 +26489,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Equipped creature gets +2/+2, has flying, and is a white Angel in addition to its other colors and types.\nEquip {4}",
-    "originalType": "Artifact — Equipment",
+    "originalText": "Equipped creature gets +2/+2, has flying, and is a white Angel in addition to its other colors and types. Equip {4}",
+    "originalType": "Artifact - Equipment",
     "legalities": [
       {
         "format": "Commander",
@@ -26519,7 +26519,7 @@
     "name": "Bladed Bracers",
     "manaCost": "{1}",
     "cmc": 1,
-    "type": "Artifact — Equipment",
+    "type": "Artifact - Equipment",
     "types": [
       "Artifact"
     ],
@@ -26529,7 +26529,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Equipped creature gets +1/+1.\nAs long as equipped creature is a Human or an Angel, it has vigilance.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "text": "Equipped creature gets +1/+1. As long as equipped creature is a Human or an Angel, it has vigilance. Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
     "flavor": "Forged from the rubble of the Helvault.",
     "artist": "Ryan Yee",
     "number": "213",
@@ -26601,8 +26601,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Equipped creature gets +1/+1.\nAs long as equipped creature is a Human or an Angel, it has vigilance.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
-    "originalType": "Artifact — Equipment",
+    "originalText": "Equipped creature gets +1/+1. As long as equipped creature is a Human or an Angel, it has vigilance. Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "originalType": "Artifact - Equipment",
     "legalities": [
       {
         "format": "Commander",
@@ -26639,7 +26639,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "At the beginning of your end step, you may exile target creature you control, then return that card to the battlefield under your control.",
-    "flavor": "\"Tomorrow wears yesterday's face.\"\n—Kordel the Cryptic",
+    "flavor": "\"Tomorrow wears yesterday's face.\" -Kordel the Cryptic",
     "artist": "Jason Felix",
     "number": "214",
     "layout": "normal",
@@ -26860,7 +26860,7 @@
     "name": "Haunted Guardian",
     "manaCost": "{2}",
     "cmc": 2,
-    "type": "Artifact Creature — Construct",
+    "type": "Artifact Creature - Construct",
     "types": [
       "Artifact",
       "Creature"
@@ -26872,7 +26872,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "Defender, first strike",
-    "flavor": "\"Drain the victim's blood, sell the corpse, and use the soul on guard duty. No muss, no fuss, no problems.\"\n—Olivia Voldaren",
+    "flavor": "\"Drain the victim's blood, sell the corpse, and use the soul on guard duty. No muss, no fuss, no problems.\" -Olivia Voldaren",
     "artist": "Daniel Ljunggren",
     "number": "216",
     "power": "2",
@@ -26946,7 +26946,7 @@
       "AVR"
     ],
     "originalText": "Defender, first strike",
-    "originalType": "Artifact Creature — Construct",
+    "originalType": "Artifact Creature - Construct",
     "legalities": [
       {
         "format": "Commander",
@@ -26975,7 +26975,7 @@
     "name": "Moonsilver Spear",
     "manaCost": "{4}",
     "cmc": 4,
-    "type": "Artifact — Equipment",
+    "type": "Artifact - Equipment",
     "types": [
       "Artifact"
     ],
@@ -26985,7 +26985,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Equipped creature has first strike.\nWhenever equipped creature attacks, create a 4/4 white Angel creature token with flying.\nEquip {4}",
+    "text": "Equipped creature has first strike. Whenever equipped creature attacks, create a 4/4 white Angel creature token with flying. Equip {4}",
     "artist": "James Paick",
     "number": "217",
     "layout": "normal",
@@ -27058,8 +27058,8 @@
       "AVR",
       "C14"
     ],
-    "originalText": "Equipped creature has first strike.\nWhenever equipped creature attacks, put a 4/4 white Angel creature token with flying onto the battlefield.\nEquip {4}",
-    "originalType": "Artifact — Equipment",
+    "originalText": "Equipped creature has first strike. Whenever equipped creature attacks, put a 4/4 white Angel creature token with flying onto the battlefield. Equip {4}",
+    "originalType": "Artifact - Equipment",
     "legalities": [
       {
         "format": "Commander",
@@ -27088,7 +27088,7 @@
     "name": "Narstad Scrapper",
     "manaCost": "{5}",
     "cmc": 5,
-    "type": "Artifact Creature — Construct",
+    "type": "Artifact Creature - Construct",
     "types": [
       "Artifact",
       "Creature"
@@ -27100,7 +27100,7 @@
     "set": "AVR",
     "setName": "Avacyn Restored",
     "text": "{2}: Narstad Scrapper gets +1/+0 until end of turn.",
-    "flavor": "\"Finally, the principles of corpse animation applied to bloodless materials!\"\n—Ludevic, necro-alchemist",
+    "flavor": "\"Finally, the principles of corpse animation applied to bloodless materials!\" -Ludevic, necro-alchemist",
     "artist": "Steven Belledin",
     "number": "218",
     "power": "3",
@@ -27174,7 +27174,7 @@
       "AVR"
     ],
     "originalText": "{2}: Narstad Scrapper gets +1/+0 until end of turn.",
-    "originalType": "Artifact Creature — Construct",
+    "originalType": "Artifact Creature - Construct",
     "legalities": [
       {
         "format": "Commander",
@@ -27210,8 +27210,8 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "{T}: Put a charge counter on Otherworld Atlas.\n{T}: Each player draws a card for each charge counter on Otherworld Atlas.",
-    "flavor": "\"Any fool can open it. But it takes a genius to decipher the blank pages.\"\n—Kordel the Cryptic",
+    "text": "{T}: Put a charge counter on Otherworld Atlas. {T}: Each player draws a card for each charge counter on Otherworld Atlas.",
+    "flavor": "\"Any fool can open it. But it takes a genius to decipher the blank pages.\" -Kordel the Cryptic",
     "artist": "Sam Wolfe Connelly",
     "number": "219",
     "layout": "normal",
@@ -27282,7 +27282,7 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "{T}: Put a charge counter on Otherworld Atlas.\n{T}: Each player draws a card for each charge counter on Otherworld Atlas.",
+    "originalText": "{T}: Put a charge counter on Otherworld Atlas. {T}: Each player draws a card for each charge counter on Otherworld Atlas.",
     "originalType": "Artifact",
     "legalities": [
       {
@@ -27542,7 +27542,7 @@
     "name": "Tormentor's Trident",
     "manaCost": "{2}",
     "cmc": 2,
-    "type": "Artifact — Equipment",
+    "type": "Artifact - Equipment",
     "types": [
       "Artifact"
     ],
@@ -27552,7 +27552,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Equipped creature gets +3/+0 and attacks each combat if able.\nEquip {3}",
+    "text": "Equipped creature gets +3/+0 and attacks each combat if able. Equip {3}",
     "flavor": "To a demon there is no such thing as restraint.",
     "artist": "Anthony Palumbo",
     "number": "222",
@@ -27634,8 +27634,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Equipped creature gets +3/+0 and attacks each turn if able.\nEquip {3}",
-    "originalType": "Artifact — Equipment",
+    "originalText": "Equipped creature gets +3/+0 and attacks each turn if able. Equip {3}",
+    "originalType": "Artifact - Equipment",
     "legalities": [
       {
         "format": "Commander",
@@ -27664,7 +27664,7 @@
     "name": "Vanguard's Shield",
     "manaCost": "{2}",
     "cmc": 2,
-    "type": "Artifact — Equipment",
+    "type": "Artifact - Equipment",
     "types": [
       "Artifact"
     ],
@@ -27674,7 +27674,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "Equipped creature gets +0/+3 and can block an additional creature each combat.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+    "text": "Equipped creature gets +0/+3 and can block an additional creature each combat. Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
     "flavor": "Wars are not fought on a single front.",
     "artist": "Ryan Pancoast",
     "number": "223",
@@ -27752,8 +27752,8 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "Equipped creature gets +0/+3 and can block an additional creature.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
-    "originalType": "Artifact — Equipment",
+    "originalText": "Equipped creature gets +0/+3 and can block an additional creature. Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+    "originalType": "Artifact - Equipment",
     "legalities": [
       {
         "format": "Commander",
@@ -27789,7 +27789,7 @@
     "rarity": "Uncommon",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "When Vessel of Endless Rest enters the battlefield, put target card from a graveyard on the bottom of its owner's library.\n{T}: Add one mana of any color.",
+    "text": "When Vessel of Endless Rest enters the battlefield, put target card from a graveyard on the bottom of its owner's library. {T}: Add one mana of any color.",
     "artist": "John Avon",
     "number": "224",
     "layout": "normal",
@@ -27860,7 +27860,7 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "When Vessel of Endless Rest enters the battlefield, put target card from a graveyard on the bottom of its owner's library.\n{T}: Add one mana of any color to your mana pool.",
+    "originalText": "When Vessel of Endless Rest enters the battlefield, put target card from a graveyard on the bottom of its owner's library. {T}: Add one mana of any color to your mana pool.",
     "originalType": "Artifact",
     "legalities": [
       {
@@ -27900,7 +27900,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "{T}: Add {C}.\n{G}{U}, {T}: You may cast spells this turn as though they had flash.",
+    "text": "{T}: Add {C}. {G}{U}, {T}: You may cast spells this turn as though they had flash.",
     "flavor": "Persecuted alchemists fled deep into Kessig's wilds, seeking solitude to continue their ghoulish craft.",
     "artist": "Dan Scott",
     "number": "225",
@@ -27982,7 +27982,7 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "{T}: Add {1} to your mana pool.\n{G}{U}, {T}: You may cast nonland cards this turn as though they had flash.",
+    "originalText": "{T}: Add {1} to your mana pool. {G}{U}, {T}: You may cast nonland cards this turn as though they had flash.",
     "originalType": "Land",
     "legalities": [
       {
@@ -28018,7 +28018,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "As Cavern of Souls enters the battlefield, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.",
+    "text": "As Cavern of Souls enters the battlefield, choose a creature type. {T}: Add {C}. {T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.",
     "artist": "Cliff Childs",
     "number": "226",
     "layout": "normal",
@@ -28100,7 +28100,7 @@
       "AVR",
       "MM3"
     ],
-    "originalText": "As Cavern of Souls enters the battlefield, choose a creature type.\n{T}: Add {1} to your mana pool.\n{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.",
+    "originalText": "As Cavern of Souls enters the battlefield, choose a creature type. {T}: Add {1} to your mana pool. {T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.",
     "originalType": "Land",
     "legalities": [
       {
@@ -28140,7 +28140,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "{T}: Add {C}.\n{1}{U}{R}, {T}: Draw a card, then discard a card.",
+    "text": "{T}: Add {C}. {1}{U}{R}, {T}: Draw a card, then discard a card.",
     "flavor": "A lonely sentinel facing gales, hurricanes, and tides of homicidal spirits.",
     "artist": "Scott Chou",
     "number": "227",
@@ -28212,7 +28212,7 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "{T}: Add {1} to your mana pool.\n{1}{U}{R}, {T}: Draw a card, then discard a card.",
+    "originalText": "{T}: Add {1} to your mana pool. {1}{U}{R}, {T}: Draw a card, then discard a card.",
     "originalType": "Land",
     "legalities": [
       {
@@ -28248,7 +28248,7 @@
     "rarity": "Common",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "When Seraph Sanctuary enters the battlefield, you gain 1 life.\nWhenever an Angel enters the battlefield under your control, you gain 1 life.\n{T}: Add {C}.",
+    "text": "When Seraph Sanctuary enters the battlefield, you gain 1 life. Whenever an Angel enters the battlefield under your control, you gain 1 life. {T}: Add {C}.",
     "artist": "David Palumbo",
     "number": "228",
     "layout": "normal",
@@ -28320,7 +28320,7 @@
       "AVR",
       "DDQ"
     ],
-    "originalText": "When Seraph Sanctuary enters the battlefield, you gain 1 life.\nWhenever an Angel enters the battlefield under your control, you gain 1 life.\n{T}: Add {1} to your mana pool.",
+    "originalText": "When Seraph Sanctuary enters the battlefield, you gain 1 life. Whenever an Angel enters the battlefield under your control, you gain 1 life. {T}: Add {1} to your mana pool.",
     "originalType": "Land",
     "legalities": [
       {
@@ -28360,7 +28360,7 @@
     "rarity": "Rare",
     "set": "AVR",
     "setName": "Avacyn Restored",
-    "text": "{T}: Add {C}.\n{R}{W}, {T}: Target creature gets +2/+0 and gains vigilance and haste until end of turn.",
+    "text": "{T}: Add {C}. {R}{W}, {T}: Target creature gets +2/+0 and gains vigilance and haste until end of turn.",
     "flavor": "Its courtyards are lit during every hour of the day so that night may never fall within its walls.",
     "artist": "Karl Kopinski",
     "number": "229",
@@ -28432,7 +28432,7 @@
     "printings": [
       "AVR"
     ],
-    "originalText": "{T}: Add {1} to your mana pool.\n{R}{W}, {T}: Target creature gets +2/+0 and gains vigilance and haste until end of turn.",
+    "originalText": "{T}: Add {1} to your mana pool. {R}{W}, {T}: Target creature gets +2/+0 and gains vigilance and haste until end of turn.",
     "originalType": "Land",
     "legalities": [
       {
@@ -28464,7 +28464,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Basic Land — Plains",
+    "type": "Basic Land - Plains",
     "supertypes": [
       "Basic"
     ],
@@ -28746,7 +28746,7 @@
       "DOM"
     ],
     "originalText": "W",
-    "originalType": "Basic Land — Plains",
+    "originalType": "Basic Land - Plains",
     "legalities": [
       {
         "format": "Amonkhet Block",
@@ -28881,7 +28881,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Basic Land — Plains",
+    "type": "Basic Land - Plains",
     "supertypes": [
       "Basic"
     ],
@@ -29163,7 +29163,7 @@
       "DOM"
     ],
     "originalText": "W",
-    "originalType": "Basic Land — Plains",
+    "originalType": "Basic Land - Plains",
     "legalities": [
       {
         "format": "Amonkhet Block",
@@ -29298,7 +29298,7 @@
     "colorIdentity": [
       "W"
     ],
-    "type": "Basic Land — Plains",
+    "type": "Basic Land - Plains",
     "supertypes": [
       "Basic"
     ],
@@ -29580,7 +29580,7 @@
       "DOM"
     ],
     "originalText": "W",
-    "originalType": "Basic Land — Plains",
+    "originalType": "Basic Land - Plains",
     "legalities": [
       {
         "format": "Amonkhet Block",
@@ -29715,7 +29715,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Basic Land — Island",
+    "type": "Basic Land - Island",
     "supertypes": [
       "Basic"
     ],
@@ -29997,7 +29997,7 @@
       "DOM"
     ],
     "originalText": "U",
-    "originalType": "Basic Land — Island",
+    "originalType": "Basic Land - Island",
     "legalities": [
       {
         "format": "Amonkhet Block",
@@ -30132,7 +30132,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Basic Land — Island",
+    "type": "Basic Land - Island",
     "supertypes": [
       "Basic"
     ],
@@ -30414,7 +30414,7 @@
       "DOM"
     ],
     "originalText": "U",
-    "originalType": "Basic Land — Island",
+    "originalType": "Basic Land - Island",
     "legalities": [
       {
         "format": "Amonkhet Block",
@@ -30549,7 +30549,7 @@
     "colorIdentity": [
       "U"
     ],
-    "type": "Basic Land — Island",
+    "type": "Basic Land - Island",
     "supertypes": [
       "Basic"
     ],
@@ -30831,7 +30831,7 @@
       "DOM"
     ],
     "originalText": "U",
-    "originalType": "Basic Land — Island",
+    "originalType": "Basic Land - Island",
     "legalities": [
       {
         "format": "Amonkhet Block",
@@ -30966,7 +30966,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Basic Land — Swamp",
+    "type": "Basic Land - Swamp",
     "supertypes": [
       "Basic"
     ],
@@ -31251,7 +31251,7 @@
       "DOM"
     ],
     "originalText": "B",
-    "originalType": "Basic Land — Swamp",
+    "originalType": "Basic Land - Swamp",
     "legalities": [
       {
         "format": "Amonkhet Block",
@@ -31386,7 +31386,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Basic Land — Swamp",
+    "type": "Basic Land - Swamp",
     "supertypes": [
       "Basic"
     ],
@@ -31671,7 +31671,7 @@
       "DOM"
     ],
     "originalText": "B",
-    "originalType": "Basic Land — Swamp",
+    "originalType": "Basic Land - Swamp",
     "legalities": [
       {
         "format": "Amonkhet Block",
@@ -31806,7 +31806,7 @@
     "colorIdentity": [
       "B"
     ],
-    "type": "Basic Land — Swamp",
+    "type": "Basic Land - Swamp",
     "supertypes": [
       "Basic"
     ],
@@ -32091,7 +32091,7 @@
       "DOM"
     ],
     "originalText": "B",
-    "originalType": "Basic Land — Swamp",
+    "originalType": "Basic Land - Swamp",
     "legalities": [
       {
         "format": "Amonkhet Block",
@@ -32226,7 +32226,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Basic Land — Mountain",
+    "type": "Basic Land - Mountain",
     "supertypes": [
       "Basic"
     ],
@@ -32514,7 +32514,7 @@
       "DOM"
     ],
     "originalText": "B",
-    "originalType": "Basic Land — Mountain",
+    "originalType": "Basic Land - Mountain",
     "legalities": [
       {
         "format": "Amonkhet Block",
@@ -32649,7 +32649,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Basic Land — Mountain",
+    "type": "Basic Land - Mountain",
     "supertypes": [
       "Basic"
     ],
@@ -32937,7 +32937,7 @@
       "DOM"
     ],
     "originalText": "R",
-    "originalType": "Basic Land — Mountain",
+    "originalType": "Basic Land - Mountain",
     "legalities": [
       {
         "format": "Amonkhet Block",
@@ -33072,7 +33072,7 @@
     "colorIdentity": [
       "R"
     ],
-    "type": "Basic Land — Mountain",
+    "type": "Basic Land - Mountain",
     "supertypes": [
       "Basic"
     ],
@@ -33360,7 +33360,7 @@
       "DOM"
     ],
     "originalText": "R",
-    "originalType": "Basic Land — Mountain",
+    "originalType": "Basic Land - Mountain",
     "legalities": [
       {
         "format": "Amonkhet Block",
@@ -33495,7 +33495,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Basic Land — Forest",
+    "type": "Basic Land - Forest",
     "supertypes": [
       "Basic"
     ],
@@ -33780,7 +33780,7 @@
       "DOM"
     ],
     "originalText": "G",
-    "originalType": "Basic Land — Forest",
+    "originalType": "Basic Land - Forest",
     "legalities": [
       {
         "format": "Amonkhet Block",
@@ -33915,7 +33915,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Basic Land — Forest",
+    "type": "Basic Land - Forest",
     "supertypes": [
       "Basic"
     ],
@@ -34200,7 +34200,7 @@
       "DOM"
     ],
     "originalText": "G",
-    "originalType": "Basic Land — Forest",
+    "originalType": "Basic Land - Forest",
     "legalities": [
       {
         "format": "Amonkhet Block",
@@ -34335,7 +34335,7 @@
     "colorIdentity": [
       "G"
     ],
-    "type": "Basic Land — Forest",
+    "type": "Basic Land - Forest",
     "supertypes": [
       "Basic"
     ],
@@ -34620,7 +34620,7 @@
       "DOM"
     ],
     "originalText": "G",
-    "originalType": "Basic Land — Forest",
+    "originalType": "Basic Land - Forest",
     "legalities": [
       {
         "format": "Amonkhet Block",
