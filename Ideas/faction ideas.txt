@@ -1,0 +1,94 @@
+Church of Avacyn
+    Lunarch Council
+        High Ranking Bishops & Cathars
+    Bishop
+        Leaders of spiritual & temporal affairs of the church.
+    Elder
+        Govern parishes that make up each province.
+        Mayor/Minor bishop
+    Priest
+        Attend to people at parish churches/village chapels/crossway alters.
+        All have magic abilities. - Most focus on protective blessings & church rituals.
+    Monk
+        Wandering Priests, not tied to specific location.
+        Player clerics most likely considered a monk.
+
+Angelic Flights
+    Bruna, Flight Alabaster - knowledge domain
+    Sigarda, Host of Herons - life domain
+    Gisela, Flight Goldnight - war domain
+    Flight Moonsilver - only set after Avacyn goes mad.
+
+Cathars
+    Come up with ranks.
+    Types - Gavony Riders, mausoleum guards, midnight duelist, moor chaplain, parish-blades, Quiver of Kessig
+
+Howlpacks
+    Many werewolves are solitary, but some form loose social groups in the wild.
+    Population of a howlpack waxes and wanes like the moon. Gaining/losing members as people enter/leave canid state
+        (werewolves get overcome by their 'wolf' essence - then transformation occurs)
+        Inivitably change at fool moon, but strong emotion/trauma can trigger transformation.
+        Werewolves have gaydar - those spared from rampages are often suspected of being werewolves themselves.
+    Can be tiny hunting parties of a few members or hordes of over a hundred beasts.
+    Typically led by single alphas (male or female) - must often defend their power by defeating challengers in combat
+    
+    Krallenhorde
+        Largest howlpack
+    Vildin
+        rampage
+    Mondronen
+        wounded fury
+    Leeraug
+        blood frenzy
+Vampires
+    All vampires decended from 12 ancient sires
+        Edgar Markov
+            Sought to preserve his life and his family's lives
+                Shilgengar - demon - revealed dark ritual involving drinking angel blood
+        4 major bloodlines
+            Markov
+            Voldaren
+            Falkenrath
+            Stromkirk
+    Annointing that persists/perpetuated by magic - not a curse or disease
+        Physical state - euphemistaclly called a "condition of the blood"
+    Appearance.
+        Eyes - Pools of gold/silver surrounded by black
+        Hair - black - can also be deep purple, dark magenta, burgundy, dark blue-green
+            Some vampires wear wigs for novelty or disquise
+        Skin - Pale and cool to the touch
+        Teeth - Canines slightly pronounced at all times. Extend significantly when they bite to feed.
+        Tend to have long slightly curved fingernails
+    Vampiric Glamer.
+    Vampire Vulnerabilities.
+        Living wood. (Or almost living wood)
+        Cannot cross running water that reflects the moon
+        holy water acts like acid
+        Silver-backed glass mirror/silver - reflection shows normal human form
+            as such avoid mirrors and silver
+    Unquenchable Thirst.
+        ~5 liter/month - without enough, will eventually crumble to dust
+
+Necro-Alchemists - geistmages - use giests as energy source for strange experiments/technological inventions
+    "Mage" whose magic comes from geist powered devices
+Skaberen - stitchers - create artificial forms of life
+    Commoners. Cultits. Mages. - True power comes from creations - Flesh golems
+        Armor Plating. Six Arms. Three Heads. Skaab Goliath. Winged Skaab.
+    Frankenstein.
+Ghoulcallers - necromancers - call forth dead (ghouls/unhallowed)
+    Zombies. Ghasts. Ghouls. Mummies. Wights.
+Liches - fuse ghoulcaller/necro-alchemist magics
+    One lich is known to reside in Nephalian town of Havengul.
+
+Demons - dark counterpart of angesl
+    Cannot be destroyed. Can only have essence scattered for a time. - New body in 99 days -> 99 years.
+    Make pacts to avoid the attention of angels.
+    Skirsdag Cult has influenced the Curch of Avacyn - has strong influence within Lunarch Council
+    Demon. Devil. Yugoloth.
+    Greatest Demons - (like demon princes in Out of the Abyss)
+        Griselbrand
+        Ormendahl
+        Withengar
+    Devils
+        Personal entourage/army of demons
+        Dretches. Imps. Lemures. Manes. Quasits. Spined Devils.
