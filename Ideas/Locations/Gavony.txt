@@ -1,0 +1,106 @@
+Largest human city, Thraben.
+    Home of the Cathedral of Avacyn
+Smaller towns radiate outward from Thraben
+
+Small copses of trees dot the landscape of rolling hills and heaths.
+
+More plagued by undead than other provinces
+
+Thraben, the High City
+    On massive mesa in middle of Lake of Herons
+    Long body of water that flows around the rock and over an enormous waterfall
+    Populated mostly by clergy, merchants, artisans
+    Standing militia, church pays to keep streets swept, gardens and grafs tended and riff-raff off the street.
+    Begging is strictly prohibitied
+    Street curfew enforced by the militia
+    Alms houses exist just outside the main walls
+        Church sponsers regular "caravans" to take the needy to sea ports to find employment more easily.
+    Eastern tip of rock just out over the waterfall itself
+        This is where the Cathedral of Avacyn stands
+    Outer wall, Merchant's wall, Child's Wall, Fang Wall, Bloodless Wall
+
+    Cathedral of Avacyn
+        Three wings form triangular garden (secret)
+        Chapel of Noble Peers
+            Opulent, gilded chapel reserved for high levels of clergy and titled members of society
+        Mivast Hall
+            Larger, less opulent hall - ordained fellows and lesser clergy
+        Common Cloisters
+            Covered corridors along edges of Midvast hall - commoners
+            Only certain holy days allow commoners into the Old Cathedral
+        Courtyard
+            Ornate garden with stands of fruit trees and gold-and-white flowers
+            Heart of garden, trees fall away - leaving view of curious object: the Helvault
+        Grounds are lush and fertile from continual spray of mist from falls
+
+    Helvault
+        Huge silver mass
+        Surface is rough and unrefined, thin veins of dark mortar branch across its surface
+
+River Kirch
+    Wide-fast flowing river - originates in the mountains of Stensia
+    Empties into Lake of Herons, with murky water, high ridges bordering the bank and depths of hundreds of feet
+
+Lake of Herons
+    Great sea serpents and other creatures are said to hide in the lakes depths
+    Stretches 20 miles before flowing over 2,000 foot waterfall - Kirch Falls
+
+Voice of the Moon
+    Moon controls tides (and path of rivers and other bodies of water)
+    Roar of Kirch Falls has different rhythms depending on season and volume of water coming from the high lands.
+
+Moonchanters
+    Sect of clergy sing prayers according the changing rhythm of Kirch Falls
+    Believe this singing puts them in better connection with the moon
+    Others believe one should commune with Avacyn, not the sybolic power of the moon.
+
+Seraphic Shrouds
+    Mist from Kirch Falls is collected in long banners of heavy, white cloth.
+    Water wrung from these banners is considered holy
+    Shrouds still have magic properties
+    Skaberen kill for shrouds, as they give extra stamina to their undead skaab creations.
+
+Gavony Parishes
+    5 parishes
+        Thraben
+        Nearheath
+            Videns
+            Wittal
+            Effalen
+        Moorland - largest (not densely populated)
+        Each parish populated by multiple priests, chapels, and small altars.
+    Nearheath
+        Several medium size towns. Just a few miles south of Thraben's walls.
+        Most towns have fortifications or walls in case of ghoul attack
+        Many outlying farms as well.
+        Videns
+            Vineyards and rolling hills with small castles with walled estates
+            River Kirch runs through this region
+
+            Hanweir
+                agricultural jewel of Gavony
+                largest open-air market
+                    livestock and wares from Kessig trappers
+                River Kirch runs through village
+
+        Wittal
+            Thickly forested area
+            Small in size
+            Ancient pines instead of small deciduous forests in neighboring parishes
+
+            Estwald
+                center for woodworking in Gavony
+                
+        Effalen
+            Rockiest area of Gavony
+            plagued by vampires
+    Moorland
+        desolate region
+        stories of spectral wolves and wandering spirits
+        few trees, ground covered in coarse grass, bracken, and violet heather
+        boulders and standing rocks
+        countryside seems to be covered in perpetual mist
+        rife with geists, many dangerous
+            travelers constantly at risk from geists as well as other things wandering the countryside.
+
+
