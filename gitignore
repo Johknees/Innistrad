@@ -1,4 +1,4 @@
 #PDFs
-*.pdf
+**/*.pdf
 
-/primer.pdf
+**/primer.pdf
