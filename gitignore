@@ -1,4 +1,4 @@
 #PDFs
-**/*.pdf
+Ideas/*.pdf
 
-**/primer.pdf
+!Ideas/primer.pdf
