@@ -12,47 +12,141 @@ I'm not familiar with every class/subclass, so it could still fit even if I don'
 Really, just avoid anything that deals directly with other planes.
 
 Barbarian
+	Hanweir Watchkeep
+	Rage Thrower
+	Zealous Conscripts
 	Path of the Ancestral Guardian
+		Geist honored monk
 	Path of the Zealot
-
+		Fervent Cathar
+		Selfless Cathar
+		Slayer of the Wicked
+		Elite Inquisitor
+		Elgaud Shieldmate
+	Path of the Storm
+		Lightning Mauler
 Bard
 	College of Valor
+		Elder of Laurels
+		Goldnight Commander
 	College of Lore
+		Village Bell-ringer
+		Civilized Scholar
+		Wakedancer
 	College of Swords
+		Hamlet Captain
 Cleric
-	Death Domain~
 	Grave Domain
+		Mausoleum Guard
+		Geist Trappers
 	Life Domain
+		Avacynian Priest
+		Cathedral Sanctifier
 	Light Domain
-	Order Domain?
+		Avacyn's Pilgrim
+		Cathedral Sanctifier
+		Diregraf Escort
+		Nearheath Pilgrim
 	War Domain
+		Fiend Hunter
+		Elgaud Inquisitor
+		Holy Justiciar
+	Storm Domain
+		Captain of the Mists
 Druid
 	Circle of the Land
+		Bitterheart Witch
+		Nightshade Peddler
+		Captain of the Mists
+		Somberwald Sage
 	Circle of the Shepherd
+		Gatstaf Shepherd
+		Champion of Lambholt
 Fighter
 	Arcane Archer
+		Daybreaker Ranger
 	Champion
+		Champion of the Parish
+		Slayer of the Wicked
+		Elite Inquisitor
+		Elgaud Shieldmate
+		Hanhweir Lancer
 	Battle Master
+		Hamlet Captain
+		Thraben Valiant
+		Goldnight Commander
 	Eldritch Knight
 	Samurai
+		Moorland Inquisitor
+		Loyal Cathar
+		Slayer of the Wicked
+		Elite Inquisitor
+		Somberwald Vigilante
 Monk
 	Way of Shadow
+		Invisible Stalker
 	Way of the Kensei
+		Midnight Duelist
+		Silverblade Paladin
 	Way of the Sun Soul
+		Midvast Protector
 Paladin
 	Any but Oath of the Ancients or Oath of the Crown
+		Hamlet Captain
+		Champion of the Parish
+		Mentor of the Meek
+		Gavony Ironwright
+		Thalia, Guardian of Thraben
+		Midvast Protector
+		Gryff Vanguard
+		Kruin Striker
+		Riders of Gavony
+		Silverblade Paladin
 Ranger
 	Hunter
+		Woodland Sleuth
+		Daybreaker Ranger
+		Huntmaster of the Fells
+		Farbog Explorer
+		Borderland Ranger
+		Timberland Guide
 	Monster Slayer
+		Fiend Hunter
+		Ulvenwald Tracker
 	Beast Master - (trained war dogs etc.)
 		If you choose this I'll try to provide opportunities for you to shine outside of combat (tracking, hunting, bonuses to perception etc.)
+		Thraben Purebloods
 Rogue
 	Any but mastermind/inquisitive
+		Midnight Duelist
+		Woodland Sleuth
+		Invisible Stalker
+		Kruin Outlaw
+		Kessig Cagebreakers
+		Beguiler of Wills
+		Borderland Ranger
+		Timberland Guide
+		Nephalia Smuggler
+		Tandem Lookout
 Sorcerer
 	Divine Soul
+		Rage Thrower
+		Lunar Mystic
 Warlock
-	The Fiend~
 	The Celestial
+		Elguad Inquisitor
+		Midvast Protector
 	The Undying
+		Mausoleum Guard
+		Thraben Heretic
+		Havengul Runebinder
 Wizard
 	Any
+		Delver of secrets
+		Bitterheart Witch
+		Rage Thrower
+		Laboratory Maniac
+		Snapcaster Mage
+		Wakedancer
+		Galvanic Alchemist
+		Trusted Forcemage
