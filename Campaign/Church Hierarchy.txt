@@ -1,0 +1,58 @@
+Avacyn
+    Focal point for worship
+    Believed source of all protective magic, control seasons, bring end to Hunter's Moon
+    Avacynians, Curch of Avacyn or Avacynian Church
+
+Avacyn's Host
+    Flight of Goldnight
+        Associated with Sun
+        Feast of Goldnight (sun visible for two whole days) - during Harvest Moon
+    Flight of Alabaster
+        Blessed Sleep
+            Associated with Hunter's Moon Season
+            Provide wards against desecration of dead humans (against harm in death)
+    Flight of Herons
+        Birth and Purity
+        Associated with New Moon season
+        Provide wards against harm in life
+
+Clearical Ranks
+    Lunarch
+        Head of church.
+        Elected by council of bishops.
+        Mikaeus - searching desperately for reason behind decline of church's power.
+    Bishop
+        Highest order of clergy
+        Reside in the Cathedral of Avacyn - Thraben Council, governing body of the church
+    Mayor
+        Sometimes called elder
+        Leader of a parish
+        Mix of administrative and religious duties
+        Day-to-day admin left to priests
+    Priests
+        Oversee the church
+        Attend to parishioners' needs
+        All cast spells, with varying degrees of skill
+    Monk
+        Wandering priests
+        Lowest order of clergy
+        Some sanctioned by the church (seek out people living alone in wilderness)
+        Many are fanatics; no longer formally part of church hierarchy
+            Said the wrong thing or enforced wrong dogma - cast out
+
+Cathars
+    Lunar-smiths
+        Clergy trained in making blessed weapons
+        Blessings must be said at specific times during forging process
+            Magically effective against specific type of fow
+        Silversmiths - revered - silver is difficult to imbue with magic
+    Inquisitors
+        Hired out to help parish with particular problem with vampires or devils
+    Parish-Blades
+        Stationed in parishes
+        Escorts along roads or protect cathedral in Thraben
+        Ordained military force
+    Runechanter
+        Clergy trained in engraving blessings on material objects (including weapons)
+        Swords, axes, even children's toys have protective words/runes
+        Best runechanters write v. small - fit more blessings on object

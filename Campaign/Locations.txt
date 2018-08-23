@@ -1,0 +1,112 @@
+Provinces
+    Parishes
+    Towns
+    Areas of Interest
+
+Gavony
+    Thraben
+        Thraben, the High City
+    Nearheath
+        Several towns. Just a few miles south of Thraben's walls.
+        Videns
+            Vineyards/rolling hills w/small castles with walled estates.
+            River Kirch
+            Hanweir
+                Agricultural jewel of Gavony
+                Largest open-air market
+                    livestock & wares from Kessig trappers
+                River Kirch
+        Wittal
+            Thickly forested area
+            Small in size
+            Ancient pines instead of small deciduous forests
+            Estwald
+                center for woodworking in Gavony
+        Effalen
+            Rockiest area of Gavony
+            plagued by vampires
+    Moorland
+        Desolate region
+        Spectral wolves and wandering spirits
+        Few trees, ground covered in coarse grass, bracken, and violet heather.
+        Boulders and standing rocks
+        Countryside seemingly covered in perpetual mist
+        Rife with geists, many dangerous
+    
+Kessig
+    Ulvenwald, the Misty Wood
+        Aspen, birch, and mapel border edges of Kessig province.
+        Supernaturally dense, filled with dark, sinuous trunks and a constant, hanging mist.
+        Forest floor is papered in damp leaves.
+    Lambholt, the Threatened Pasture
+    Hollowhenge, the Lost Capital
+    Devils' Breach
+
+Nephalia
+    Many rivers, deltas, marshes, and lakes
+    Silver Beach
+        rich granular silver
+    Havengul
+        Silburlind River
+        craftworkers, shipbuilders, smiths, and traders.
+        Strong church presence, tolerated because trade to/from Thraben
+        Elgaud Grounds
+            New cathars trained, sent out in groups of 2/3 to establish outposts in neighboring towns
+            Known as Arms of Avacyn, townfolk are wary of these "Arms"
+        Thriving corpse trade
+    Ludevic of Ulm
+        Alchemist - lich?
+    Drunau
+        Stromkirk vampires, Runo
+        pampered bondage for those with delicious blood, precious livestock
+        Stromkirk manors
+        The Fauchard
+            Vampire hunters, secretive
+            tolerated by Runo, they clean-up unwanted vampires, still destroyed when identity found out
+        Selhoff
+            foggy, quiet port
+            Nebelgast, spirit-mist, most active
+            Morkrut Swamp
+            attracts skaberen and alchemists
+            elite of Selhoff dwell in towers and spires "spires of Selhoff"
+     River Ospid & Morkrut
+           Bay of Vustrow
+           easily lost in the mist
+           dumping ground for murder victims
+    Jenrik's Tower
+        Wizards tower
+        Demon, predicting future?
+        Feared by Stromkirk & Warded against werewolves
+
+Stensia
+    Geier Reach
+        Z-shaped mountain range
+    Two major valleys
+        Outer Valley
+            8 pieces - 3 are noteworthy
+                Shadowgrange
+                    human village
+                Maurer Estate
+                    abandoned
+                Lammas
+                    human rancher community
+                Few outsiders ever interact/see Shadowgrange/Lammas
+    Ziel Pass
+        only way to reach sea from Stensia's inland valleys
+    Hofsaddel & Needle's Eye
+        connect inland valleys to outland ones
+        Hofsaddel
+            wide, well-trodden pass
+            safe from vampires - need to let humans feel safe
+        Needle's Eye
+            narrow, treacherous, deadly
+                geists
+                near Ashmouth & devils
+            taken only in emergencies
+    Getander Pass
+        to/from Kessig
+        long, zig-zagging route 
+        watched by rapacious Falkenrath vampires
+    Kruin Pass
+        long, many vertical changes
+        watched by well-fed Markov vampires
