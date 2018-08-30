@@ -1,0 +1,46 @@
+Have Skills, Cost, and loyalty
+
+Roll+Loyalty if order is dangerous,degrading,or crazy
+10+ stand firm/carry out order
+7-9: do it for now, but have serious demands later. Meet them or hireling quits on the worst terms
+
+When entering employ note: Name & Cost & any skills
+Stats based on where found
+Village: 2-5
+Town: 4-6
+Keep: 5-8
+City 6-10
+Stat number split between loyalty, main skill & 0+ secondary skills
+Loyalty above 2 or below 0 is unusual
+
+kindness/bonus -> +loyalty
+disrespect -> -loyalty
+unpaid -> -loyalty
+
+loyalty permanently goes up or down when achieving som great deed or great failure
+
+Costs can include
+thrill of Victory
+Money
+Uncovered Knowledge
+Fame & glory
+Debauchery
+Good Accomplished
+
+Skills
+Adept - bonus to spells cast
+Burglar - detect trap/disarm trap/pick locks
+Minstrel - better prices/introductions
+Priest - extra healing/extra hit dice
+Protector - bonus to AC, bonus lost until protector is healed
+Tracker - can find/follow tracks for a time
+Warrior - bonus to attacks or damage
+
+Encumbrance
+When you make a move while carrying weight you may be encumbered. If your weight carried is:
+Equal to or less than your Load, you suffer no penalty
+Less than or equal to your Load+2, you take -1 ongoing until you lighten your burden
+Greater than your Load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail
+
+5 * str score
+15* str score in lbs
